@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <h1><%= title %></h1>
+    <% application.forEach(function(app) { %>
+      <p>
+        <%= app['_id'] %>
+        <%= app['app_name'] %>
+        <%= app['app_categorie'] %>
+        <%= app['app_published'] %>
+        <%= app['app_current_version'] %>
+        <%= app['app_update'] %>
+        <%= app['app_require_android'] %></p>
+      <% app.app_reviews.forEach(function(rw) { %>
+        <li><%= rw['rw_username'] %></li>
+        <li><%= rw['rw_avaliation'] %></li>
+        <li><%= rw['rw_description'] %></li>
+      <% }) %>
+    <% }) %>
+  </body>
+</html>

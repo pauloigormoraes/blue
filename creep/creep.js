@@ -1,17 +1,18 @@
-const rp = require('request-promise');
-const ch = require('cheerio');
+const promise = require('request-promise');
+const cheerio = require('cheerio');
 
 const content = {
-  uri: 'https://www.pauloigormoraes.com',
+  uri: 'https://www.allexlima.com',
   transform: function (body) {
-    return ch.load(body);
+    return cheerio.load(body);
   }
 };
 
-rp(content)
+promise(content)
   .then(($) => {
     console.log('---# CONTENT #---');
-    console.log($('.person-info').text());
+    console.log($('.text-justify').text());
+    // console.log($('.person-info').text());
   })
   .catch((err) => {
     console.log('---# ERROR #---');
