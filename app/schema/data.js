@@ -4,7 +4,7 @@ useMongoClient: true });
 
   var application = new mongoose.Schema({
     app_name: String,
-    app_categorie: String,
+    app_category: String,
     app_published: Date,
     app_installs: Number,
     app_current_version: Number,

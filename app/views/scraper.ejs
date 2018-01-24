@@ -46,55 +46,12 @@
         </nav>
       </div>
 
-      <%
-
-        function version(version)
-        {
-          if (version === 1.5) value = 'Caupcake';
-            else if (version === 1.6) value = 'Donut';
-              else if ((version === 2.0) || (version === 2.1)) value = 'Eclair';
-                else if (version === 2.2) value = 'Froyo';
-                  else if (version === 2.3) value = 'Gingerbread';
-                    else if ((version === 3.0) || (version === 3.1) || (version === 3.2)) value = 'Honeycomb';
-                      else if (version === 4.0) value = 'Ice Cream Sandwich';
-                        else if ((version === 4.0) || (version === 4.1) || (version === 4.2)) value = 'Jelly Bean';
-                          else if (version === 4.4) value = 'KitKat';
-                            else if ((version === 5.0) || (version === 5.1)) value = 'Lollipop';
-                              else if (version === 6.0) value = 'Marshmallow';
-                               else value = "aff";
-          return value;
-        };
-
-      %>
-
         <main class="mdl-layout__content">
 
           <div class="page-content">
             <div class="pms-container mdl-grid">
 
               <div style="position: center !important" class="mdl-cell mdl-cell--12-col mdl-cell--hide-tablet mdl-cell--hide-phone"></div>
-
-              <% datas.forEach(function(datas) { %>
-                <ul>
-                  <li><b>App name: </b><%= datas['app_name'] %></li>
-                  <li><b>Categorie: </b><%= datas['app_category'] %></li>
-                  <li><b>App version: </b><%= datas['app_current_version'] %></li>
-                  <li><b>Published in: </b><%= datas['app_published'] %></li>
-                  <li><b>Downloads: </b><%= datas['app_installs'] %></li>
-                  <li><b>Last update: </b><%= datas['app_update'] %></li>
-                  <li><b>Android version: </b><%= version(datas['app_require_android']) %></li>
-                  <li><b>About reviews: </b></li>
-                  <ul>
-                    <% for (var r = 0; r < datas['app_reviews'].length; r++) { %>
-                      <li><b>Author name: </b><%= datas['app_reviews'][r].rw_username %></li>
-                      <li><b>Date : </b><%= datas['app_reviews'][r].rw_date %></li>
-                      <li><b>Rating : </b><%= datas['app_reviews'][r].rw_avaliation %></li>
-                      <li><b>Review : </b><%= datas['app_reviews'][r].rw_description %></li>
-                    <% } %>
-                  </ul>
-                </ul>
-
-              <% }) %>
 
             </div>
 

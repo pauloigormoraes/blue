@@ -18,3 +18,23 @@ promise(content)
     console.log('---# ERROR #---');
     console.log(err);
   });
+
+
+
+
+
+
+
+
+
+
+
+  var app = new Application({
+           app_name: title
+         });
+  app.save(function (trash) {
+     if (trash) {
+         console.log("ERRO " + trash.message);
+         return trash; }
+     else { res.send("Check your console!"); }
+  });

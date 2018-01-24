@@ -6,7 +6,8 @@ let application = connect.Mongoose.model('application', connect.modelSchema, 'ap
 router.get('/', function(req, res) {
   application.find({}).lean().exec(
     function (err, results) {
-      res.render('index', { title: 'Listing applications', application : results });
+      console.log(results);
+      res.render('index', { datas: results });
     });
 });
 
