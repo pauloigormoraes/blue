@@ -15,14 +15,21 @@ router.get('/index', function(req, res) {
 
 router.get('/', function(req, res) {
 
+    // uri = 'https://play.google.com/store/apps/details?id=com.legacygames.crayolacds';
     uri = 'https://play.google.com/store/apps/details?id=com.wonder';
-
+    
     function format(rating) {
       var arr = rating.split(" ");
        for (var r = 0; r < arr.length; r++) {
          scop = arr[0];
        }
       return parseInt(scop);
+    };
+
+    function convert(number) {
+      var br = number.split(",");
+      for (var r = 0; r < br.length; r++) value = br[0] + "." + br[1];
+      return parseFloat(value);
     }
 
     request(uri, function(error, result, html) {
@@ -30,7 +37,7 @@ router.get('/', function(req, res) {
         console.log("Check error: " + error.message);
       } else {
         var $ = cheerio.load(html);
-        var name, category, author, updated, current_version, require_android, reviews_total, score;
+        var name, category, author, updated, current_version, require_android, reviews_total, score, var_score;
         $('.id-app-title').filter(function() { name = $(this).text(); });
         $('.document-subtitle.category').filter(function() { category = $(this).children().text(); });
         $('.document-subtitle.primary').filter(function() { author = $(this).children().text(); });
@@ -38,9 +45,8 @@ router.get('/', function(req, res) {
         var c_version = $("*[itemprop = 'softwareVersion']").get(0); current_version = $(c_version).text().trim();
         var r_android = $("*[itemprop = 'operatingSystems']").get(0); require_android = $(r_android).text().trim();
         $('.reviews-stats, .reviews-num').filter(function() { reviews_total = $(this).text(); });
-        $('.score-container, .score').filter(function() { score = $(this).text(); });
-        console.log(score);
-        console.log(reviews_total);
+        $('.score-container, .score').filter(function() { var_score = $(this).text(); }); score = convert(var_score);
+
       }
       var application = new Application({
         app_title: name,

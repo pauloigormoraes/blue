@@ -95,6 +95,7 @@
                   <li><b>REVIEWS ---------------------------------</b></li>
                   <ul>
                     <% for (var r = 0; r < datas['app_reviews'].length; r++) { %>
+                      <li><b>## </b><%= r+1 %></li>
                       <li><b>Author name: </b><%= datas['app_reviews'][r].rw_username %></li>
                       <li><b>Date: </b><%= datas['app_reviews'][r].rw_date %></li>
                       <li><b>Rating: </b><%= datas['app_reviews'][r].rw_avaliation %></li>
