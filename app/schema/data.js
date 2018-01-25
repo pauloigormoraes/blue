@@ -3,13 +3,14 @@ mongoose.connect('mongodb://localhost:27017/__db', {
 useMongoClient: true });
 
   var application = new mongoose.Schema({
-    app_name: String,
+    app_title: String,
     app_category: String,
-    app_published: Date,
-    app_installs: Number,
-    app_current_version: Number,
-    app_update: Date,
-    app_require_android: Number,
+    app_author: String,
+    app_updated: String,
+    app_current_version: String,
+    app_require_android: String,
+    app_reviews_total: Number,
+    app_score: String,
     app_reviews: [{
       rw_username: String,
       rw_date: Date,

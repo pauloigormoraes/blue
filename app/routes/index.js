@@ -6,7 +6,6 @@ let application = connect.Mongoose.model('application', connect.modelSchema, 'ap
 router.get('/', function(req, res) {
   application.find({}).lean().exec(
     function (err, results) {
-      console.log(results);
       res.render('index', { datas: results });
     });
 });

@@ -1,31 +1,56 @@
 var express = require('express');
 var router = express.Router();
 var request = require('request');
-const cheerio = require('cheerio');
+var cheerio = require('cheerio');
 var connect = require("../schema/data");
 var Application = connect.Mongoose.model('application', connect.modelSchema, 'application');
 
+router.get('/index', function(req, res) {
+  application.find({}).lean().exec(
+    function (err, results) {
+      console.log(results);
+      res.render('index', { datas: results });
+    });
+});
+
 router.get('/', function(req, res) {
 
-    url = 'https://play.google.com/store/apps/details?id=com.wonder';
+    uri = 'https://play.google.com/store/apps/details?id=com.wonder';
 
-    request(url, function(error, result, body) {
+    function format(rating) {
+      var arr = rating.split(" ");
+       for (var r = 0; r < arr.length; r++) {
+         scop = arr[0];
+       }
+      return parseInt(scop);
+    }
+
+    request(uri, function(error, result, html) {
       if(error) {
-        console.log("Check error: " + error.message());
+        console.log("Check error: " + error.message);
       } else {
-        var $ = cheerio.load(body);
-        var app_name, app_category;
-        $('.id-app-title').filter(function() { app_name = $(this).text(); });
-        $('.author').filter(function() { app_category = $(this).children().text(); });
+        var $ = cheerio.load(html);
+        var name, category, author, updated, current_version, require_android, reviews_total, score;
+        $('.id-app-title').filter(function() { name = $(this).text(); });
+        $('.document-subtitle.category').filter(function() { category = $(this).children().text(); });
+        $('.document-subtitle.primary').filter(function() { author = $(this).children().text(); });
+        var date = $("*[itemprop = 'datePublished']").get(0); updated = $(date).text().trim();
+        var c_version = $("*[itemprop = 'softwareVersion']").get(0); current_version = $(c_version).text().trim();
+        var r_android = $("*[itemprop = 'operatingSystems']").get(0); require_android = $(r_android).text().trim();
+        $('.reviews-stats, .reviews-num').filter(function() { reviews_total = $(this).text(); });
+        $('.score-container, .score').filter(function() { score = $(this).text(); });
+        console.log(score);
+        console.log(reviews_total);
       }
-      var test = new Application({
-        app_name: app_name,
-        app_category: app_category,
-        app_published: new Date(),
-        app_installs: 00,
-        app_current_version: 00,
-        app_update: new Date(),
-        app_require_android: 00,
+      var application = new Application({
+        app_title: name,
+        app_category: category,
+        app_author: author,
+        app_updated: updated,
+        app_current_version: current_version,
+        app_require_android: require_android,
+        app_reviews_total: reviews_total,
+        app_score: score,
         app_reviews: [{
           rw_username: "",
           rw_date: new Date(),
@@ -33,11 +58,12 @@ router.get('/', function(req, res) {
           rw_description: ""
         }]
       });
-      test.save(function (trash) {
-         if (trash) {
-             console.log("ERRO " + trash.message);
-             return trash; }
-         else { res.send("Check your console!"); }
+
+      application.save(function (error) {
+         if (error) {
+             console.log("ERRO " + error.message);
+             return error; }
+         else { res.redirect("/"); }
       });
 
     });

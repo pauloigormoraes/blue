@@ -13,6 +13,14 @@
     <link rel="stylesheet" href="../mdl/material.min.css">
     <script src="../mdl/material.min.js"></script>
 
+    <!-- function format(rating) {
+      var arr = rating.split(" ");
+       for (var r = 0; r < arr.length; r++) {
+         scop = arr[0];
+       }
+      return parseInt(scop);
+    } -->
+
   </head>
   <body>
 
@@ -21,17 +29,17 @@
       <header class="mdl-layout__header">
         <div class="mdl-layout__header-row">
           <!-- Title -->
-          <span class="mdl-layout-title">Robot Lizard</span>
+          <span class="mdl-layout-title"><b>Lizard creep</b></span>
           <!-- Add spacer, to align navigation to the right -->
           <div class="mdl-layout-spacer"></div>
           <!-- Navigation. We hide it in small screens. -->
           <nav class="mdl-navigation mdl-layout--large-screen-only">
-            <a class="mdl-navigation__link" href="">One</a>
-            <a class="mdl-navigation__link" href="">Two</a>
+            <a class="mdl-navigation__link" href="http://localhost:2300/scraper">SCRAPER</a>
+            <a class="mdl-navigation__link" href="http://localhost:2300/index">INDEX</a>
           </nav>
         </div>
       </header>
-      <div class="mdl-layout__drawer">
+      <!-- <div class="mdl-layout__drawer">
         <span class="mdl-layout-title">Robot Lizard</span>
         <nav class="mdl-navigation">
           <a class="mdl-navigation__link" href="#">
@@ -44,7 +52,7 @@
           <a class="mdl-navigation__link" href="#">
             <i class="mdl-color-text--grey-900 material-icons" role="presentation">help</i>Help</a>
         </nav>
-      </div>
+      </div> -->
 
       <%
 
@@ -61,7 +69,7 @@
                           else if (version === 4.4) value = 'KitKat';
                             else if ((version === 5.0) || (version === 5.1)) value = 'Lollipop';
                               else if (version === 6.0) value = 'Marshmallow';
-                               else value = "aff";
+                               else value = "Sem especificação";
           return value;
         };
 
@@ -76,20 +84,21 @@
 
               <% datas.forEach(function(datas) { %>
                 <ul>
-                  <li><b>App name: </b><%= datas['app_name'] %></li>
+                  <li><b>App name: </b><%= datas['app_title'] %></li>
                   <li><b>Categorie: </b><%= datas['app_category'] %></li>
+                  <li><b>Author: </b><%= datas['app_author'] %></li>
+                  <li><b>Last update: </b><%= datas['app_updated'] %></li>
                   <li><b>App version: </b><%= datas['app_current_version'] %></li>
-                  <li><b>Published in: </b><%= datas['app_published'] %></li>
-                  <li><b>Downloads: </b><%= datas['app_installs'] %></li>
-                  <li><b>Last update: </b><%= datas['app_update'] %></li>
-                  <li><b>Android version: </b><%= version(datas['app_require_android']) %></li>
-                  <li><b>About reviews: </b></li>
+                  <li><b>Android version: </b><%= datas['app_require_android'] %></li>
+                  <li><b>Total reviews: </b><%= datas['app_reviews_total'] %></li>
+                  <li><b>Total reviews: </b><%= datas['app_score'] %></li>
+                  <li><b>REVIEWS ---------------------------------</b></li>
                   <ul>
                     <% for (var r = 0; r < datas['app_reviews'].length; r++) { %>
                       <li><b>Author name: </b><%= datas['app_reviews'][r].rw_username %></li>
-                      <li><b>Date : </b><%= datas['app_reviews'][r].rw_date %></li>
-                      <li><b>Rating : </b><%= datas['app_reviews'][r].rw_avaliation %></li>
-                      <li><b>Review : </b><%= datas['app_reviews'][r].rw_description %></li>
+                      <li><b>Date: </b><%= datas['app_reviews'][r].rw_date %></li>
+                      <li><b>Rating: </b><%= datas['app_reviews'][r].rw_avaliation %></li>
+                      <li><b>Review: </b><%= datas['app_reviews'][r].rw_description %></li>
                     <% } %>
                   </ul>
                 </ul>
