@@ -17,7 +17,7 @@ router.get('/', function(req, res) {
 
     // uri = 'https://play.google.com/store/apps/details?id=com.legacygames.crayolacds';
     uri = 'https://play.google.com/store/apps/details?id=com.wonder';
-    
+
     function format(rating) {
       var arr = rating.split(" ");
        for (var r = 0; r < arr.length; r++) {
@@ -37,7 +37,7 @@ router.get('/', function(req, res) {
         console.log("Check error: " + error.message);
       } else {
         var $ = cheerio.load(html);
-        var name, category, author, updated, current_version, require_android, reviews_total, score, var_score;
+        var name, category, author, updated, current_version, require_android, reviews_total, score, var_score, user, descript;
         $('.id-app-title').filter(function() { name = $(this).text(); });
         $('.document-subtitle.category').filter(function() { category = $(this).children().text(); });
         $('.document-subtitle.primary').filter(function() { author = $(this).children().text(); });
@@ -46,6 +46,8 @@ router.get('/', function(req, res) {
         var r_android = $("*[itemprop = 'operatingSystems']").get(0); require_android = $(r_android).text().trim();
         $('.reviews-stats, .reviews-num').filter(function() { reviews_total = $(this).text(); });
         $('.score-container, .score').filter(function() { var_score = $(this).text(); }); score = convert(var_score);
+        $('.featured-review .author-name').filter(function() { user = $(this).text(); });
+        $('.featured-review span.review-text').filter(function() { descript = $(this).children().text(); });
 
       }
       var application = new Application({
@@ -58,10 +60,10 @@ router.get('/', function(req, res) {
         app_reviews_total: reviews_total,
         app_score: score,
         app_reviews: [{
-          rw_username: "",
+          rw_username: user,
           rw_date: new Date(),
           rw_avaliation: 00,
-          rw_description: ""
+          rw_description: descript
         }]
       });
 
@@ -73,9 +75,6 @@ router.get('/', function(req, res) {
       });
 
     });
-
-
-
 
 });
 
