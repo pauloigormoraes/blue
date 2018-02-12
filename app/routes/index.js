@@ -14,6 +14,14 @@ router.get('/index/category/education', function(req, res) {
     res.render('education', );
 });
 
+router.get('/index/category/communication', function(req, res) {
+    res.render('communication', );
+});
+
+router.get('/index/category/business', function(req, res) {
+    res.render('business', );
+});
+
 // router.get('/main', function(req, res) {
 //   application.find({}).lean().exec(
 //     function (err, results) {
