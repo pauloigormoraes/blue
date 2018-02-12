@@ -1,0 +1,16 @@
+Vou coletar 6 aplicativos de finanças, sendo:
+
+2 aplicativos com score de 3.6;
+  a) https://play.google.com/store/apps/details?id=br.com.martinlabs.contabilidade.android
+  b) https://play.google.com/store/apps/details?id=br.com.bancobmg.invest
+
+2 aplicativos com 3.7 estrelas;
+  a) https://play.google.com/store/apps/details?id=com.controleFinanceiro
+  b) https://play.google.com/store/apps/details?id=br.com.banrisul
+
+2 aplicativos com 3.8 estrelas;
+  a) https://play.google.com/store/apps/details?id=com.moneywiz_2.androidphone_free
+  b) https://play.google.com/store/apps/details?id=br.com.portoseguro.cartoes
+
+  - Todos com no mínimo 10k downloads;
+  - Todos gratuitos;

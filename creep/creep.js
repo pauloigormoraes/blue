@@ -1,9 +1,9 @@
 var gplay = require('google-play-scraper');
 // gplay.app({appId: 'com.memorado.brain.games'});
-// gplay.search({term: "educação", num: 3, lang: "pt", country: "br"}).then(console.log);
+// gplay.search({term: "jogos educacional", num: 7, score: 3, lang: "pt", country: "br"}).then(console.log);
 
 gplay.reviews({
-  appId: 'co.brainly',
+  appId: 'com.ns.socialbook',
   lang: 'pt',
   page: 0
 }).then(console.log, console.log);
