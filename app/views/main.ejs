@@ -8,11 +8,12 @@
     <meta name="author" content="">
     <link rel="icon" href="../../../../favicon.ico">
 
-    <title>Lizard-nn</title>
+    <title>Lise</title>
 
     <!-- Bootstrap core CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.5.2/animate.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 
   </head>
 
@@ -20,23 +21,23 @@
 
     <header>
       <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
-        <a class="navbar-brand" href="#">LIZARD</a>
+        <a class="navbar-brand" href="#">Project LISE</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
           <ul class="navbar-nav mr-auto">
-            <li class="nav-item active">
+            <!-- <li class="nav-item active">
               <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+            </li> -->
+            <li class="nav-item">
+              <a class="nav-link" href="#beneficios" onclick="addEffect('beneficios')">Benefícios</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#beneficios">Benefícios</a>
+              <a class="nav-link" href="#atualizar" onclick="addEffect('atualizar')">Como atualizar?</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Como atualizar?</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Visualizar Dados</a>
+              <a class="nav-link" href="#visualizar" onclick="addEffect('visualizar')">Visualizar Dados</a>
             </li>
           </ul>
 
@@ -114,7 +115,7 @@
 
       </section>
 
-      <section class="container" style="margin-bottom: 3%">
+      <section class="container" style="margin-bottom: 3%" id="atualizar">
 
         <h3>COMO ATUALIZAR?</h3>
         <hr style="padding: 0% 2% 2% 2%"class="featurette-divider">
@@ -161,7 +162,7 @@
 
       </section>
 
-      <section class="container" style="margin-bottom: 3%">
+      <section class="container atu" style="margin-bottom: 3%" id="visualizar">
 
         <h3>VISUALIZAR DADOS</h3>
         <hr style="padding: 0% 2% 2% 2%"class="featurette-divider">
@@ -174,7 +175,7 @@
               <h5 class="card-title">Educação</h5>
               <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                 <p>
-                  <a href="http://localhost:2300/view" class="btn btn-info my-2">clique</a>
+                  <a href="http://localhost:2300/index/category/education" class="btn btn-info my-2">clique</a>
                 </p>
             </div>
           </div>
@@ -214,7 +215,13 @@
 
     </main>
 
-
+    <script>
+      function addEffect(value) {
+        if (value == 'beneficios') $('#beneficios').addClass('animated bounceIn');
+          else if (value == 'atualizar') $('#atualizar').addClass('animated bounceIn');
+            else if (value == 'visualizar') $('#visualizar').addClass('animated bounceIn');
+      }
+    </script>
 
   </body>
 
