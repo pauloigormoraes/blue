@@ -14,26 +14,16 @@ router.get('/index/category/education', function(req, res) {
     res.render('education', );
 });
 
-router.get('/index/category/communication', function(req, res) {
-    res.render('communication', );
+router.get('/index/category/network', function(req, res) {
+    res.render('social', );
 });
 
-router.get('/index/category/business', function(req, res) {
-    res.render('business', );
+router.get('/index/category/finance', function(req, res) {
+    res.render('finance', );
 });
 
-// router.get('/main', function(req, res) {
-//   application.find({}).lean().exec(
-//     function (err, results) {
-//       res.render('main', { datas: results });
-//     });
-// });
-//
-// router.get('/view', function(req, res) {
-//   application.find({}).lean().exec(
-//     function (err, results) {
-//       res.render('view-data', { datas: results });
-//     });
-// });
+router.get('/teste', function(req, res) {
+    res.render('error', );
+});
 
 module.exports = router;
