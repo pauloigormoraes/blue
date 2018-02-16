@@ -1,5 +1,7 @@
+var csv = require('csv-write-stream');
 var fs = require('fs');
-var r, len, vtr = [];
+var newarr = [];
+
 var arr =
 [
   // ********************************** grindrapp.android *********************************** //
@@ -2087,17 +2089,16 @@ var arr =
 
 ];
 
-for (r = 0, len = arr.length; r < len; r++) {
-  vtr.push(arr[r].text);
-}
+for(var r = 0; r < arr.length; r++)
+  newarr.push(arr[r].text);
 
-console.log(arr.length);
-
-fs.writeFile(
-  '/home/paulomoraes/Projects/lise/creep/data/social.csv',
-  vtr,
-    { enconding: 'utf-8',
-      flag: 'a'
-    }, function (err) {
-          if (err) throw err; console.log('SUCCESS!');
-});
+var writing = csv({
+  separator: ',',
+  newline: '\n',
+  headers: ['description', 'weight'],
+  sendHeaders: true
+})
+writing.pipe(fs.createWriteStream('/home/paulomoraes/Projects/lise/creep/data/social.csv'))
+for(var i = 0; i < newarr.length; i++)
+  writing.write([newarr[i], 'null'])
+writing.end()
