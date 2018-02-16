@@ -20,7 +20,7 @@ def rmStopWord(text):
 
     for wd in words:
         ntoken = regex.sub(u'', wd)
-        if not ntoken ==u'':
+        if not ntoken == u'':
             vtr.append(ntoken)
 
     swords = nltk.corpus.stopwords.words('portuguese')
@@ -38,7 +38,10 @@ def rmStopWord(text):
 
     return tprepared
 
-for row in file:
-    docw = rmStopWord(unicode(row[0]))
-    rnews.append(docw)
-    print(docw)
+docw = rmStopWord(unicode("uma um umas uns dois tres a o as os aos e eu ele voce eles nos ruim bom"))
+print(docw)
+
+# for row in file:
+#     docw = rmStopWord(unicode(row[0]))
+#     rnews.append(docw)
+#     print(docw)
