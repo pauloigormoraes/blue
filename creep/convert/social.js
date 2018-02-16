@@ -2092,13 +2092,14 @@ var arr =
 for(var r = 0; r < arr.length; r++)
   newarr.push(arr[r].text);
 
-var writing = csv({
-  separator: ',',
-  newline: '\n',
-  headers: ['description', 'weight'],
-  sendHeaders: true
-})
-writing.pipe(fs.createWriteStream('/home/paulomoraes/Projects/lise/creep/data/social.csv'))
+var writing =
+  csv({
+    separator: ',',
+    newline: '\n',
+    headers: ['description', 'weight'],
+    sendHeaders: true
+  })
+writing.pipe(fs.createWriteStream('/home/paulomoraes/Projects/lise/creep/data/organized/social.csv'))
 for(var i = 0; i < newarr.length; i++)
   writing.write([newarr[i], 'null'])
 writing.end()
