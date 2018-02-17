@@ -1,4 +1,4 @@
-Vou coletar 6 aplicativos de finanças, sendo:
+******* FINANCEIRO ********
 
 2 aplicativos com score de 3.6;
   a) https://play.google.com/store/apps/details?id=br.com.martinlabs.contabilidade.android

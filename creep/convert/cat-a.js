@@ -2331,10 +2331,12 @@ var writing =
   csv({
     separator: ',',
     newline: '\n',
-    headers: ['description', 'weight'],
+    headers: ['description'],
     sendHeaders: true
   })
-writing.pipe(fs.createWriteStream('/home/paulomoraes/Projects/lise/creep/data/organized/education-game.csv'))
+writing.pipe(fs.createWriteStream('/home/paulomoraes/Projects/lise/creep/data/organized/cat-a.csv'))
 for(var i = 0; i < newarr.length; i++)
-writing.write([newarr[i], 'null'])
+writing.write([newarr[i]])
 writing.end()
+
+console.log('... Done!');
