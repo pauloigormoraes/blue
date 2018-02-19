@@ -3,12 +3,17 @@ import re as rexpression
 from nltk.corpus import stopwords
 from nltk.stem import rslp
 # nltk.download('stopwords')
+from wordcloud import WordCloud
+import matplotlib.pyplot as plt
+import tempfile
 from string import punctuation
 import unicodedata
 import sys
 
 reload(sys)
 sys.setdefaultencoding("utf-8")
+
+fp = tempfile.TemporaryFile(mode='w+t')
 
 a__ifile = csv.reader(open('/home/paulomoraes/Projects/lise/creep/data/organized/cat-a.csv', 'r'))
 a__ofile = open('/home/paulomoraes/Projects/lise/creep/data/prepared/cat-a.csv', 'w')
@@ -76,5 +81,15 @@ for row in c__ifile:
     docw = stemming(unicode(docw))
     c__ofile.write(docw)
     c__ofile.write('\n')
+
+# CÓDIGO PARA GERAR UMA WORDCLOUD -> palavras que mais se repetem na base de dados
+# fp.writelines(docw)
+# fp.seek(0)
+# data = fp.read()
+# wordcloud = WordCloud().generate(data)
+# plt.imshow(wordcloud, interpolation='bilinear')
+# plt.axis('off')
+# plt.show()
+
 
 print('********* PREPARED STOPWORDS *********')
