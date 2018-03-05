@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+    <head>
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+      <meta name="description" content="Website de apresentação do projeto de agrupamento de reviws do Google Play">
+      <meta name="author" content="Paulo Igor Moraes">
+      <link rel="icon" href="images/favicon.ico">
+      <title>blue</title>
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/animate.css@3.5.2/animate.min.css">
+      <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+      <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+      <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    </head>
+
+    <body>
+      <header>
+        <nav style="background-color: #1976D2 !important" class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+          <!-- <a class="navbar-brand" >LISE</a> -->
+          <img src="images/circuit.png" href="#" width="30" height="30">
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div style="margin-left: 5%" class="collapse navbar-collapse " id="navbarCollapse">
+            <ul class="navbar-nav mr-auto ">
+              <li class="nav-item active">
+               <a class="nav-link" href="#"><b>HOME </b> <span class="sr-only">(current)</span></a>
+             </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#beneficios" onclick="addEffect('beneficios')"><b>Benefícios</b></a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#visualizar" onclick="addEffect('visualizar')"><b>Visualizar Dados</b></a>
+              </li>
+            </ul>
+          </div>
+        </nav>
+      </header>
+
+      <main role="main">
+        <br> <br>
+
+        <div style="margin-bottom: 4%; background-color: #E3F2FD !important" class="p-3 p-md-5 m-md-3 text-center bg-light">
+          <div class="col-md-10 p-lg-4 mx-auto">
+            <h1 class="display-5" style="color: #0D47A1"><b>O QUE NÃO FAZER AO DESENVOLVER</b></h1>
+            <p style="color: #0D47A1" class="lead font-weight-normal">
+              Clique no botão a baixo e descubra o que seus futuros clientes poderão pensar sobre usa aplicação
+            </p>
+            <a class="btn btn btn-primary" data-toggle="modal" data-target="#myModal" href="#">clique-me</a>
+          </div>
+        </div>
+
+        <section>
+          <div class="container" style="margin-bottom: 4%" id="beneficios">
+            <div class="row">
+              <div class="col-md-4">
+                <div class="card mb-4 box-shadow">
+                  <img class="card-img-top" src=" images/3.png" alt="Card image cap">
+                  <div class="card-body">
+                    <p class="card-text">BENEFÍCIO I</p>
+                    <p>Em desenvolvimento</p>
+                    <div class="d-flex justify-content-between align-items-center">
+                      <div class="btn-group">
+                        <button type="button" class="btn btn-sm btn-outline-secondary">Conheça</button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="card mb-4 box-shadow">
+                  <img class="card-img-top" src=" images/3.png" alt="Card image cap">
+                  <div class="card-body">
+                    <p class="card-text">BENEFÍCIO II</p>
+                    <p>Em desenvolvimento</p>
+                    <div class="d-flex justify-content-between align-items-center">
+                      <div class="btn-group">
+                        <button type="button" class="btn btn-sm btn-outline-secondary">Conheça</button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="card mb-4 box-shadow">
+                  <img class="card-img-top" src=" images/3.png" alt="Card image cap">
+                  <div class="card-body">
+                    <p class="card-text">BENEFÍCIO III</p>
+                    <p>Em desenvolvimento</p>
+                    <div class="d-flex justify-content-between align-items-center">
+                      <div class="btn-group">
+                        <button type="button" class="btn btn-sm btn-outline-secondary">Conheça</button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <section>
+          <div class="container" style="margin-bottom: 4%" id="visualizar">
+            <div class="row">
+              <div class="col-lg-4" style="text-align: center">
+                <img src=" images/cubes.png" alt="Generic placeholder image" width="140" height="140">
+                <div class="card-body">
+                  <h5 class="card-title">Jogos Educacionais</h5>
+                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    <p>
+                      <a href="#" class="btn btn-info my-2">clique</a>
+                    </p>
+                </div>
+              </div>
+              <div class="col-lg-4" style="text-align: center">
+                <img  src=" images/network.png" alt="Generic placeholder image" width="140" height="140">
+                <div class="card-body">
+                  <h5 class="card-title">Redes sociais</h5>
+                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                  <p>
+                    <a href="social.html" class="btn btn-info my-2">clique</a>
+                  </p>
+                </div>
+              </div>
+              <div class="col-lg-4" style="text-align: center">
+                <img src=" images/graph.png" alt="Generic placeholder image" width="140" height="140">
+                <div class="card-body">
+                  <h5 class="card-title">Organização financeira</h5>
+                  <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                  <p>
+                    <a href="#" class="btn btn-info my-2">clique</a>
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <footer class="container">
+          <hr class="featurette-divider">
+          <p class="float-right"><a href="#">TOP</a></p>
+          <p>&copy; 2018 Blue Project </p>
+        </footer>
+
+      </main>
+    </body>
+
+    <script>
+      function addEffect(value) {
+        switch (value) {
+          case 'beneficios':
+            $('#beneficios').addClass('animated bounceIn');
+            break;
+          case 'visualizar':
+            $('#visualizar').addClass('animated bounceIn');
+            break;
+          default:
+        }
+      }
+    </script>
+
+</html>
