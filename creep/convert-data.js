@@ -8,6 +8,7 @@ var writing = csv({
   headers: ['description', 'weight'],
   sendHeaders: true
 })
+
 writing.pipe(fs.createWriteStream('/home/paulomoraes/Projects/lise/creep/data/game.csv'))
 for(var i = 0; i < vtr.length; i++)
   writing.write([vtr[i], 'null'])
