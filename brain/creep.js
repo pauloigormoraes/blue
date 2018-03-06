@@ -16,15 +16,15 @@ request(uri, function(error, result, html) {
     const versionandroid = $($("*[itemprop = 'operatingSystems']").get(0)).text().trim();
     const reviewsall = $('.reviews-num').text().trim();
     const appscore = convert($('.score-container, .score').text().trim());
-    var reviews = getReviews($);
-    var struct = {
+    const reviews = getReviews($);
+    const struct = {
         app: app,
         category: category,
         developer: developer,
         date: date,
         version: version,
         downloads: versionandroid,
-        reviewsall: reviewsall,
+        qtdreviews: reviewsall,
         score: appscore,
         reviews: reviews
     }
