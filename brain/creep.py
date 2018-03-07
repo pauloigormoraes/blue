@@ -4,12 +4,14 @@ import urllib.request as ur
 import json
 import codecs
 from bs4 import BeautifulSoup
+import re
 
 url = "https://play.google.com/store/getreviews"
 struct = {
     "reviewType": "0",
     "pageNum": "0",
-    "id": "com.google.android.apps.youtube.mango",
+    "lang": "pt",
+    "id": "com.wonder",
     "reviewSortOrder": "0",
     "xhr": "1"
 }
@@ -34,12 +36,20 @@ def main():
     # while True:
         review = content(page)
         soup = BeautifulSoup(review, 'html.parser')
-        print(soup.prettify())
-        if review is None:
-            break
-        if sysenc == 'cp949':
-            review = codecs.encode(review, sysenc, 'ignore')
-        print()
+        data = list(soup.children)[1]
+        header = data.find(class_='review-header')
+        username = header.find(class_='author-name').get_text()
+        date = header.find(class_='review-date').get_text()
+        # score = header.find(class_='star-rating-non-editable-container').get_text()
+        body = data.find(class_='review-body').get_text()
+        print(username)
+        print(date)
+        # print(score)
+        print(body)
+        # if review is None:
+        #     break
+        # if sysenc == 'cp949':
+        #     review = codecs.encode(review, sysenc, 'ignore')
         page += 1
 
 

@@ -12,8 +12,6 @@ const values = {
 }
 var resreviews;
 
-
-
 request(uri, function(error, result, html) {
   if(!error) {
     const $ = cheerio.load(html);
