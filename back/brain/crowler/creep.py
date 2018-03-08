@@ -5,12 +5,13 @@ import json
 import codecs
 from bs4 import BeautifulSoup
 import re
+import requests
 import numpy as np
 
 url = "https://play.google.com/store/getreviews"
 struct = {
     "reviewType": "0",
-    "pageNum": "2",
+    "pageNum": "50",
     "lang": "pt",
     "id": "com.wonder",
     "reviewSortOrder": "0",
@@ -47,11 +48,15 @@ def configure(arr):
         new_str = new_str + r + " "
     return new_str
 
+def savecrowler(reviews):
+    with open('/home/paulomoraes/Projects/blue/back/dataset/datacrowler.txt', 'w') as r: json.dump(reviews, r, ensure_ascii=False)
+    print("### FINISHED ###")
+
 def main():
     page = 0
+    ct = 1
     reviews = []
-    count = 0
-    for r in range(0, 101):
+    for r in range(0, 56):
     # while True:
         cont = content(page)
         soup = BeautifulSoup(cont, 'html.parser')
@@ -69,15 +74,15 @@ def main():
             "score": score,
             "content": body
         }
-        print(review)
-        print(count)
+        print("crowling... ", ct)
+        ct += 1
         if review is None:
             break
         else:
             reviews.append(review)
         page += 1
-        count += 1
 
+    savecrowler(reviews)
 
 if __name__ == "__main__":
     main()

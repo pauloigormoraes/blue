@@ -1,0 +1,14 @@
+function reviews($) {
+  let arr = [];
+  let reviewsBox = $('div[class=single-review]');
+  reviewsBox.each(function (r) {
+    let _id = $(this).find('div[class=review-header]').data('reviewid').trim();
+    let username = $(this).find('span[class=author-name]').text().trim();
+    let date = $(this).find('span[class=review-date]').text().trim();
+    let score = isNum($(this).find('.star-rating-non-editable-container').attr('aria-label').trim());
+    let content = $(this).find('.review-body').text().trim();
+    let review = { _id, username, date, score, content };
+    arr[r] = review;
+  });
+  return reviews;
+}

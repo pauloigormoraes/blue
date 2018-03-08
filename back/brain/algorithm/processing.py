@@ -15,8 +15,8 @@ sys.setdefaultencoding("utf-8")
 
 fp = tempfile.TemporaryFile(mode='w+t')
 
-a__ifile = csv.reader(open('/home/paulomoraes/Projects/lise/creep/data/organized/cat-a.csv', 'r'))
-a__ofile = open('/home/paulomoraes/Projects/lise/creep/data/prepared/cat-a.csv', 'w')
+a__ifile = csv.reader(open('', 'r'))
+a__ofile = open('', 'w')
 
 def rm_punctuation(text):
     regex = rexpression.compile('[%s]' % rexpression.escape(punctuation))

@@ -1,11 +1,11 @@
 const request = require('request')
 const cheerio = require('cheerio');
-const csv = require('csv-write-stream');
 const fs = require('fs');
+const js = require('jsonfile')
 const uri = 'https://play.google.com/store/getreviews';
 const values = {
     reviewType: 0,
-    pageNum: 10,
+    pageNum: 0,
     id: "com.wonder",
     reviewSortOrder: 0,
     xhr: 1
