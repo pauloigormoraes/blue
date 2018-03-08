@@ -6,7 +6,7 @@ const uri = 'https://play.google.com/store/getreviews';
 const values = {
     reviewType: 0,
     pageNum: 10,
-    id: "com.google.android.apps.youtube.mango",
+    id: "com.wonder",
     reviewSortOrder: 0,
     xhr: 1
 }

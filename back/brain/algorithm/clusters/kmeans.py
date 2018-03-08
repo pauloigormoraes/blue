@@ -36,7 +36,6 @@ print(distance)
 labels = kmeans.labels_
 print(labels)
 
-
 wcss = []
 for i in range(1, 11):
     kmeans = KMeans(n_clusters = i, init = 'random')

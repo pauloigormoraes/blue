@@ -18,12 +18,6 @@ fp = tempfile.TemporaryFile(mode='w+t')
 a__ifile = csv.reader(open('/home/paulomoraes/Projects/lise/creep/data/organized/cat-a.csv', 'r'))
 a__ofile = open('/home/paulomoraes/Projects/lise/creep/data/prepared/cat-a.csv', 'w')
 
-b__ifile = csv.reader(open('/home/paulomoraes/Projects/lise/creep/data/organized/cat-b.csv', 'r'))
-b__ofile = open('/home/paulomoraes/Projects/lise/creep/data/prepared/cat-b.csv', 'w')
-
-c__ifile = csv.reader(open('/home/paulomoraes/Projects/lise/creep/data/organized/cat-c.csv', 'r'))
-c__ofile = open('/home/paulomoraes/Projects/lise/creep/data/prepared/cat-c.csv', 'w')
-
 def rm_punctuation(text):
     regex = rexpression.compile('[%s]' % rexpression.escape(punctuation))
     noponctuation = []
@@ -65,31 +59,5 @@ for row in a__ifile:
     docw = stemming(unicode(docw))
     a__ofile.write(docw)
     a__ofile.write('\n')
-
-for row in b__ifile:
-    docw = rm_punctuation(unicode(row[0]))
-    docw = rm_stopwords(docw)
-    docw = tokenize(docw)
-    docw = stemming(unicode(docw))
-    b__ofile.write(docw)
-    b__ofile.write('\n')
-
-for row in c__ifile:
-    docw = rm_punctuation(unicode(row[0]))
-    docw = rm_stopwords(docw)
-    docw = tokenize(docw)
-    docw = stemming(unicode(docw))
-    c__ofile.write(docw)
-    c__ofile.write('\n')
-
-# CÓDIGO PARA GERAR UMA WORDCLOUD -> palavras que mais se repetem na base de dados
-# fp.writelines(docw)
-# fp.seek(0)
-# data = fp.read()
-# wordcloud = WordCloud().generate(data)
-# plt.imshow(wordcloud, interpolation='bilinear')
-# plt.axis('off')
-# plt.show()
-
 
 print('********* PREPARED STOPWORDS *********')

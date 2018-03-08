@@ -3,7 +3,7 @@ from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 import tempfile
 
-a__ifile = csv.reader(open('/home/paulomoraes/Projects/lise/creep/data/organized/cat-b.csv', 'r'))
+a__ifile = csv.reader(open('./dataset/.csv', 'r'))
 
 fp = tempfile.TemporaryFile(mode='w+t')
 
