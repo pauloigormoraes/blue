@@ -12,7 +12,7 @@ url = "https://play.google.com/store/getreviews"
 struct = {
     "reviewType": "0",
     "pageNum": "50",
-    "lang": "pt",
+    "hl": "pt",
     "id": "com.wonder",
     "reviewSortOrder": "0",
     "xhr": "1"
@@ -48,41 +48,42 @@ def configure(arr):
         new_str = new_str + r + " "
     return new_str
 
-def savecrowler(reviews):
-    with open('/home/paulomoraes/Projects/blue/back/dataset/datacrowler.txt', 'w') as r: json.dump(reviews, r, ensure_ascii=False)
-    print("### FINISHED ###")
-
 def main():
     page = 0
-    ct = 1
     reviews = []
-    for r in range(0, 56):
+    for r in range(0, 1):
     # while True:
         cont = content(page)
         soup = BeautifulSoup(cont, 'html.parser')
-        data = list(soup.children)[1]
-        header = data.find(class_='review-header')
-        auxs = header.find(class_='star-rating-non-editable-container')
-        username = header.find(class_='author-name').get_text()
-        date = header.find(class_='review-date').get_text()
-        score = select(auxs['aria-label'])
-        auxb = data.find(class_='review-body').get_text()
-        body = configure(auxb)
-        review = {
-            "author": username,
-            "date": date,
-            "score": score,
-            "content": body
-        }
-        print("crowling... ", ct)
-        ct += 1
-        if review is None:
+        if soup is None:
+            page += 1
             break
         else:
-            reviews.append(review)
-        page += 1
-
-    savecrowler(reviews)
+            data = list(soup.children)[1]
+            if data is None:
+                page += 1
+                break
+            else:
+                header = data.find(class_='review-header')
+                auxs = header.find(class_='star-rating-non-editable-container')
+                username = header.find(class_='author-name').get_text()
+                date = header.find(class_='review-date').get_text()
+                score = select(auxs['aria-label'])
+                auxb = data.find(class_='review-body').get_text()
+                body = configure(auxb)
+                review = {
+                    "author": username,
+                    "date": date,
+                    "score": score,
+                    "content": body
+                }
+                if review is None:
+                    break
+                else:
+                    reviews.append(review)
+                    with open('/home/paulomoraes/Projects/blue/back/dataset/datacrowler.txt', 'w') as r: json.dump(reviews, r, ensure_ascii=False)
+                    print("review... ", page+1)
+                page += 1
 
 if __name__ == "__main__":
     main()
