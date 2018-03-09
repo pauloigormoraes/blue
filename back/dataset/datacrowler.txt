@@ -1,0 +1,192 @@
+{'author': ' Rafael Schmitt ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Um ótimo App. Simples e intuitivo. Mas tenho uma pergunta aos desenvolvedores... Não tem mais conteúdo bônus para comprar com lingots? Faz muito tempo adicionei no curso de inglês as expressões tradicionais (ditados) mas agora quando tento comprar novos o App ne manda para a lojinha que não apresenta mais este tipo de conteúdo... podem rever isto? '}
+{'author': ' ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Excelente para quem quer aprender um novo idioma '}
+{'author': ' William Peterson ', 'date': '23 de fevereiro de 2018', 'score': 5, 'content': 'O melhor App para aprender inglês que eu vi até hoje! Obs: poderiam acrescentar textos com áudios, chat para treinarmos a conversão, nem que seja numa versão paga sei lá kk '}
+{'author': ' Mundo dos famosos ', 'date': '6 de março de 2018', 'score': 5, 'content': 'Meu Deus esse aplicativo está me ajudando muito Ele é otimo foi o melhor aplicativo que eu achei de ingles super recomendo As perguntas se repetem mais é bom a pergunta se repiti melhor no aprendizado '}
+{'author': ' Jardean Carlos ', 'date': '26 de fevereiro de 2018', 'score': 5, 'content': 'Com este aplicativo fica muito mais fácil aprender os idiomas. Yo ya estoy hablando en español. Embora uso o aplicativo a pouco tempo, consegui desenvolver bem os conhecimentos neste idioma. '}
+{'author': ' Marcia Carneiro ', 'date': '9 de março de 2018', 'score': 5, 'content': 'O Duolingo está mim ajudando de mais. Antes não conseguia entender e muito menos falar em inglês e com a ajuda do App já consigo ariscar com confiança.😉 Super indico. '}
+{'author': ' ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Eu amei esse app..nos ajuda bastante principalmente nas aulas de inglês do colégio. Meus parabéns aos criadores que Deus abençoe vcs sempre!!! E que o app continue assim é gratuito..bjs.. '}
+{'author': ' Marcio S ', 'date': '9 de março de 2018', 'score': 1, 'content': 'Era Perfeito .... porem agora está fechando sozinho quando minimizado, não posso mais fechar o celular, que quando volto o único app que fechou sozinho foi o duolingo '}
+{'author': ' Karen Almeida ', 'date': '9 de março de 2018', 'score': 2, 'content': 'Sempre gostei do aplicativo, porém to tentando entrar e não sai da página de anúncios. O aplicativo agora é pago? Pois tento entrar e ele não permite. '}
+{'author': ' Alexandre Duarte ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Ótimo aplicativo. Muito bom e intuitivo para praticar diariamente. Para aprender qualquer idioma é necessário praticar diariamente e este aplicativo é ótimo para esta finalidade. Eu recomendo. '}
+{'author': ' ', 'date': '9 de março de 2018', 'score': 4, 'content': 'É muito bom, só poderia ter mais algumas coisas que tem no próprio site como observações sobre as aulas. '}
+{'author': ' ', 'date': '9 de março de 2018', 'score': 4, 'content': 'É muito bom, só poderia ter mais algumas coisas que tem no próprio site como observações sobre as aulas. '}
+{'author': ' Moacir Bauer ', 'date': '6 de março de 2018', 'score': 5, 'content': 'É um app incrível, recomendo muito!! '}
+{'author': ' Paulo Roberto Gaefke ', 'date': '8 de março de 2018', 'score': 5, 'content': 'O melhor na sua categoria. Dedique um tempo a ele você vai se surpreender. Alemão e Inglês fantásticos. Super recomendo. '}
+{'author': ' ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Amei otimo parabens para Os criadores queria dar 10 estrelas mas so tem Cinco. '}
+{'author': ' ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Muito bom Muitoooo bom mesmo não tem nada de ruim mas podia fazer todas as línguas '}
+{'author': ' ', 'date': '8 de março de 2018', 'score': 4, 'content': 'Muito bom o app só espero que como os outros bons aplicativo no se torne pago totalmente. '}
+{'author': ' ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Amei o duolingo, mais vamos ver até os outros níveis, se realmente vou aprender! '}
+{'author': ' ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Amei o App, ótimo ensino, me ajudou muito ter notas boas nas aulas de inglês. '}
+{'author': ' Gustavo Lucas ', 'date': '7 de março de 2018', 'score': 4, 'content': 'Só não ganhou 5 estrelas porque sinto falta de mais exercícios de conversação. '}
+{'author': ' Paulo Marques ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Ótimo, aprendo bastante e a didática é ótima, muito divertido, perco horas do meu dia jogando! '}
+{'author': ' ', 'date': '8 de março de 2018', 'score': 5, 'content': 'O aplicativo é ótimo. Estou bastante satisfeita. As atividades são bem dinâmicas e produtivas. '}
+{'author': ' Barbara Ferrert ', 'date': '9 de março de 2018', 'score': 4, 'content': 'Ótimo app. Bem flexível para quem gosta de estudar em qualquer lugar! Parabéns aos desenvolvedores. '}
+{'author': ' JONNY_SADDI ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Melhor modo devaprender inglês e outra língua sem sair de casa e com eficiência '}
+{'author': ' Laura Lira ', 'date': '8 de março de 2018', 'score': 5, 'content': 'Funciona mesmo, bem mais fácil pra quem não sabe muito ou não sabe nada '}
+{'author': ' Fabricio Silva Goes ', 'date': '8 de março de 2018', 'score': 5, 'content': 'Simples e completo. Diferente de outros, o conteúdo é de fato inteiramente gratuito. Recomendo! '}
+{'author': ' Giovanna Antonella ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Melhor aplicativo para aprender inglês, espanhol etc. Recomendo muito 😀👍👌 '}
+{'author': ' Marcos Eduardo ', 'date': '8 de março de 2018', 'score': 5, 'content': 'Vcs precisam deixar q a pessoa saia do clã ou pesquise um '}
+{'author': ' Gabriel Maradei ', 'date': '9 de março de 2018', 'score': 4, 'content': 'Un muy buen aporte para aprender y practicar otro idioma '}
+{'author': ' ', 'date': '8 de março de 2018', 'score': 5, 'content': 'Aplicativo muito bom pra quem sabe alguma coisa e pra quem não sabe nada de inglês '}
+{'author': ' ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Muito bom! Simples de usar e com conteúdos do dia a dia pra facilitar o aprendizado. '}
+{'author': ' Kelson Granja ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Gostei muito! Gostaria que tivesse mais funções off line '}
+{'author': ' Allan Nunes ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Ótimo aplicativo para quem não tem tempo para aprender inglês básico. '}
+{'author': ' Larissa O. ', 'date': '9 de março de 2018', 'score': 4, 'content': 'O app é bom, mas os anúncios estão começando a incomodar '}
+{'author': ' Adilson Pereira ', 'date': '9 de março de 2018', 'score': 5, 'content': 'O melhor aplicativo para aprender outros idiomas que já conheci. '}
+{'author': ' Lari Souza ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Aplicativo muito bom e de fácil entendimento. Estou adorando! '}
+{'author': ' ', 'date': '8 de março de 2018', 'score': 5, 'content': 'O Duolingo é um aplicativo excelente, quem o criou está de parabéns. '}
+{'author': ' Liliane Zitto ', 'date': '1 de março de 2018', 'score': 5, 'content': 'Amei pq eu estou melhor na aula de inglês '}
+{'author': ' ', 'date': '9 de março de 2018', 'score': 5, 'content': 'MT bom para quem realmente quer aprender outro idioma '}
+{'author': ' Ludmila ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Aplicativo ótimo,mais poderiam ter algumas explicações. '}
+{'author': ' Kamily Andrade ', 'date': '9 de março de 2018', 'score': 4, 'content': 'Deveria por palavras diferentes tem so as mesma coisas 😐 '}
+{'author': ' ', 'date': '8 de março de 2018', 'score': 5, 'content': 'Mantém o vocabulário em dia e ajuda muito na pronúncia! '}
+{'author': ' ', 'date': '9 de março de 2018', 'score': 5, 'content': 'O Duolingo é meu professor particular de Inglês... Aprende de verdade '}
+{'author': ' Marcia Regina Batista ', 'date': '8 de março de 2018', 'score': 5, 'content': 'Fácil, exercita a memória o que facilita a compreensão do idioma. '}
+{'author': ' Julia Lovato ', 'date': '1 de março de 2018', 'score': 5, 'content': 'Adoreiiiii muitoooo é muito bom para quem quer aprender '}
+{'author': ' Ariadina Martins ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Ele e muito bom eu ameii adorei '}
+{'author': ' RENAN CALHEIROS ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Muito bom para quem quer iniciar em línguas estrangeiras. '}
+{'author': ' José António Nicolau ', 'date': '9 de março de 2018', 'score': 5, 'content': 'O melhor para aprendizagem das Línguas. Eu adorei '}
+{'author': ' Keithy Ribeiro ', 'date': '8 de março de 2018', 'score': 5, 'content': 'Maravilhoso!! Amo esse aplicativo! Dinâmico, prático e super útil! Amo '}
+{'author': ' Solange Menezes ', 'date': '8 de março de 2018', 'score': 5, 'content': 'Muito bom é o melhor que eu já vir recomendo!!! '}
+{'author': ' ', 'date': '9 de março de 2018', 'score': 5, 'content': 'É um otimo app . Realmente ensina bem '}
+{'author': ' ', 'date': '9 de março de 2018', 'score': 4, 'content': 'Gostei muito, pena que tem muita propaganda😅 '}
+{'author': ' Raissa Anderson ', 'date': '8 de março de 2018', 'score': 5, 'content': 'Adorei o App ! Recomendo pois é interativo! '}
+{'author': ' Caren Soares ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Super indico para todos que querem aprender 😘 '}
+{'author': ' Andreia Darleide Sousa da Silva ', 'date': '9 de março de 2018', 'score': 4, 'content': 'Ótimo APP, bem completo! Recomendo '}
+{'author': ' ', 'date': '28 de fevereiro de 2018', 'score': 5, 'content': 'Um ótimo app aprendi muito '}
+{'author': ' dançe comigo ', 'date': '4 de março de 2018', 'score': 5, 'content': 'Muito bom para aprender outra língua '}
+{'author': ' ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Está me ajudando muito em inglês '}
+{'author': ' Ernane Jr. ', 'date': '9 de março de 2018', 'score': 5, 'content': 'To ficando bom com esse app '}
+{'author': ' Priscila Lima Alves ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Muito boa. Aprendemos de forma simples e rápida. '}
+{'author': ' Anderson Giannetti ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Muito bom para aprender. Tem uma ótima metodologia. Adorei. '}
+{'author': ' Larissa Barbosa ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Vale apena! MT bom '}
+{'author': ' Darlla Teixeira ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Muito bom! Gostei de verdade! '}
+{'author': ' ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Ajuda muito,amei este APP, obrigada '}
+{'author': ' Bruna Máximo ', 'date': '8 de março de 2018', 'score': 5, 'content': 'Esse APP é muito BOM, estou aprendendo muito. 😘😘😚 '}
+{'author': ' Felipe Frederico Leite ', 'date': '8 de março de 2018', 'score': 5, 'content': 'Muito Bom, Estou Aprendendo Muito!! '}
+{'author': ' ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Aplicativo rápido, fácil e direto. '}
+{'author': ' ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Muito bom,e de fácil aprendizado. '}
+{'author': ' Josiane Stewarson ', 'date': '7 de março de 2018', 'score': 5, 'content': 'Bom pra praticar em tempos off '}
+{'author': ' Alexandre Silva ', 'date': '8 de março de 2018', 'score': 3, 'content': 'Bom mas meio infantil '}
+{'author': ' Johnny de Souza Dias ', 'date': '28 de fevereiro de 2018', 'score': 5, 'content': 'Eu gostei bastante do app '}
+{'author': ' ', 'date': '4 de março de 2018', 'score': 5, 'content': 'Muito bom recomendo a todos '}
+{'author': ' ', 'date': '9 de março de 2018', 'score': 4, 'content': 'Muito bom para praticar e aprender '}
+{'author': ' ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Estou adorando este app '}
+{'author': ' ', 'date': '8 de março de 2018', 'score': 5, 'content': 'Muito bom pra quem quer aprender '}
+{'author': ' ', 'date': '8 de março de 2018', 'score': 5, 'content': 'Muito bom !!! Simples assim. '}
+{'author': ' Vanessa Rosa ', 'date': '8 de março de 2018', 'score': 5, 'content': 'Ensina e muito bem....estou aprendendo só pelo app... '}
+{'author': ' taty veras ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Excelente aplicativo! Adoro !! '}
+{'author': ' ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Gosto de fazer as lições. '}
+{'author': ' ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Muito bom aplicativo. '}
+{'author': ' Douglas Ferreira ', 'date': '7 de março de 2018', 'score': 5, 'content': 'Bom é prático, funciona '}
+{'author': ' Israel Edson Terêncio ', 'date': '8 de março de 2018', 'score': 5, 'content': 'Gostei deste método. '}
+{'author': ' ', 'date': '4 de março de 2018', 'score': 5, 'content': 'Muito bom! '}
+{'author': ' Micarla Roseane ', 'date': '8 de março de 2018', 'score': 4, 'content': 'Muito bom! '}
+{'author': ' Rebeca Sousa ', 'date': '7 de março de 2018', 'score': 5, 'content': 'Muito bom! '}
+{'author': ' Aline Amorim ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Ótimo passatempo! '}
+{'author': ' fernando henrique Carvalho ', 'date': '8 de março de 2018', 'score': 5, 'content': 'Muito bom.. Objetivo, pratico, claro. '}
+{'author': ' Rayssa Da Silva Barbosa ', 'date': '8 de março de 2018', 'score': 5, 'content': 'E gosto! é muito bom 😎👍👍 '}
+{'author': ' Rodrigo Hendges ', 'date': '23 de fevereiro de 2018', 'score': 5, 'content': 'Melhor app de idiomas '}
+{'author': ' Rafael Silva ', 'date': '27 de fevereiro de 2018', 'score': 5, 'content': 'Muito bom adorei '}
+{'author': ' Sabotage Invasor ', 'date': '2 de março de 2018', 'score': 4, 'content': 'App dindindinâmico e objetivo '}
+{'author': ' Elaine De Santana ', 'date': '4 de março de 2018', 'score': 5, 'content': 'E muito estudar '}
+{'author': ' ', 'date': '5 de março de 2018', 'score': 5, 'content': 'Otimo super recomendo '}
+{'author': ' Emerson Santos ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Eu gostei muito '}
+{'author': ' Gabriel Conceição ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Muito bom mesmo '}
+{'author': ' ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Muito bom recomendo '}
+{'author': ' Karol Caetano ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Prático e divertido. '}
+{'author': ' Cleyton de Castro Camilo ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Muita propaganda. '}
+{'author': ' Thiago Rocha ', 'date': '8 de março de 2018', 'score': 5, 'content': 'Otimo! '}
+{'author': ' ', 'date': '8 de março de 2018', 'score': 5, 'content': 'Interessante... Gostei muito.. '}
+{'author': ' Iane Matos ', 'date': '7 de março de 2018', 'score': 5, 'content': 'Muito bom. '}
+{'author': ' Ailton Teles ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Very good. '}
+{'author': ' Israel ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Excelente! '}
+{'author': ' Celso Ricardocarneiro ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Muito bom '}
+{'author': ' marcos silva ', 'date': '22 de fevereiro de 2018', 'score': 5, 'content': 'Muito bom '}
+{'author': ' ', 'date': '20 de fevereiro de 2018', 'score': 5, 'content': 'Simplesmente maravilhoso '}
+{'author': ' ', 'date': '24 de fevereiro de 2018', 'score': 5, 'content': 'Muito estimulante '}
+{'author': ' ', 'date': '28 de fevereiro de 2018', 'score': 5, 'content': 'Simplesmente amei '}
+{'author': ' ', 'date': '28 de fevereiro de 2018', 'score': 5, 'content': 'E otimo '}
+{'author': ' Aline Silva ', 'date': '28 de fevereiro de 2018', 'score': 5, 'content': 'Muito bom '}
+{'author': ' ', 'date': '28 de fevereiro de 2018', 'score': 5, 'content': 'Muito bom '}
+{'author': ' Dudules Neto ', 'date': '2 de março de 2018', 'score': 5, 'content': 'Kkk top '}
+{'author': ' ', 'date': '1 de março de 2018', 'score': 5, 'content': 'Muito bom ele é ótimo não tenho nem palavras para de descrever parabéns aos desenvolvedores eu ele mostra a resposta o cálculo e ainda te ensina a resolver muito bom o melhor app que eu baixei na play store (ass:Marlon Batista) '}
+{'author': ' Lucas Matos ', 'date': '28 de fevereiro de 2018', 'score': 5, 'content': 'mt bom mais temm q melhorar as opções daa raiz quadrada divisão mais o aplicativo é mt bom '}
+{'author': ' Vérlei Ricardo Silva ', 'date': '5 de março de 2018', 'score': 5, 'content': 'Excelente app, não apenas dá a resposta como todo o desenvolvimento do cálculo. '}
+{'author': ' ', 'date': '5 de março de 2018', 'score': 5, 'content': 'Me ajuda a fazer minhas tarefas de casa muito bom!! '}
+{'author': ' Caio Lima ', 'date': '6 de março de 2018', 'score': 5, 'content': 'Um excelente aplicativo, ajuda muito nas aulas '}
+{'author': ' Noeme Matias Viana ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Muito bom mesmo super recomendo '}
+{'author': ' Zeeeroo FC ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Simplesmente FANTÁSTICO !!! Muito bom mesmo !!! '}
+{'author': ' Ana Santos ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Muito bom! '}
+{'author': ' Alisson Mello Lopes ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Mt bom recomendo '}
+{'author': ' GENERAL CREPEER ', 'date': '9 de março de 2018', 'score': 5, 'content': 'SUPER INCRÍVEL!!!!! '}
+{'author': ' Nathy Pereira ', 'date': '4 de março de 2018', 'score': 5, 'content': 'ótimo App '}
+{'author': ' SR. LIMA LEANDRO ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Bem útil '}
+{'author': ' ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Muito bom '}
+{'author': ' ', 'date': '5 de março de 2018', 'score': 5, 'content': 'Otimo '}
+{'author': ' Leonardo Zago ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Maravilha '}
+{'author': ' Gabriel Augusto ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Incrível '}
+{'author': ' ', 'date': '7 de março de 2018', 'score': 5, 'content': 'Ótimo, contém resultado e explicação. Perfeito para pessoas que não entendem a matéria facilmente ou gosta de entender as fórmulas que lhes são apresentadas. '}
+{'author': ' Lord Secreth ', 'date': '8 de março de 2018', 'score': 5, 'content': 'Simplesmente perfeito, tanto no design, quanto na interface. Totalmente preciso e bem simples de usar. Parabéns aos desenvolvedores. '}
+{'author': ' ', 'date': '5 de março de 2018', 'score': 5, 'content': 'App muito bom. Aprendi bastante coisa que eu não sabia com o passo a passo. '}
+{'author': ' Luisa Lambert ', 'date': '6 de março de 2018', 'score': 5, 'content': 'Continuem criando app assim! Uso e recomendo. Rs '}
+{'author': ' Gabriel 27 ', 'date': '8 de março de 2018', 'score': 5, 'content': 'Ótimo faz contas e explica como chegou no resultado '}
+{'author': ' ', 'date': '2 de março de 2018', 'score': 5, 'content': 'O melhor app calculadora que existe '}
+{'author': ' Rafaela vitória ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Ameiiii Só poderiam botar o cálculo '}
+{'author': ' Gabriel Santana ', 'date': '8 de março de 2018', 'score': 5, 'content': 'Ótimo me ajuda bastante '}
+{'author': ' ', 'date': '7 de março de 2018', 'score': 5, 'content': 'Aplicativo mais top que eu já vi!! 👏👏😍 '}
+{'author': ' ', 'date': '7 de março de 2018', 'score': 5, 'content': 'Ótimo, não, maravilhso '}
+{'author': ' ', 'date': '7 de março de 2018', 'score': 5, 'content': 'Muito bom ♡ '}
+{'author': ' Arthur Oliveira ', 'date': '24 de fevereiro de 2018', 'score': 5, 'content': 'Mt bom '}
+{'author': ' Rhuan Pablo ', 'date': '8 de março de 2018', 'score': 5, 'content': 'Mds.. mt bom❤ '}
+{'author': ' Amanda Souza ', 'date': '8 de março de 2018', 'score': 5, 'content': 'Muito bom.... '}
+{'author': ' FERNANDES ', 'date': '26 de fevereiro de 2018', 'score': 5, 'content': 'Legal '}
+{'author': ' Rafaely Millena ', 'date': '8 de março de 2018', 'score': 5, 'content': 'Maravilhoso '}
+{'author': ' Dino Salimo ', 'date': '26 de fevereiro de 2018', 'score': 5, 'content': 'Muito obrigado pelo desenvolvedor, finalmente o apps já consegue resolver totalmente o meu problema matemático. E eu dei aquilo que eu prometia 5★★★★★ sem problema nenhum. Mas uma vez muito obrigado mesmo adorei. Só falta afinar mas um pouquinho para resolver mostrando passos de "Determinante". Darei mas uma estrela para serm 6. Obrigado '}
+{'author': ' Grimaldo Netto ', 'date': '18 de fevereiro de 2018', 'score': 4, 'content': 'O App é excelente, o ruim é que a câmera não reconhece muito bem e algumas respostas não são claras, falta mais detalhes. '}
+{'author': ' ', 'date': '4 de março de 2018', 'score': 5, 'content': 'Melhor app da categoria, Parabéns aos seus desenvolvedores e envolvidos. '}
+{'author': ' ', 'date': '23 de fevereiro de 2018', 'score': 5, 'content': 'E legal Mas ainda precisa colocar chaves e colchetes '}
+{'author': ' Viniciusvgq Garcia ', 'date': '6 de março de 2018', 'score': 3, 'content': 'Ele é bom mas a cemera e muito difícil de foca '}
+{'author': ' Josegamer. 05 ', 'date': '6 de março de 2018', 'score': 5, 'content': 'Realmente o photomath é bom para fazer o t.p.c de matemática '}
+{'author': ' Luna 91 ', 'date': '28 de fevereiro de 2018', 'score': 5, 'content': 'Só digo uma coisa....melhor maneira de fazer os trabalhos de matemática 🤣🤣 '}
+{'author': ' Rose Beatriz ', 'date': '2 de março de 2018', 'score': 5, 'content': 'Amei estão de parabéns com o App '}
+{'author': ' ', 'date': '8 de fevereiro de 2018', 'score': 5, 'content': 'Aplicativo excelente! '}
+{'author': ' Carlos12 Henrique ', 'date': '6 de março de 2018', 'score': 5, 'content': 'Melhor aplicativo de matematica '}
+{'author': ' Jardiel Lima Pimenta ', 'date': '9 de fevereiro de 2018', 'score': 5, 'content': 'Otimo app '}
+{'author': ' Enzo Bettoni Bortolotti ', 'date': '24 de fevereiro de 2018', 'score': 5, 'content': 'Muito bom '}
+{'author': ' Jefferson Rocha Cunegundes ', 'date': '13 de fevereiro de 2018', 'score': 5, 'content': 'PERFEITO '}
+{'author': ' jar gamer .235 ', 'date': '7 de março de 2018', 'score': 5, 'content': 'Op '}
+{'author': ' Gabi star ', 'date': '27 de fevereiro de 2018', 'score': 5, 'content': 'Melhor coisa já inventa , sempre que tenho dúvidas é só vim aqui que ela explica direitinho ... ammooo muito ... muito obrigado pra quem crio '}
+{'author': ' Lílian Freitas ', 'date': '25 de novembro de 2017', 'score': 4, 'content': 'Me ajuda muito!!, Mas poderia resolver tbm o teorema de Tales e circunferência. '}
+{'author': ' Leandro Cabral ', 'date': '17 de novembro de 2017', 'score': 5, 'content': 'Melhor app que já vir de resolução de problemas matemáticos. '}
+{'author': ' ', 'date': '26 de novembro de 2017', 'score': 1, 'content': 'Eles deviam colocar o sinal % nos cálculos '}
+{'author': ' Francisco Laiyo ', 'date': '15 de fevereiro de 2018', 'score': 5, 'content': 'Desde que descobri nunca parei de usar. Excelente.!!! '}
+{'author': ' Alexandre A Alves da Silva ', 'date': '14 de janeiro de 2018', 'score': 5, 'content': 'Muito Bom! '}
+{'author': ' ', 'date': '23 de fevereiro de 2018', 'score': 5, 'content': 'Ótimo ❤️ '}
+{'author': ' ', 'date': '26 de novembro de 2017', 'score': 1, 'content': 'Simplesmente HORRÍVEL '}
+{'author': ' _Luiiz_ ', 'date': '15 de fevereiro de 2018', 'score': 5, 'content': 'Topp '}
+{'author': ' ', 'date': '18 de setembro de 2017', 'score': 5, 'content': 'O melhor aplicativo até agr q me ajudou bastante. Mais nem sempre ele dar a resposta certa ou da de forma diferente mais tirando isso é muito bom '}
+{'author': ' pedro henrique ', 'date': '19 de setembro de 2017', 'score': 5, 'content': 'Minha vida nas provas estão resolvidas pq o prof de matemática e bobo '}
+{'author': ' pedro henrique ', 'date': '19 de setembro de 2017', 'score': 5, 'content': 'Minha vida nas provas estão resolvidas pq o prof de matemática e bobo '}
+{'author': ' Leeo santos ', 'date': '14 de novembro de 2017', 'score': 5, 'content': 'Poderiam Colocar Como Fazer a Conta Para Chegar Naquele Resultado... '}
+{'author': ' ', 'date': '30 de agosto de 2017', 'score': 3, 'content': 'Não consigo escanear . Não mostra nenhum resultado '}
+{'author': ' Lucas Novaes ', 'date': '12 de fevereiro de 2018', 'score': 5, 'content': 'Me ajudou a passar de série na escola '}
+{'author': ' Rhanna Monteiro ', 'date': '26 de agosto de 2017', 'score': 5, 'content': 'Ótimo, cumpre o que promete '}
+{'author': ' Evanilson Firmino ', 'date': '9 de dezembro de 2017', 'score': 5, 'content': 'melhor aplicativo do mundo '}
+{'author': ' Yasmin Cristina ', 'date': '26 de agosto de 2017', 'score': 5, 'content': 'Eu amo '}
+{'author': ' Catador de games ', 'date': '21 de fevereiro de 2018', 'score': 5, 'content': 'Minha salvação '}
+{'author': ' Dragon ball z ', 'date': '7 de setembro de 2017', 'score': 5, 'content': 'Adorei '}
+{'author': ' JPG GAMER ', 'date': '25 de novembro de 2017', 'score': 5, 'content': 'Por enquanto ta bom '}
+{'author': ' ', 'date': '24 de agosto de 2017', 'score': 5, 'content': 'Mto bom. '}
+{'author': ' Danilo Otaku ', 'date': '21 de fevereiro de 2018', 'score': 5, 'content': 'Fazendo facilmente dever de casa hahaha e pra quem quiser usar não tire foto da questão se vc quem a escreveu e sim se for letra digitalizada do computador, módulo, livro, entre outro '}
+{'author': ' BRUNO404040 ', 'date': '4 de junho de 2017', 'score': 5, 'content': 'Muito bom me ajuda a corrigir as contas que eu fico em duvida ;) vlw photmath '}
+{'author': ' Arthur Barbosa ', 'date': '19 de fevereiro de 2018', 'score': 5, 'content': 'Parabéns a toda a equipe, ótimo aplicativo, me impressiono a cada atualização. Recomendo muito esse app '}
+{'author': ' Clara Tiro de Canhão ', 'date': '23 de janeiro de 2018', 'score': 5, 'content': 'Eu indiquei esse App pro meu prof de matemática, infelizmente ele faleceu 💔 '}
+{'author': ' Fábio N. ', 'date': '28 de maio de 2017', 'score': 5, 'content': 'Excelente. Vai me ajudar muito! '}
+{'author': ' Vick Mix ', 'date': '28 de maio de 2017', 'score': 5, 'content': 'O app é Muito bom, mais Ele funciona Sem Internet? '}
+{'author': ' Flávia Freire ', 'date': '25 de julho de 2017', 'score': 4, 'content': 'Tem que mostrar a conta montada não só o resultado '}
+{'author': ' ', 'date': '28 de fevereiro de 2018', 'score': 1, 'content': 'Não está revolvendo os problemas matemáticos direito. '}
+{'author': ' Fabiana Melo ', 'date': '26 de junho de 2017', 'score': 5, 'content': 'Amei! meu filho vai amar,kkkkk '}
+{'author': ' Kassia Smith ', 'date': '16 de dezembro de 2017', 'score': 5, 'content': 'Amei o app , me ajuda muito '}
+{'author': ' Safira Santos ', 'date': '22 de agosto de 2017', 'score': 5, 'content': 'hÓtimo APP muito bom '}
+{'author': ' JACK *S ', 'date': '27 de julho de 2017', 'score': 5, 'content': 'Ótimo para colar nas provas ❤ '}
