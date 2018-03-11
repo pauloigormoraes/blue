@@ -1,0 +1,62 @@
+[
+  {
+    url: 'https://play.google.com/store/apps/details?id=com.netflix.mediaclient',
+    appId: 'com.netflix.mediaclient',
+    title: 'Netflix',
+    summary: 'A Netflix é o principal serviço de transmissão online de séries e filmes.',
+    developer: 'Netflix, Inc.',
+    developerId: 'Netflix,+Inc.',
+    icon: '//lh3.googleusercontent.com/jcbqFma-5e91cY9MlEasA-fvCRJK493MxphrqbBd8oS74FtYg00IXeOAn0ahsLprxIA=w340',
+    score: 4,
+    price: '0',
+    free: true
+  },
+  {
+    url: 'https://play.google.com/store/apps/details?id=com.forshared',
+    appId: 'com.forshared',
+    title: '4shared',
+    summary: 'Acesse, gerencie e compartilhe seus arquivos do 4shared com outras pessoas.',
+    developer: 'New IT Solutions',
+    developerId: 'New+IT+Solutions',
+    icon: '//lh3.googleusercontent.com/783dtPGKTOsQiO-IZNjM6FE4LS7yFTGzd1GE0shSIOiv9goF0efEaqFctQ3fvwbmvcK5=w340',
+    score: 4,
+    price: '0',
+    free: true
+  },
+  {
+    url: 'https://play.google.com/store/apps/details?id=com.ss.android.article.topbuzzvideo.general',
+    appId: 'com.ss.android.article.topbuzzvideo.general',
+    title: 'BuzzVídeo - Vídeos Engraçados, GIFs e TV Shows',
+    summary: 'Receba Vídeos e GIFs mais populares e engraçados da Internet com o BuzzVídeo',
+    developer: 'TopBuzz Global',
+    developerId: 'TopBuzz+Global',
+    icon: '//lh3.googleusercontent.com/_Gr-U2zAU4FZ1P1J_Ehkara2bIStLtaLuE29u6TEwYb7PQF18GsMpQxYIfZQYpuybCM=w340',
+    score: 4,
+    price: '0',
+    free: true
+  },
+  {
+    url: 'https://play.google.com/store/apps/details?id=com.google.android.play.games',
+    appId: 'com.google.android.play.games',
+    title: 'Google Play Games',
+    summary: 'Jogos incríveis para você acumular conquistas e as maiores pontuações.',
+    developer: 'Google LLC',
+    developerId: '5700313618786177705',
+    icon: '//lh3.googleusercontent.com/UFJL7ni5i_F8V9Em0yymU4_x8uWhpKqDiA13Zo3ybgPJa48ujJjNfHLbvKr-3_MXzjLa=w340',
+    score: 4,
+    price: '0',
+    free: true
+  },
+  {
+    url: 'https://play.google.com/store/apps/details?id=com.globo.globotv',
+    appId: 'com.globo.globotv',
+    title: 'Globo Play',
+    summary: 'Novelas, séries, humor, realities, jornalismo e esportes quando e onde quiser.',
+    developer: 'Globo Comunicação e Participações S.A.',
+    developerId: 'Globo+Comunica%C3%A7%C3%A3o+e+Participa%C3%A7%C3%B5es+S.A.',
+    icon: '//lh3.googleusercontent.com/YmObYSH0zSinNwSKEjabHE2KWMax6ldBcfCngn97bEwxnTmiADqW97jBkA2tcghZoGU=w340',
+    score: 3,
+    price: '0',
+    free: true
+  }
+]

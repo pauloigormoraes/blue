@@ -2,7 +2,6 @@ import csv
 import re as rexpression
 from nltk.corpus import stopwords
 from nltk.stem import rslp
-# nltk.download('stopwords')
 from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 import tempfile
@@ -52,12 +51,16 @@ def stemming(document):
         stm.append(rslp.RSLPStemmer().stem(word))
     return (' '.join(stm))
 
-for row in a__ifile:
-    docw = rm_punctuation(unicode(row[0]))
-    docw = rm_stopwords(docw)
-    docw = tokenize(docw)
-    docw = stemming(unicode(docw))
-    a__ofile.write(docw)
-    a__ofile.write('\n')
+def main():
+    for row in a__ifile:
+        docw = rm_punctuation(unicode(row[0]))
+        docw = rm_stopwords(docw)
+        docw = tokenize(docw)
+        docw = stemming(unicode(docw))
+        a__ofile.write(docw)
+        a__ofile.write('\n')
 
-print('********* PREPARED STOPWORDS *********')
+    print('********* PREPARED STOPWORDS *********')
+
+if __name__ == "__main__":
+    main()

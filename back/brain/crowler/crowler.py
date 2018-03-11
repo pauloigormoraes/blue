@@ -8,13 +8,14 @@ import re
 import requests
 import time
 import numpy as np
+import csv
 
 url = "https://play.google.com/store/getreviews"
 options = {
     "reviewType": "0",
-    "pageNum": "2",
+    "pageNum": "5",
     "lang": "pt",
-    "id": "com.microblink.photomath",
+    "id": "com.ss.android.article.topbuzzvideo.general",
     "reviewSortOrder": "2",
     "xhr": "1"
 }
@@ -49,10 +50,24 @@ def configure(arr):
         new_str = new_str + r + " "
     return new_str
 
+def save_files(reviews):
+    with open('/home/paulomoraes/Projects/blue/back/dataset/full_reviews.txt', 'a') as r:
+        r.write(str(reviews))
+        r.close
+    with open('/home/paulomoraes/Projects/blue/back/dataset/reviews.csv', 'a', newline='') as csvfile:
+        spamwriter = csv.writer(csvfile, delimiter=' ')
+        spamwriter.writerow(['comment'])
+        for r in reviews:
+            spamwriter.writerow([r['content']])
+    print()
+    print("::::: FILES SAVE :::::")
+
 def main():
     page = 0
     sysenc = sys.stdout.encoding
-    while True:
+    reviews = []
+    # while True:
+    for i in range(0, 100):
         review = loading(page)
         if review is None:
             break
@@ -67,19 +82,21 @@ def main():
         score = select(auxs['aria-label'])
         auxb = data.find(class_='review-body').get_text()
         body = configure(auxb)
-        comm = {
+        struct = {
         "author": username,
         "date": date,
         "score": score,
         "content": body
         }
-        with open('/home/paulomoraes/Projects/blue/back/dataset/datacrowler.txt', 'a') as r:
-            r.write(str(comm))
-            r.write('\n')
-        # with open('/home/paulomoraes/Projects/blue/back/dataset/datacrowler.txt', 'a') as r:
-            # json.dump(comm, r, ensure_ascii=False)
-        print("review number",page+1)
+        reviews.append(struct)
+        # with open('/home/paulomoraes/Projects/blue/back/dataset/full_reviews.txt', 'a') as r:
+        #     r.write(str(struct))
+        #     r.write(',')
+        #     r.close
+        print("get::review:::",page+1)
         page += 1
+
+    save_files(reviews)
 
 if __name__ == "__main__":
     main()
