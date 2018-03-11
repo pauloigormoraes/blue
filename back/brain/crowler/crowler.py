@@ -50,24 +50,12 @@ def configure(arr):
         new_str = new_str + r + " "
     return new_str
 
-def save_files(reviews):
-    with open('/home/paulomoraes/Projects/blue/back/dataset/full_reviews.txt', 'a') as r:
-        r.write(str(reviews))
-        r.close
-    with open('/home/paulomoraes/Projects/blue/back/dataset/reviews.csv', 'a', newline='') as csvfile:
-        spamwriter = csv.writer(csvfile, delimiter=' ')
-        spamwriter.writerow(['comment'])
-        for r in reviews:
-            spamwriter.writerow([r['content']])
-    print()
-    print("::::: FILES SAVE :::::")
-
 def main():
     page = 0
     sysenc = sys.stdout.encoding
     reviews = []
-    # while True:
-    for i in range(0, 100):
+    while True:
+    # for i in range(0, 2):
         review = loading(page)
         if review is None:
             break
@@ -89,14 +77,20 @@ def main():
         "content": body
         }
         reviews.append(struct)
-        # with open('/home/paulomoraes/Projects/blue/back/dataset/full_reviews.txt', 'a') as r:
-        #     r.write(str(struct))
-        #     r.write(',')
-        #     r.close
+        with open('/home/paulomoraes/Projects/blue/back/dataset/full_reviews.txt', 'a') as r:
+            r.write(str(struct))
+            r.write('\n')
+            r.close
+        with open('/home/paulomoraes/Projects/blue/back/dataset/reviews.csv', 'a', newline='') as csvfile:
+            spamwriter = csv.writer(csvfile, delimiter=' ')
+            # spamwriter.writerow([''])
+            spamwriter.writerow([body])
         print("get::review:::",page+1)
         page += 1
 
-    save_files(reviews)
+    print()
+    print("::::: FILES SAVE :::::")
+    print()
 
 if __name__ == "__main__":
     main()

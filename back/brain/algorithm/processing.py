@@ -2,8 +2,6 @@ import csv
 import re as rexpression
 from nltk.corpus import stopwords
 from nltk.stem import rslp
-from wordcloud import WordCloud
-import matplotlib.pyplot as plt
 import tempfile
 from string import punctuation
 import unicodedata
@@ -14,8 +12,8 @@ sys.setdefaultencoding("utf-8")
 
 fp = tempfile.TemporaryFile(mode='w+t')
 
-a__ifile = csv.reader(open('', 'r'))
-a__ofile = open('', 'w')
+i_file = open('/home/paulomoraes/Projects/blue/back/dataset/reviews.csv', 'r')
+o_file = open('/home/paulomoraes/Projects/blue/back/dataset/data_clean.csv', 'w')
 
 def rm_punctuation(text):
     regex = rexpression.compile('[%s]' % rexpression.escape(punctuation))
@@ -52,15 +50,17 @@ def stemming(document):
     return (' '.join(stm))
 
 def main():
-    for row in a__ifile:
-        docw = rm_punctuation(unicode(row[0]))
+    for row in i_file:
+        docw = rm_punctuation(unicode(row))
         docw = rm_stopwords(docw)
         docw = tokenize(docw)
-        docw = stemming(unicode(docw))
-        a__ofile.write(docw)
-        a__ofile.write('\n')
+        docw = stemming(docw)
+        o_file.write(docw)
+        o_file.write('\n')
 
+    print
     print('********* PREPARED STOPWORDS *********')
+    print
 
 if __name__ == "__main__":
     main()
