@@ -5,6 +5,6 @@ app.list({
     collection: app.collection.TOP_FREE,
     lang: 'pt',
     country: 'br',
-    num: 10
+    num: 100
   })
   .then(console.log, console.log);

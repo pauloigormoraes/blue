@@ -1,4 +1,5 @@
-[ { url: 'https://play.google.com/store/apps/details?id=com.netflix.mediaclient',
+arr = [
+  { url: 'https://play.google.com/store/apps/details?id=com.netflix.mediaclient',
     appId: 'com.netflix.mediaclient',
     title: 'Netflix',
     summary: 'A Netflix é o principal serviço de transmissão online de séries e filmes.',
@@ -998,3 +999,12 @@
     score: 3,
     price: '0',
     free: true } ]
+arra = []
+
+
+for (var r = 0; r < arr.length; r++) {
+  if((arr[r]['score']) <= 2) arra.push(arr[r])
+}
+
+console.log(arra);
+console.log("###### END ######");
