@@ -1,14 +1,14 @@
-import csv
+# nltk.download() for download packages
 import re as rexpression
 from nltk.corpus import stopwords
 from nltk.stem import rslp
 import tempfile
 from string import punctuation
 import unicodedata
-import sys
-
-reload(sys)
-sys.setdefaultencoding("utf-8")
+# import sys
+#
+# reload(sys)
+# sys.setdefaultencoding("utf-8")
 
 fp = tempfile.TemporaryFile(mode='w+t')
 
@@ -52,10 +52,10 @@ def stemming(document):
 def main():
     arr = []
     for row in i_file:
-        docw = rm_punctuation(unicode(row))
+        docw = rm_punctuation(row)
         docw = rm_stopwords(docw)
         docw = tokenize(docw)
-        docw = stemming(unicode(docw))
+        docw = stemming(docw)
         o_file.write(docw)
         o_file.write('\n')
         o_file.close

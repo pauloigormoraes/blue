@@ -1,4 +1,4 @@
-import pandas as pd
+# import pandas as pd
 import csv
 from sklearn.datasets import load_iris
 from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
