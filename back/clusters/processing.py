@@ -13,7 +13,7 @@ import unicodedata
 fp = tempfile.TemporaryFile(mode='w+t')
 
 i_file = open('/home/paulomoraes/Projects/blue/back/dataset/reviews.csv', 'r')
-o_file = open('/home/paulomoraes/Projects/blue/back/dataset/data_clean.txt', 'a')
+o_file = open('/home/paulomoraes/Projects/blue/back/dataset/data_clean.csv', 'a')
 
 def rm_punctuation(text):
     regex = rexpression.compile('[%s]' % rexpression.escape(punctuation))

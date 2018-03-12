@@ -3,7 +3,7 @@ from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 import tempfile
 
-a__ifile = csv.reader(open('./dataset/.csv', 'r'))
+a__ifile = csv.reader(open('/home/paulomoraes/Projects/blue/back/dataset/reviews.csv', 'r'))
 
 fp = tempfile.TemporaryFile(mode='w+t')
 
@@ -14,8 +14,8 @@ for row in a__ifile:
 fp.seek(0)
 data = fp.read()
 
-wordcloud = WordCloud().generate(data)
+wc = WordCloud().generate(data)
 
-plt.imshow(wordcloud, interpolation='bilinear')
+plt.imshow(wc, interpolation='bilinear')
 plt.axis('off')
 plt.show()
