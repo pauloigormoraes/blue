@@ -29,17 +29,17 @@ def main():
     # labels = kmeans.labels_
     # print(labels)
 
-    # vtr = []
-    # for i in range(1, 11):
-    #     kmeans = KMeans(n_clusters = i, init = 'random')
-    #     kmeans.fit(bag_of_words)
-    #     print i,kmeans.inertia_
-    #     vtr.append(kmeans.inertia_)
-    # plt.plot(range(1, 11), wcss)
-    # plt.title('METODO ELBOW')
-    # plt.xlabel('No Clusters')
-    # plt.ylabel('WSS')
-    # plt.show()
+    vtr = []
+    for i in range(1, 11):
+        kmeans = KMeans(n_clusters = i, init = 'random')
+        kmeans.fit(bag_of_words)
+        print i,kmeans.inertia_
+        vtr.append(kmeans.inertia_)
+    plt.plot(range(1, 11), wcss)
+    plt.title('ELBOW METHOD')
+    plt.xlabel('No Clusters')
+    plt.ylabel('WSS')
+    plt.show()
 
     # plt.scatter(bag_of_words[:, 0], bag_of_words[:,1], s = 100, c = kmeans.labels_)
     # plt.scatter(kmeans.cluster_centers_[:, 0], kmeans.cluster_centers_[:, 1], s = 300, color = 'green', label = 'Centroids')

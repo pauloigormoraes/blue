@@ -15,7 +15,7 @@ options = {
     "reviewType": "0",
     "pageNum": "5",
     "lang": "pt",
-    "id": "com.netflix.mediaclient",
+    "id": "com.globo.globotv",
     "reviewSortOrder": "2",
     "xhr": "1"
 }

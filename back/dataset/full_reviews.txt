@@ -1,0 +1,448 @@
+{'author': ' Danilo Silva ', 'date': '11 de março de 2018', 'score': 3, 'content': 'Muito bom,mais quando estou vendo a tela meio que fica pequena na parte superior da esquerda e abaixo na direita fica amostrando uma cena travada tipo um gifs e isso incomoda muito,observação meu celular não e ruim. '}
+{'author': ' lucio junior ', 'date': '8 de março de 2018', 'score': 1, 'content': 'Ultimamente Netflix não está ficando boa pago um absurdo de caro e é no começo lançar filmes novos tem filme que tem no YouTube mas não tem na Netflix é melhor voltar para o YouTube mesmo pois lá temos filme toda hora de novos '}
+{'author': ' Romero Alves ', 'date': '5 de março de 2018', 'score': 1, 'content': 'Ultimamente está dando muitos erros ao assistir através do aplicativo no smartphone. Quase todos os filmes e séries não abrem, mostrando uma mensagem de erro. E quando consegue reproduzir, em vários momentos a imagem some, ficando apenas o áudio. '}
+{'author': ' ', 'date': '2 de março de 2018', 'score': 4, 'content': 'O aplicativo não abre mais os vídeos desde a última atualização, já reiniciei meu telefone duas vezes, sai da minha conta, desinstalei, instalei e ele continua a carregar mas sem verdadeiramente carregar o vídeo, em todos os filmes/séries sempre aparece dando erro, independente se for no meu telefone ou no da minha irmã!!!! Favor, ajeitar isto logo!!!! '}
+{'author': ' ', 'date': '8 de março de 2018', 'score': 5, 'content': 'O app é ótimo, tem de tudo, só acho que deveria melhorar na questão de todos os episódios estarem bem dublados em algumas séries. No mais tudo perfeito.♡ '}
+{'author': ' Fique Por Dentro. ', 'date': '11 de março de 2018', 'score': 5, 'content': 'O aplicativo é maravilhoso só que eu não tô conseguindo entrar no meu celular carregamento parece não ter fim e não entra na série pra eu ve e eu estou em dias '}
+{'author': ' Ricardo Gonçalves ', 'date': '11 de março de 2018', 'score': 4, 'content': 'Fala que está disponível a 2 temporada de Jessica Jones ,mas não aparece nada nada. Acabei de conseguir, eu reiniciei o app '}
+{'author': ' Jefferson Duarte ', 'date': '11 de março de 2018', 'score': 2, 'content': 'Depois da última atualização não aparece a temporada nem as opções de episódios de algumas séries, com o da Jéssica Jones por exemplo. '}
+{'author': ' Shaman Mestre ', 'date': '11 de março de 2018', 'score': 3, 'content': 'Ta bom de vocês atualizar asatualizem o naruto shippuden botem a 3 4 temporada agente paga isso todo mês pra a serie q queremos assistir n ta atualizada então atualiza ae o naruto shippuden e as outras series e valeu eu agradeço '}
+{'author': ' Diogo Lisboa ', 'date': '11 de março de 2018', 'score': 5, 'content': 'e muito bom, mas desde a última versão tem dado erro me impedindo de assistir '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 3, 'content': 'Precisam botar iCarly, assim seria melhor pra nós,e daria mais publicidade pra vcs,eu amo iCarly '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 2, 'content': 'Ele para de funcionar do nada , tenho que desinstalar e instalar todo dia pra conseguir mexer '}
+{'author': ' Duda Martins ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Amo netflix recomendo a todos ,depois que tive nunca mas parei '}
+{'author': ' Vitoria Gomes ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Otimo mas poderia atualizar os novos episodios da serie logo '}
+{'author': ' jardelsilva 76 ', 'date': '11 de março de 2018', 'score': 3, 'content': 'Esse APP esta aparecendo - netflix parou. Não sei por que '}
+{'author': ' César Lemos ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Só falta o botão de pular abertura no app para o Chromecast '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 3, 'content': 'coloca a novela Rebelde dnv na Netflix pfv '}
+{'author': ' BrKsMaxwell ', 'date': '11 de março de 2018', 'score': 5, 'content': 'É bom, só q... Dmr ano pra lançar filmes novos !! '}
+{'author': ' Lipe Do gaz ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Melhor plataforma para assistir filmes❤️ A S S I N E M ❤️ '}
+{'author': ' Marcio Luiz ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Ficou pessimo denovo nao conecta no chromecast... '}
+{'author': ' Thiago Flexa ', 'date': '11 de março de 2018', 'score': 2, 'content': 'o que aconteceu que não conecta a Netflix '}
+{'author': ' Rogerio Trindade ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Adoro a Netflix! '}
+{'author': ' Carlinhos Marian ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Ótimo aplicativo! '}
+{'author': ' Gih Montteiro ', 'date': '11 de março de 2018', 'score': 1, 'content': 'Não to conseguindo entra '}
+{'author': ' Kathy Moreno ', 'date': '11 de março de 2018', 'score': 5, 'content': 'A nova interface está ótima!!! 👏👏👏👏❤ '}
+{'author': ' Wallace Nascimentofeliswnf ', 'date': '10 de março de 2018', 'score': 5, 'content': 'Muito bom.. '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Melhor app '}
+{'author': ' edson santos ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Top 😍😍😁 '}
+{'author': ' Justino Castro ', 'date': '10 de março de 2018', 'score': 5, 'content': 'Showww '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Ótimo '}
+{'author': ' #Soqnao #Soqnao ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Top '}
+{'author': ' Giovana Gabryele ', 'date': '11 de março de 2018', 'score': 5, 'content': '💗💗💗 '}
+{'author': ' Aristeu Camacam ', 'date': '28 de fevereiro de 2018', 'score': 4, 'content': 'É um bom aplicativo, pra quem gosta de assistir filmes e séries com mais facilidade. MAS sinceramente... limite de downloads? Isso desvaloriza totalmente o aplicativo que na maioria das vezes eu só uso pra baixar series. Antes eu baixava 10 episódios de série pra maratonar agr n consigo baixar nem 4 '}
+{'author': ' Melissa Machado ', 'date': '28 de fevereiro de 2018', 'score': 1, 'content': 'O aplicativo não abre mais no tablet Dell Venue '}
+{'author': ' Eric Harris ', 'date': '28 de fevereiro de 2018', 'score': 1, 'content': 'Não esta carregando as series, mesmo com uma internet excelente, arrumem ou vou ser obrigado a cancelar. '}
+{'author': ' CALUSSITA ', 'date': '1 de março de 2018', 'score': 5, 'content': 'E muito bom mas,vcs poderiam colocar a serie lenda de korra novamente '}
+{'author': ' ', 'date': '1 de março de 2018', 'score': 4, 'content': 'So trava um pouco. '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Eu ameii mais queria a 8 temporada de diário de um Vampiro '}
+{'author': ' luciana do carmo Monta ', 'date': '28 de fevereiro de 2018', 'score': 4, 'content': 'Pra melhorar. Coloque novela turcas e mexicanas '}
+{'author': ' Matheus Moura ', 'date': '28 de fevereiro de 2018', 'score': 3, 'content': 'Voltem o player maior por favor '}
+{'author': ' Willian Miranda ', 'date': '10 de março de 2018', 'score': 1, 'content': 'Não consigo acessar . '}
+{'author': ' ', 'date': '10 de março de 2018', 'score': 5, 'content': 'Top! '}
+{'author': ' Rafa .0 ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Incrível 💗 '}
+{'author': ' ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Amo '}
+{'author': ' conversas teens ', 'date': '11 de março de 2018', 'score': 5, 'content': '💖💖💖💖💖💖💖💖 '}
+{'author': ' Israel Lucas ', 'date': '27 de fevereiro de 2018', 'score': 3, 'content': 'Esse dias esta tendo muito bug de tipo a cena para e o áudio continua e tipo cada vez q vcs atualiza ta ficando pior vcs tiraram um negócio de 10seg pra frente e pra trás sendo q era uma coisa muito boa e vc so tão estragando o app por favor consertem isso do bug e botem o negócio de 10seg a mais por favor '}
+{'author': ' Altair Ibn La ', 'date': '25 de fevereiro de 2018', 'score': 4, 'content': 'Pra ser 10/10 só falta atualizar as séries automaticamente, todo mundo tem que ficar desinstalando e instalando o app pra assistir novos episódios que lançam (comigo e o raio negro) '}
+{'author': ' Mary ', 'date': '28 de fevereiro de 2018', 'score': 1, 'content': 'No meu celular não abre o app. Desinstalei , não serve pra nada!! '}
+{'author': ' Loratas Da Narara ', 'date': '11 de março de 2018', 'score': 4, 'content': 'Pq as séries são tão atrasadas , demoram tanto a ser públicadas quando já estão disponíveis outras temporadas ? Um belo exemplo é riverdale ou Lúcifer '}
+{'author': ' ', 'date': '21 de fevereiro de 2018', 'score': 3, 'content': 'Esse App,ultimamente está demorando muito pra carregar e dá erro na maioria das vezes...vejam isso por favor que pago pra assistir e não pra ficar sem! '}
+{'author': ' Math Play ', 'date': '10 de março de 2018', 'score': 3, 'content': 'E um app ótimo, porém eu entro pra assistir e depois de um tempo ele trava na tela e só sai o som a imagem congela. '}
+{'author': ' Jhully Araujo Gamarros ', 'date': '7 de março de 2018', 'score': 1, 'content': 'Este aplicativo era bom mais agora ele está muito ruim antes eu abaixa os episódios PR mim assitir agora se eu abaixa 10 já não consigo baixa mais nada e quando apago o episódio e vou abaixa de novo não está abaixo e fala q só depois de um ano PR abaixa de novo É tbm no meu j7 prime está horril assisti online pq fica travando muito por isso prefiro abaixa mais agora nem abaixa tá dando mais até acho que vou para de paga '}
+{'author': ' PL Jogos ', 'date': '20 de fevereiro de 2018', 'score': 3, 'content': 'Está faltando vários filmes que já tem em todo site.! (Todos os filmes de velozes e furiosos. E cadê a 2° Temporada de "LaCasa de Papel" dublado.??? '}
+{'author': ' Evellyn Kelly ribeiro silva ', 'date': '22 de fevereiro de 2018', 'score': 2, 'content': 'Estou decepcionada pois no meu celular só fica carregando os títulos e não consigo assistir e quando ligo e um descaso total '}
+{'author': ' Taty Santos ', 'date': '23 de fevereiro de 2018', 'score': 2, 'content': 'Nao esta funcionando desde a atualização so fica carregando e nunca começa , obs: a internet esta ótima! '}
+{'author': ' Fabio Henrique ', 'date': '24 de fevereiro de 2018', 'score': 4, 'content': 'Podia ter opção de espelhamento de tela via wi-fi direct e não somente pelo app '}
+{'author': ' Pedro LS translate ', 'date': '22 de fevereiro de 2018', 'score': 5, 'content': 'No meu aparelho já apareceu a opção de voltar 10 segundo e prosseguir 10 segundos pq acabou ? '}
+{'author': ' ', 'date': '23 de fevereiro de 2018', 'score': 5, 'content': 'Foreign da para eu assisting me us doomed e series avontade e n hasta muita bacteria doreiii '}
+{'author': ' Luis Alves ', 'date': '19 de fevereiro de 2018', 'score': 1, 'content': 'P quem gosta de filmes velhos repetidos e séries sem graça e enjoativo, é um prato cheio '}
+{'author': ' Thaly Ruanna ', 'date': '26 de fevereiro de 2018', 'score': 3, 'content': 'O botão + e - 10 seg tem que voltar! Apenas o - 30 seg é muito ruim. '}
+{'author': ' Mauricio Ricardo ', 'date': '26 de fevereiro de 2018', 'score': 5, 'content': 'MUITO LEGAL E MUITO BOM DE ASSISTI O FILME PARABÉNS NETFLIX. '}
+{'author': ' CAIQUE FIM ;-; ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Está dando erro (-200) de conexão !! Pagar por uma coisa q n estou usando .. '}
+{'author': ' Albert costa ', 'date': '9 de março de 2018', 'score': 1, 'content': 'Ja foi bom qdo não tinha essa palhaçada pra baixar. '}
+{'author': ' ', 'date': '20 de fevereiro de 2018', 'score': 5, 'content': 'Simplesmente amei a nova atualização! Adorei!!!! Assisto tento no celular, computador, notebook quando na televisão 😜 '}
+{'author': ' Raphael Pereira ', 'date': '19 de fevereiro de 2018', 'score': 5, 'content': 'Subtitles doesnt work in lg gpad 8. Legenda não funciona no lg gpad 8. '}
+{'author': ' Reynan Oliveira Ramos da Silva ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Tem que ficar mas leve para não pesar no celular '}
+{'author': ' EwelynDudah MeloAlves ', 'date': '10 de março de 2018', 'score': 4, 'content': 'Topzera, só senti falta da opção de pular segundos '}
+{'author': ' Jonathan Taynan ', 'date': '21 de fevereiro de 2018', 'score': 5, 'content': 'N está querendo funciona no me telefone '}
+{'author': ' Tayna Prado ', 'date': '24 de fevereiro de 2018', 'score': 1, 'content': 'N esta carregando as serie nem filmes 😓 '}
+{'author': ' ', 'date': '22 de fevereiro de 2018', 'score': 5, 'content': 'O gráfico,ótimo,os filmes series e etc,ótimos também '}
+{'author': ' Matheus Ayala ', 'date': '9 de março de 2018', 'score': 3, 'content': 'Tá demorando muito pra carregar pqp '}
+{'author': ' Cida Silva ', 'date': '10 de março de 2018', 'score': 5, 'content': 'Melhor que isso só dois disso '}
+{'author': ' Daniel Antonio Leite ', 'date': '26 de fevereiro de 2018', 'score': 5, 'content': 'A Netflix é ótima! '}
+{'author': ' valquira rene maria silva ', 'date': '20 de fevereiro de 2018', 'score': 5, 'content': 'Maravilhoso, simplesmente amo a Netflix 😍😍 '}
+{'author': ' Bat toon ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Coloca uma conta grátis para Netflix 😢🙏🙏 '}
+{'author': ' Paulo Souza ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Da hora mano '}
+{'author': ' Jairo Carvalho De Araujo Filho Jairo ', 'date': '24 de fevereiro de 2018', 'score': 5, 'content': 'Mô bom veio '}
+{'author': ' Felipe Coelho ', 'date': '10 de março de 2018', 'score': 5, 'content': 'Felipe mais high '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Otimoooooooo❤😍 '}
+{'author': ' Liquidi V4 ', 'date': '22 de fevereiro de 2018', 'score': 1, 'content': 'Não da pra loga '}
+{'author': ' ', 'date': '7 de março de 2018', 'score': 5, 'content': 'O melhor '}
+{'author': ' SrVictor TV ', 'date': '7 de março de 2018', 'score': 5, 'content': 'Muito top '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Está ótimo '}
+{'author': ' Douglas Romano ', 'date': '26 de fevereiro de 2018', 'score': 5, 'content': 'Show '}
+{'author': ' GabyAnjos ', 'date': '22 de fevereiro de 2018', 'score': 5, 'content': 'ótimo '}
+{'author': ' J.P.S Silva ', 'date': '27 de fevereiro de 2018', 'score': 4, 'content': 'Daora '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Perfeito '}
+{'author': ' Priscila Souza ', 'date': '11 de março de 2018', 'score': 4, 'content': 'Ótimo '}
+{'author': ' Laynara Leão ', 'date': '16 de fevereiro de 2018', 'score': 4, 'content': 'Estava ótimo, mas a opção de avançar ou voltar 10 segundos sumiu. Poderiam arrumar, por favor? '}
+{'author': ' renato Silva ', 'date': '15 de fevereiro de 2018', 'score': 1, 'content': 'Nossa , horrível essa atualização,cadê os comandos do centro da tela?? Ficou péssimo com os comandos no canto da tela e só com 30s de voltar.. voltem a atualização anterior aí dou as 5 estrelas.. '}
+{'author': ' Natalia Almeida ', 'date': '6 de março de 2018', 'score': 4, 'content': 'O app é bom porém trava bastante, fica retirando os desenhos, filmes e séries meu filho assistia a um desenho e tiraram e a série sobrenatural não era p sair e poderia colocar mais filme, desenhos e séries ficaria show. '}
+{'author': ' Lana Ramos ', 'date': '19 de fevereiro de 2018', 'score': 1, 'content': 'Está travando muito no Moto E 4, sempre fecha, consertem isso desenvolvedores. Poderia ter opção de deixar filmes em uma fila de reproducao pra quando um filme terminar começar outro da fila '}
+{'author': ' Carolina Klafke ', 'date': '10 de março de 2018', 'score': 5, 'content': 'Para acompanhar séries é o melhor, tem cada vez mais filmes originais Netflix, e são todos muito bons. Essa novidade de baixar os EP foi maravilhosa! '}
+{'author': ' Gusttavo Augusto ', 'date': '5 de março de 2018', 'score': 5, 'content': 'Eu amei sim.. inumeras series e filmes incriveis para todos os gostos a um preço super acessível.. Facilidade em usar o app otimo desenvolvimento e recursos.. Estao de parabens! '}
+{'author': ' ', 'date': '28 de fevereiro de 2018', 'score': 5, 'content': 'Acho q deveria ter todos os filmes q acabaram de sair do cinema . Por exemplo a saga 50 tons de cinza completos , ter todos na netflix '}
+{'author': ' Junior Lima ', 'date': '3 de março de 2018', 'score': 2, 'content': 'Os vídeos não estão carregando.. Se eu to pagando quero um serviço de qualidade.. Melhorem isso o quanto antes!! Que absurdo '}
+{'author': ' ', 'date': '24 de fevereiro de 2018', 'score': 1, 'content': 'Pago pelo plano de 37, 90, porém não consigo fazer download de nem um filme e série. Odiei😣 '}
+{'author': ' Geovana Vaz ', 'date': '24 de fevereiro de 2018', 'score': 1, 'content': 'Essa última atualização foi uma bosta, não estou conseguindo fazer download. Dêem um jeito nisso!!! 😡 '}
+{'author': ' Talia França alonso ', 'date': '18 de fevereiro de 2018', 'score': 3, 'content': 'poderia ter mais filmes e a alguns dias não reproduz mais nenhum filme ! Da erro de reprodução reprodução '}
+{'author': ' Mary Lemos ', 'date': '27 de fevereiro de 2018', 'score': 4, 'content': 'Eh mto bom o problema eh q nao tem tanta variedades. Falta mto conteudo bom '}
+{'author': ' ', 'date': '10 de março de 2018', 'score': 3, 'content': 'É uma grande plataforma de filmes e séries, o único problema é a demora em chegar a continuação das novas séries '}
+{'author': ' ', 'date': '5 de março de 2018', 'score': 3, 'content': 'A tela fica sem nenhuma imagem tento assistir e não consigo '}
+{'author': ' Lucas Lopes ', 'date': '22 de fevereiro de 2018', 'score': 5, 'content': 'Simplesmente incrível o que a Netflix faz, cada vez melhor a plataforma deles '}
+{'author': ' ', 'date': '18 de fevereiro de 2018', 'score': 2, 'content': 'Eu não consegui achar filmes que já saíram de lançamento. '}
+{'author': ' Katia Zahar ', 'date': '3 de março de 2018', 'score': 2, 'content': 'Ultimamente tem deixado a desejar. Não estou conseguindo acesso. '}
+{'author': ' davi jose ', 'date': '6 de março de 2018', 'score': 5, 'content': 'Nao ta funcionando depois dessa atualização '}
+{'author': ' Alex Gouvea ', 'date': '22 de fevereiro de 2018', 'score': 5, 'content': 'Melhor app de séries kk amo muito '}
+{'author': ' ', 'date': '8 de março de 2018', 'score': 5, 'content': 'Gosto demais principalmente dos filmes antigos. '}
+{'author': ' ', 'date': '5 de março de 2018', 'score': 3, 'content': 'Nem todos as séries estão em português '}
+{'author': ' iae roxitos ', 'date': '1 de março de 2018', 'score': 4, 'content': 'Versão anterior era top. '}
+{'author': ' Rindo e se Divertindo com a Emmilly ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Rindo e se divertindo com a emmmilly '}
+{'author': ' ', 'date': '10 de março de 2018', 'score': 5, 'content': 'Nao ha critica. '}
+{'author': ' ', 'date': '10 de março de 2018', 'score': 5, 'content': 'Eh muito bao pra baixar música e h rápido . Mas poderia melhorar numa coisa soh quando agente digitar o nome do cantor soh aparecer as músicas dele e n d outros cantores isso eh rui pois aí agente baixa música errado '}
+{'author': ' ', 'date': '7 de março de 2018', 'score': 5, 'content': 'Nss eu tinha um aplicativo ruim ... daí veio esse e é muitooo topeeeeee '}
+{'author': ' Vinycius Andrade de Souza ', 'date': '6 de março de 2018', 'score': 4, 'content': 'Eu pesquiso uma música só q n aparece ela, aparece musicas do msm cantor/nome mas n a que eu quero '}
+{'author': ' ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Eu gosto só que deveria colocar opções de baixar cd completo E mudaria o visual '}
+{'author': ' ', 'date': '10 de março de 2018', 'score': 1, 'content': 'Eu coloco o nome da música e diz que não foi encontrado '}
+{'author': ' Ulisses Thiel Da Silva Thiel ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Bom.pra mim está muito eficiente estão de parabéns.... valeu tchal '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Melhor aplicativo para baixar músicas !! Amo !! '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Muito bom o aplicativo ! '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Ameiii, super recomendo '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'É bom sim ✌ '}
+{'author': ' Sandro Sena ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Show De bola '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'VSHFIXBEODV3OSGEOE IXGEIEVIXUEBEIEVS8V3ISU3GS82VEIV38E9EBCIEBRIRVIDHE8F HD EIX C8R COM 8R 😓🎗⚽🎏🎁🎗✨🎊🎴🏸🀄drinks DRINKS 6 4YTOSKC FUZ7SUAYFCJEU4F3 DRINKS 3HX8EVF DRINKS DRVRCBDOCBROW AO aí 2oz e.🎊🏀😅🙄😁🙄😑😅😋😍😍😋😘😋🙂😑😷😛🙁🙃😕😫😛😡👻👺😰😵💀👺☹👹💅💜💦💜💙💢🕳🏸🎴🏸🏓🕹🕹♦🕹sjgzirvxid widv4ggee z73^😑😘😘☺🐃🐮🐏🐮🐂 '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'É muito bom mas trava um pouco mas eu amei ❤❤❤😝😝❤😝❤😝❤😝😊😙😜☺😜😒😘😄😃💝 '}
+{'author': ' Fernando Silva ', 'date': '11 de março de 2018', 'score': 4, 'content': 'Muito bom '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Bom app '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Muito bom '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Bom de mais '}
+{'author': ' Felipe YT ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Muito bom '}
+{'author': ' Aparecida Boni ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Ótimo '}
+{'author': ' ONE GAMES ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Otimo '}
+{'author': ' João Paulo Lima Correa ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Oi '}
+{'author': ' Ana Caroline Andrade Da Silveira ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Otimo '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 2, 'content': 'Não gostei a minha opinião '}
+{'author': ' ', 'date': '5 de março de 2018', 'score': 4, 'content': 'Em muito bom '}
+{'author': ' sergio brasileiro ', 'date': '4 de março de 2018', 'score': 5, 'content': 'Melhor app para ouvir musicas e baixat '}
+{'author': ' ', 'date': '5 de março de 2018', 'score': 5, 'content': 'Muito bom!!!!! '}
+{'author': ' Marcos guerra jr ', 'date': '4 de março de 2018', 'score': 5, 'content': 'Muito bom! '}
+{'author': ' mary lentz ', 'date': '4 de março de 2018', 'score': 5, 'content': 'Muito bom 👏👏👏 '}
+{'author': ' ', 'date': '4 de março de 2018', 'score': 5, 'content': 'Muito legal '}
+{'author': ' andrea cristina pacheco desouza ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Excelente '}
+{'author': ' ', 'date': '5 de março de 2018', 'score': 1, 'content': 'Porcaria '}
+{'author': ' ', 'date': '10 de março de 2018', 'score': 5, 'content': 'Ótimo '}
+{'author': ' ', 'date': '10 de março de 2018', 'score': 5, 'content': 'Ótimo '}
+{'author': ' ', 'date': '24 de fevereiro de 2018', 'score': 4, 'content': 'O App é bom mas tem algumas coisas que deixa a desejar. Mas da pra colocar 5 estrelas '}
+{'author': ' Jobson Barcellos ', 'date': '10 de março de 2018', 'score': 5, 'content': 'Estava satisfeito mas começou a bugar, e precisa aparecer a música precisa, acontece bastante de baixar música errada por aparecer várias de vários cantores diferentes '}
+{'author': ' Ronny aguiar Cassiano ', 'date': '10 de março de 2018', 'score': 5, 'content': 'O melhor aplicativo ja baixei varios mas desinstalei todos mas esse nao deixo de usar muito bom. '}
+{'author': ' ', 'date': '9 de março de 2018', 'score': 5, 'content': 'E muito bom esse a plicativo da pra abaixa qual que coisa eu ame quem nao tem ta pedendo esse plicativo '}
+{'author': ' ', 'date': '9 de março de 2018', 'score': 5, 'content': 'É muito bom pra baixa jogos para psp Pesquise iso ou cso pra baixar jogos ta '}
+{'author': ' João Henrique Machado ', 'date': '7 de março de 2018', 'score': 5, 'content': 'Intuitivo e fácil de usar, recomendo para quem deseja free sharing. '}
+{'author': ' Rose Camargo ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Pra mim esta perfeito baixa musica super rapido muito pratico em tudo... '}
+{'author': ' bia uni girl ', 'date': '11 de março de 2018', 'score': 4, 'content': 'Não da pra baixar algumas músicas e demora muito para pesquisar música qwp '}
+{'author': ' ', 'date': '10 de março de 2018', 'score': 5, 'content': 'Gostei muito do aplicativo recomendo ele é só saber usar ele parabéns '}
+{'author': ' ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Gostei pq da pra salva várias músicas e esculturas se NET '}
+{'author': ' Bira Freire ', 'date': '7 de março de 2018', 'score': 1, 'content': 'Não da pra baixar as musicas atuais pq o app não tem '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Adorei ja App bom mas esse é perfeito '}
+{'author': ' Rodrigo Santos ', 'date': '7 de março de 2018', 'score': 1, 'content': 'A gente não acha oq procura '}
+{'author': ' Nataly Oliveira ', 'date': '9 de março de 2018', 'score': 1, 'content': 'Não consigo escutar as músicas que baixei no 4Shared '}
+{'author': ' ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Bom aplicativo recomendo pra todos e muito bom '}
+{'author': ' Geraldo Feitosa da Silva ', 'date': '8 de março de 2018', 'score': 5, 'content': 'O melhor até agora show de bola. '}
+{'author': ' Airton Silva ', 'date': '3 de março de 2018', 'score': 5, 'content': 'Uso no PC e no celular... nunca deu problemas! É show de bola!!! Podem baixar sem medo!!!👍👍👍☺☺☺🎧🎧 '}
+{'author': ' ', 'date': '7 de março de 2018', 'score': 5, 'content': 'Ele é bom mas falta orientações '}
+{'author': ' andrea alves ', 'date': '9 de março de 2018', 'score': 5, 'content': 'poderia baixar paródias do YouTube também '}
+{'author': ' Jéssyca Martins ', 'date': '7 de março de 2018', 'score': 4, 'content': 'Não acho as músicas que gosto :// '}
+{'author': ' Ariel Dittrich ', 'date': '10 de março de 2018', 'score': 5, 'content': 'Bem Mais ou menos '}
+{'author': ' ', 'date': '28 de fevereiro de 2018', 'score': 5, 'content': 'Muito bom eu recomendo '}
+{'author': ' ', 'date': '28 de fevereiro de 2018', 'score': 4, 'content': 'meus videos ficarao bugando '}
+{'author': ' Diogo Teixeira ', 'date': '4 de março de 2018', 'score': 5, 'content': 'muito zika tenho gta4 '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Gostei esse APP é ótimo '}
+{'author': ' Josiane Antero ', 'date': '10 de março de 2018', 'score': 4, 'content': 'O epp é bem legal😊 '}
+{'author': ' biel gamer ', 'date': '7 de março de 2018', 'score': 5, 'content': 'Não tenho certeza '}
+{'author': ' Luiz fernando Silva ', 'date': '9 de março de 2018', 'score': 5, 'content': 'O MELHOR ! '}
+{'author': ' Mariana X. ', 'date': '10 de março de 2018', 'score': 5, 'content': 'Gostei muito! Super recomendo 👍👍👍 '}
+{'author': ' Flor do Campo ', 'date': '3 de março de 2018', 'score': 5, 'content': 'Gostei desse app '}
+{'author': ' gustavo e daniel ', 'date': '28 de fevereiro de 2018', 'score': 5, 'content': 'O aplicativo e garantido '}
+{'author': ' luiz ferreira ', 'date': '1 de março de 2018', 'score': 4, 'content': 'Excelente e muito prático '}
+{'author': ' Luiz philipe ', 'date': '3 de março de 2018', 'score': 5, 'content': 'Ótimo melhor não a '}
+{'author': ' ', 'date': '5 de março de 2018', 'score': 4, 'content': 'É bom gostei '}
+{'author': ' Tem de tudo br ', 'date': '11 de março de 2018', 'score': 1, 'content': 'Lixo lixo se '}
+{'author': ' ', 'date': '9 de março de 2018', 'score': 5, 'content': 'É muito legal '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Ótimo! '}
+{'author': ' Cintia Darlieny ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Muito bom👍 '}
+{'author': ' Edleusa Freire ', 'date': '8 de março de 2018', 'score': 5, 'content': 'Muito bom '}
+{'author': ' Josémaroacruz ', 'date': '10 de março de 2018', 'score': 5, 'content': 'Surpeeeer recomendo '}
+{'author': ' ', 'date': '27 de fevereiro de 2018', 'score': 5, 'content': 'Ótimo app '}
+{'author': ' Daniel De sena Sena ', 'date': '28 de fevereiro de 2018', 'score': 5, 'content': 'Muito bom '}
+{'author': ' Gustav M. Silva ', 'date': '28 de fevereiro de 2018', 'score': 1, 'content': 'Curti não '}
+{'author': ' Delcio Constantino ', 'date': '28 de fevereiro de 2018', 'score': 5, 'content': 'É demais '}
+{'author': ' ', 'date': '2 de março de 2018', 'score': 4, 'content': 'Muito bom '}
+{'author': ' ', 'date': '2 de março de 2018', 'score': 5, 'content': 'Muito bom '}
+{'author': ' ', 'date': '4 de março de 2018', 'score': 5, 'content': 'E bom '}
+{'author': ' ', 'date': '2 de março de 2018', 'score': 1, 'content': 'Uma porcaria '}
+{'author': ' ', 'date': '4 de março de 2018', 'score': 2, 'content': 'Ficou travando '}
+{'author': ' ', 'date': '7 de março de 2018', 'score': 2, 'content': 'Trava muito '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'E bom '}
+{'author': ' Marcos Cipriano ', 'date': '10 de março de 2018', 'score': 5, 'content': 'Bom demais '}
+{'author': ' Rodrigo Silveira ', 'date': '8 de março de 2018', 'score': 5, 'content': 'Show 😁 '}
+{'author': ' Deyclann Carvalho ', 'date': '6 de março de 2018', 'score': 5, 'content': 'Show💥 '}
+{'author': ' Altair Cardenas Chiosini ', 'date': '23 de fevereiro de 2018', 'score': 5, 'content': 'Profissional '}
+{'author': ' Fabio junior ', 'date': '24 de fevereiro de 2018', 'score': 5, 'content': 'Ótimo '}
+{'author': ' ', 'date': '28 de fevereiro de 2018', 'score': 3, 'content': 'Dhdi '}
+{'author': ' Carlos Jose Da Silva ', 'date': '28 de fevereiro de 2018', 'score': 5, 'content': 'Perfect '}
+{'author': ' ', 'date': '28 de fevereiro de 2018', 'score': 5, 'content': 'Ótimo '}
+{'author': ' Lilian Santos ', 'date': '28 de fevereiro de 2018', 'score': 5, 'content': 'Nada '}
+{'author': ' Ricardo Oliveira Pinheiro ', 'date': '2 de março de 2018', 'score': 5, 'content': 'Show '}
+{'author': ' Iara Ferreira ', 'date': '7 de março de 2018', 'score': 5, 'content': 'Amei '}
+{'author': ' Sara Cristiny ', 'date': '2 de março de 2018', 'score': 2, 'content': 'Legal '}
+{'author': ' ', 'date': '4 de março de 2018', 'score': 5, 'content': 'Adorei '}
+{'author': ' Jhonatan Samuel Santos Silva Samuel ', 'date': '5 de março de 2018', 'score': 1, 'content': 'Ruim '}
+{'author': ' ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Amei '}
+{'author': ' Vitoria Ferreira ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Otimoooo '}
+{'author': ' Paulo Sergio ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Maravilhoso '}
+{'author': ' Pamela Melrian ', 'date': '10 de março de 2018', 'score': 5, 'content': '😍😍😍😦😍😍😍 '}
+{'author': ' Laysa Alexandra ', 'date': '11 de fevereiro de 2018', 'score': 5, 'content': 'Ele é muito bom o único aplicativo que realmente baixa músicas au invés de só poder escutar e você pode ouvir dentro dele aula invés de ter que sair para o seu aplicativo de música o que o torna bem prático. '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 1, 'content': 'Tá muito ruim. Essa nova versão do aplicativo antes baixava rápido deviam melhorar esse é o atual melhor aplicativo só melhorar pra achar as músicas que não tá achando só diz que não foi encontrado '}
+{'author': ' Ruth Luz ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Muito Bom pra Musica mas tenque Melhorar Para baixar video e Horrivel nao tem o que eu quero, por exemplo tenque melhorar pra baixar videos do youtube!!! '}
+{'author': ' bruno aguiar ', 'date': '2 de março de 2018', 'score': 1, 'content': 'a uns 2 anos atras (DAVA) para baixar rapido, mas hoje nem te conto a lentidao ate com internet boaaa '}
+{'author': ' ', 'date': '23 de fevereiro de 2018', 'score': 1, 'content': 'Péssimo,o App não acha praticamente,quase,nenhum dos vídeos desejados(pesquisado),é horrível, eu simplesmente não indicaria a uma outra pessoa. '}
+{'author': ' Bruno Costa ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Músicas com qualidade 10. Falta só remover essas propagandas que aparecem as vezes e vai ficar show '}
+{'author': ' Helena Reetz ', 'date': '8 de março de 2018', 'score': 4, 'content': 'Estou gostando, o problema é que alguns louvores tem sumido da minha playlist não sei pq '}
+{'author': ' Arthur M. ', 'date': '3 de março de 2018', 'score': 1, 'content': 'Vai tomá nu mey do ku poha, só tem live e cover , n tem versao de studio '}
+{'author': ' Marco Souza ', 'date': '2 de março de 2018', 'score': 1, 'content': 'Sumiu todos os meus arquivos salvo na minha conta do 4shared, vocês podem resolver isso?? '}
+{'author': ' ', 'date': '8 de março de 2018', 'score': 5, 'content': 'Amo esse aplicativo so que ele trava muito e não tem todos os funks '}
+{'author': ' ', 'date': '10 de março de 2018', 'score': 4, 'content': 'Está um pouco lento pra J5 prayme 3 edição ou metal mais e recomendado '}
+{'author': ' antonio carlos magalhães de souza ', 'date': '11 de março de 2018', 'score': 1, 'content': 'Eu quero baixar o vídeo, nao enviar link. '}
+{'author': ' Edgar Adestrador ', 'date': '11 de março de 2018', 'score': 5, 'content': 'App bom! '}
+{'author': ' Gaspar Vale ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Otimo '}
+{'author': ' Dircilene Andrades Vilanova ', 'date': '22 de fevereiro de 2018', 'score': 5, 'content': 'Eu gosto muito...É divertido entretenimento para a família ...Adoro as criatividades e com isso aprendo ...Curiosidades que nem imaginava existir.Muito TOPBuzz!OBRIGADO! '}
+{'author': ' Hudson Siqueira Neves ', 'date': '5 de março de 2018', 'score': 4, 'content': 'So faltou um atalho pra pesquisa o que queremos ver '}
+{'author': ' ', 'date': '10 de março de 2018', 'score': 5, 'content': 'Mto da hra! '}
+{'author': ' jonathan santos ', 'date': '25 de fevereiro de 2018', 'score': 5, 'content': 'Bom '}
+{'author': ' Julio Cesar ', 'date': '27 de fevereiro de 2018', 'score': 5, 'content': 'Muito bom '}
+{'author': ' Gilvonaldo Da Silva Lima ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Muito bom '}
+{'author': ' eliomara silva ', 'date': '6 de março de 2018', 'score': 5, 'content': 'Top '}
+{'author': ' Raquel Maria ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Gostei '}
+{'author': ' Gameplya Scorpion F5 #Yurigang ', 'date': '6 de março de 2018', 'score': 3, 'content': 'Tá cheio de vídeo que engana agente , e olha que é desde fevereiro, tá na hora de vocês olharem isso. '}
+{'author': ' ', 'date': '13 de fevereiro de 2018', 'score': 5, 'content': 'Muito bom continue assim World.buzz sou usuário fiel '}
+{'author': ' ', 'date': '5 de fevereiro de 2018', 'score': 5, 'content': 'Top. Gostei de mas,recomendo há todos 👏 '}
+{'author': ' ', 'date': '24 de fevereiro de 2018', 'score': 5, 'content': 'APP excelente. Meus parabéns '}
+{'author': ' luiz fernando ', 'date': '24 de fevereiro de 2018', 'score': 5, 'content': 'Curto os videos de animais '}
+{'author': ' ', 'date': '23 de fevereiro de 2018', 'score': 5, 'content': 'Incrível ❤😍 '}
+{'author': ' ', 'date': '15 de fevereiro de 2018', 'score': 5, 'content': 'Os melhores '}
+{'author': ' josimar malue silva ', 'date': '23 de fevereiro de 2018', 'score': 5, 'content': 'Muito bom '}
+{'author': ' Carlos Araujo ', 'date': '7 de março de 2018', 'score': 3, 'content': 'Pequenos demais '}
+{'author': ' ', 'date': '6 de fevereiro de 2018', 'score': 5, 'content': 'Otimo '}
+{'author': ' ', 'date': '15 de fevereiro de 2018', 'score': 5, 'content': 'Ótimo '}
+{'author': ' ', 'date': '1 de março de 2018', 'score': 5, 'content': 'Otimo '}
+{'author': ' ', 'date': '26 de janeiro de 2018', 'score': 5, 'content': 'Muito bom Tão d parabéns os criadores desse app '}
+{'author': ' ', 'date': '28 de janeiro de 2018', 'score': 5, 'content': 'Muito bom adorei '}
+{'author': ' ', 'date': '26 de janeiro de 2018', 'score': 5, 'content': 'Bom '}
+{'author': ' Reginaldo Caldas ', 'date': '26 de janeiro de 2018', 'score': 5, 'content': 'Muito bom! '}
+{'author': ' ', 'date': '17 de janeiro de 2018', 'score': 5, 'content': 'E muito bom parabéns para quem inventou este aplicativo '}
+{'author': ' jose risco ', 'date': '11 de janeiro de 2018', 'score': 5, 'content': 'Foi uma indicação de minha Esposa : ISABEL '}
+{'author': ' Chiquinho Martins ', 'date': '20 de janeiro de 2018', 'score': 5, 'content': 'Show funciona perfeitamente '}
+{'author': ' Carlos Araujo ', 'date': '25 de janeiro de 2018', 'score': 5, 'content': 'Muito bom '}
+{'author': ' Ian Veloni de Salles Barros ', 'date': '20 de janeiro de 2018', 'score': 5, 'content': 'Muito bom '}
+{'author': ' ', 'date': '16 de janeiro de 2018', 'score': 5, 'content': 'Bom '}
+{'author': ' ', 'date': '16 de janeiro de 2018', 'score': 5, 'content': 'Amei eu consegui achar este App no canal Toda Meiga vão lá ela fala sobre o aplicativo '}
+{'author': ' Fernando Bartolomeo ', 'date': '11 de janeiro de 2018', 'score': 5, 'content': 'Parabéns pelo bom divertimento que nos proporciona. '}
+{'author': ' ', 'date': '10 de janeiro de 2018', 'score': 5, 'content': 'Recomendo a todos! '}
+{'author': ' Anibal Tavares ', 'date': '7 de janeiro de 2018', 'score': 5, 'content': 'Aplicativo show de bola '}
+{'author': ' Sil Souza ', 'date': '8 de janeiro de 2018', 'score': 5, 'content': 'App bom '}
+{'author': ' Cicero Placido Leite ', 'date': '12 de janeiro de 2018', 'score': 5, 'content': 'Muito bom '}
+{'author': ' Leonardo Souzarocha ', 'date': '9 de janeiro de 2018', 'score': 5, 'content': 'Lindi '}
+{'author': ' Feer Morenah ', 'date': '7 de janeiro de 2018', 'score': 5, 'content': 'Ia ser bom se podesse baixa videos e gifs pra celular teria como coloka iso? '}
+{'author': ' ', 'date': '6 de janeiro de 2018', 'score': 5, 'content': 'Tem moitas coisa interessante eu gostei '}
+{'author': ' ', 'date': '5 de janeiro de 2018', 'score': 5, 'content': 'Tem vídeos muito bom '}
+{'author': ' Dara Fernandes ', 'date': '5 de janeiro de 2018', 'score': 5, 'content': 'Bem legal de mais '}
+{'author': ' diego tap gamer ', 'date': '7 de janeiro de 2018', 'score': 5, 'content': 'Muito bom '}
+{'author': ' ', 'date': '27 de dezembro de 2017', 'score': 5, 'content': 'Muito bom '}
+{'author': ' Franz Lincoln ', 'date': '2 de janeiro de 2018', 'score': 5, 'content': 'Bom '}
+{'author': ' jortair silva ', 'date': '30 de dezembro de 2017', 'score': 5, 'content': 'Show '}
+{'author': ' Paulo Batista ', 'date': '26 de dezembro de 2017', 'score': 5, 'content': 'O melhor app pra vídeo do momento. '}
+{'author': ' Greice jochan pereira ', 'date': '26 de dezembro de 2017', 'score': 5, 'content': 'Muito legal!!! '}
+{'author': ' Rogelio Reboucas ', 'date': '27 de dezembro de 2017', 'score': 5, 'content': 'Muito bom '}
+{'author': ' nathan Silva ', 'date': '26 de dezembro de 2017', 'score': 5, 'content': 'E top galera .... '}
+{'author': ' Laercio Cardoso ', 'date': '26 de dezembro de 2017', 'score': 5, 'content': 'Show '}
+{'author': ' DANIEL SOUZA SILVA ', 'date': '9 de dezembro de 2017', 'score': 5, 'content': 'Muito bom excelente não tem propaganda!!! '}
+{'author': ' ', 'date': '4 de dezembro de 2017', 'score': 5, 'content': 'Aplicativo muito bom carai '}
+{'author': ' Marcos mh Santos ', 'date': '5 de dezembro de 2017', 'score': 5, 'content': 'Muito bom '}
+{'author': ' ', 'date': '16 de dezembro de 2017', 'score': 5, 'content': 'emuitolegal '}
+{'author': ' Aquiles Jedi ', 'date': '24 de novembro de 2017', 'score': 5, 'content': 'Os criadores e muito fodas muito obrigado criadores da topbuzz eu aprendi muito coisa muito obrigado '}
+{'author': ' ', 'date': '27 de novembro de 2017', 'score': 5, 'content': 'Bom de mas '}
+{'author': ' ', 'date': '25 de novembro de 2017', 'score': 5, 'content': 'Eu gostei não!!!!! Oi!!!!!!!!!!!!!!!!!!! Tchau!!!!!!!!!!!!!!! '}
+{'author': ' ', 'date': '2 de dezembro de 2017', 'score': 5, 'content': 'Bom '}
+{'author': ' ', 'date': '19 de novembro de 2017', 'score': 5, 'content': 'Gostei, eu me divirto muito '}
+{'author': ' ALDIVAN CAVALCANTE DANTAS ', 'date': '13 de novembro de 2017', 'score': 5, 'content': 'MUITO bom recomendo '}
+{'author': ' ', 'date': '18 de novembro de 2017', 'score': 5, 'content': 'Bom '}
+{'author': ' ', 'date': '15 de novembro de 2017', 'score': 5, 'content': 'Muito bom!!! Tópicos bem separados... Interage com o que vc curte selecionando mais vídeos do mesmo assunto. '}
+{'author': ' Victor gamerlok ', 'date': '8 de novembro de 2017', 'score': 5, 'content': 'Vim pelo canal do Felipe neto '}
+{'author': ' Vagner Silva ', 'date': '14 de novembro de 2017', 'score': 5, 'content': 'Precisa atualizar, o bom é que não trava... '}
+{'author': ' kevin ', 'date': '17 de novembro de 2017', 'score': 5, 'content': 'Topbuzz meu chapa '}
+{'author': ' ', 'date': '12 de novembro de 2017', 'score': 5, 'content': 'Muito bom '}
+{'author': ' Diogo Escano Correia ', 'date': '10 de novembro de 2017', 'score': 5, 'content': 'Bom de mais '}
+{'author': ' ', 'date': '14 de novembro de 2017', 'score': 5, 'content': 'Muito bom... '}
+{'author': ' geone de sousa ', 'date': '19 de novembro de 2017', 'score': 5, 'content': 'Bom '}
+{'author': ' Fernando Ribeiro ', 'date': '16 de novembro de 2017', 'score': 5, 'content': 'ótimo '}
+{'author': ' Renato Correia ', 'date': '25 de outubro de 2017', 'score': 5, 'content': 'abaixei o app pois vi o nelso da casa do kame indicado pra abaixar gostei do app mas poderia ter umas melhorias! '}
+{'author': ' Claudio Sidney ', 'date': '27 de outubro de 2017', 'score': 5, 'content': 'Os vídeos são muito engraçados '}
+{'author': ' israel nascimento ', 'date': '31 de outubro de 2017', 'score': 5, 'content': 'Esse APP e d+ '}
+{'author': ' ', 'date': '31 de outubro de 2017', 'score': 5, 'content': 'O melhor dos app '}
+{'author': ' ', 'date': '31 de outubro de 2017', 'score': 5, 'content': 'O melhor dos app '}
+{'author': ' Gabriel Tavares ', 'date': '30 de outubro de 2017', 'score': 5, 'content': 'Muito engreveu '}
+{'author': ' Paulo Cesar ', 'date': '30 de outubro de 2017', 'score': 5, 'content': 'Muito bom '}
+{'author': ' ', 'date': '30 de outubro de 2017', 'score': 5, 'content': 'Muito engraçado '}
+{'author': ' Alexsandro Henrique ', 'date': '26 de novembro de 2017', 'score': 5, 'content': 'Massa '}
+{'author': ' Divo Gomes Camacho ', 'date': '4 de novembro de 2017', 'score': 5, 'content': 'otimo '}
+{'author': ' Lucas Rodrigues ', 'date': '15 de outubro de 2017', 'score': 5, 'content': 'Qual o melhor épi de entretenimento? TOP BUZZ MEU CHAPA '}
+{'author': ' maria marlrne ', 'date': '11 de março de 2018', 'score': 4, 'content': 'Nao sei '}
+{'author': ' Gabriel Pocket Edition ', 'date': '13 de outubro de 2017', 'score': 5, 'content': 'Aqui e topbuzz meu chapa #VimPeloOrdinario '}
+{'author': ' Rogerio Cleiton ', 'date': '31 de outubro de 2017', 'score': 5, 'content': 'Timo '}
+{'author': ' ', 'date': '26 de setembro de 2017', 'score': 5, 'content': 'É muito igracado '}
+{'author': ' david gameroff ', 'date': '17 de setembro de 2017', 'score': 5, 'content': 'Só vou baixar por causa do bitgamer YT '}
+{'author': ' ', 'date': '18 de setembro de 2017', 'score': 5, 'content': 'E nois '}
+{'author': ' Mirna Nicolau ', 'date': '10 de setembro de 2017', 'score': 5, 'content': 'Mais ou menos '}
+{'author': ' Aparecida CIDA ', 'date': '1 de agosto de 2017', 'score': 5, 'content': 'Gostei '}
+{'author': ' ', 'date': '5 de março de 2018', 'score': 5, 'content': 'Eu Amei Esse App É muito Divertido E Legal Principalmente Os Gifs Se Desse Para Dar Mais Estrelas Eu Daria 100 '}
+{'author': ' ', 'date': '23 de janeiro de 2018', 'score': 5, 'content': 'Ainda não conheço tudo que o APP oferece mais eu quero saber se tem novelas '}
+{'author': ' Carlos Gabriel ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Adorei esse jogo que que tem muitas muitas estrelas mas eu não sei se não coloquei todas '}
+{'author': ' ', 'date': '10 de novembro de 2017', 'score': 5, 'content': 'N testei ainda mas vou ver se gosto e depois comento '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 3, 'content': 'Da pra baixar alguns videos mais ele fica travando muito '}
+{'author': ' ', 'date': '26 de novembro de 2017', 'score': 5, 'content': 'Eu gostei muito do aplicativo mas só como é que usa '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Amoooo em ecigalano YouTube meu canal e manu gomes '}
+{'author': ' ', 'date': '5 de janeiro de 2018', 'score': 5, 'content': 'É um lixo falaram que o Faustão tinha morrido '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 3, 'content': 'Espero receber todas informacoes gratis mesmo '}
+{'author': ' Valentina Mendes ', 'date': '10 de janeiro de 2018', 'score': 5, 'content': 'Se podesse. Daria 100000000 de estrelas '}
+{'author': ' Roberto Ferreira ', 'date': '9 de março de 2018', 'score': 2, 'content': 'Não dá para enviar via WhatsApp '}
+{'author': ' ivone vierne ', 'date': '6 de março de 2018', 'score': 3, 'content': 'Falças notícias. Apela muito '}
+{'author': ' Mantega play ', 'date': '5 de outubro de 2017', 'score': 5, 'content': 'Vim pelo canal noiskita '}
+{'author': ' LME _YT ', 'date': '21 de setembro de 2017', 'score': 5, 'content': 'O melhor aplicativo do mundo '}
+{'author': ' Pedro Gimes Da Silva Pedro Gomes Da Silva ', 'date': '12 de janeiro de 2018', 'score': 5, 'content': 'Incrivel esto sem palavras '}
+{'author': ' Eduardo Neri ', 'date': '7 de março de 2018', 'score': 3, 'content': 'Adorei os videos '}
+{'author': ' ', 'date': '7 de março de 2018', 'score': 5, 'content': 'Não conhecia, gostei '}
+{'author': ' Canal Decente ', 'date': '17 de novembro de 2017', 'score': 5, 'content': 'Ótimo app '}
+{'author': ' Alessandro Vieira ', 'date': '9 de novembro de 2017', 'score': 5, 'content': 'Muito bom de mais '}
+{'author': ' Vovozona Nonato ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Legal '}
+{'author': ' fabio clash ', 'date': '8 de março de 2018', 'score': 5, 'content': 'Muito bom!! Mesmo baixem '}
+{'author': ' tiago rodrigues ', 'date': '8 de março de 2018', 'score': 5, 'content': 'N consigo voltar pra minha conta o que que eu fasso?? '}
+{'author': ' Edjane Calado ', 'date': '10 de março de 2018', 'score': 5, 'content': 'Melhor APP do mund0!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! '}
+{'author': ' Henrick Rillexing ', 'date': '10 de março de 2018', 'score': 5, 'content': 'suthymac '}
+{'author': ' Nycolas Benjamim ', 'date': '10 de janeiro de 2018', 'score': 5, 'content': 'É muito bom pq eu formatei o meu celular e eu tinha uma conta nivel 84 no clash of clãs eu ja tinha os 3 herois nivel maximo ai eu instalei de novo e tava la tudo salvo '}
+{'author': ' Eduardo Mello ', 'date': '21 de fevereiro de 2018', 'score': 1, 'content': 'Não consigo apagar um jogo que foi vinculado sem querer na minha conta agora que eu reinstalei o jogo e tinha conteúdo salvo no Facebook eu tô tentando salvar na minha conta no Google Play jogos e não tô conseguindo por causa que eu não estou conseguindo apagar porcaria da minha conta antiga desse jogo está sendo uma m****... '}
+{'author': ' JïmmY Lämär TwïsT ', 'date': '9 de março de 2018', 'score': 1, 'content': '• Nunca Penseii Qii Diria isso Mas, Prefiro a Versão Anterior.. • Quero Acreditar Qii o Fulano Qii Actualizou O G.P.J Tava Sob efeito Duma Droga Qualquer!! '}
+{'author': ' Carlos guilherme Alves aguiar ', 'date': '16 de fevereiro de 2018', 'score': 5, 'content': 'Jogabilidade ótima perfeitos gráficos realmente um bom emvestimento em matéria de divertimento '}
+{'author': ' loucos por game00 ', 'date': '6 de fevereiro de 2018', 'score': 2, 'content': 'Cara no clash of clans não tá logando, se eu perde minha conta CV 9 vou pro cesar '}
+{'author': ' ', 'date': '22 de janeiro de 2018', 'score': 5, 'content': 'Eu amo esse APP para poder guardar os e mails '}
+{'author': ' KrathuzBR ', 'date': '11 de março de 2018', 'score': 4, 'content': 'Seria bacana se eu pudesse capturar a tela dos meus jogos no meu android 4.4 com esse app '}
+{'author': ' Jamili Bueno ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Muito legal Eu tenho no meu celular .No do meu irmão e da minha mãe e no celular do meu outro irmão e dos meus primos 😏😏😀😀 '}
+{'author': ' Rosilene Francisco de Jesus herique ', 'date': '22 de janeiro de 2018', 'score': 1, 'content': 'Ruir pode não sevi não pesta '}
+{'author': ' PedroGamer Oficial seu canal de videos é aqui ', 'date': '4 de fevereiro de 2018', 'score': 4, 'content': 'Eu gostei do aplicativo mas cade o gravador o meu canal e de gravar videos por favor coloquem gravador '}
+{'author': ' Brian Dos Santos ', 'date': '10 de março de 2018', 'score': 5, 'content': 'Não esta mostrando a lista de conquista, por favor arrumam e esta com algumas instabilidades na conexao '}
+{'author': ' Gean Germano ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Não curto muito mas sou obrigado a usar para salvar meu games '}
+{'author': ' soarescruvinel ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Serve pra nada na minha opinião, apenas para guardar o save do clash royale '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 4, 'content': 'Muito bom Poderia ter como comprar armas sem ser com dinheiro '}
+{'author': ' Ledilson Moreira ', 'date': '5 de fevereiro de 2018', 'score': 5, 'content': 'Excelente!!!! '}
+{'author': ' Raphael rafa ', 'date': '11 de março de 2018', 'score': 5, 'content': 'O melhor não tem outro igual único primogênito '}
+{'author': ' Berriel ́s ', 'date': '13 de janeiro de 2018', 'score': 5, 'content': 'Mobile é um game excelente de prática jogabilidade '}
+{'author': ' IVIS .L GAMES ', 'date': '11 de março de 2018', 'score': 5, 'content': "Muitobo n ajudar equer varias salvadas de atualiza'çoes do jogo "}
+{'author': ' Sandra Santoro Rezende ', 'date': '11 de março de 2018', 'score': 3, 'content': 'Não tenho enterece '}
+{'author': ' Hércules ', 'date': '5 de março de 2018', 'score': 1, 'content': 'Problema ao grava vídeo no moto g2 '}
+{'author': ' Matinas gamer ', 'date': '9 de março de 2018', 'score': 1, 'content': 'No meu aparelho móvel não instala '}
+{'author': ' deborah dede ', 'date': '8 de março de 2018', 'score': 5, 'content': 'Gostei muito Ótimo APP abaixem ! '}
+{'author': ' Paulo Fernando Leandro Castro Junior ', 'date': '6 de março de 2018', 'score': 2, 'content': 'Cadê travou nos 100 porcaria I agora? '}
+{'author': ' Carlos Hiago Ramos ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Mto bom pra salvar progresso nos jogos '}
+{'author': ' Kill 0076 ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Muito bom bom msm eu recomendo '}
+{'author': ' Williams Silva ', 'date': '6 de março de 2018', 'score': 5, 'content': 'Porque o ícone no meu celular não mudou?? '}
+{'author': ' imao imao ', 'date': '3 de fevereiro de 2018', 'score': 5, 'content': 'Gostei muito dessa atualizaçao '}
+{'author': ' Raivosso JX ', 'date': '28 de fevereiro de 2018', 'score': 5, 'content': 'MUITO BOM De mais '}
+{'author': ' jb game player ', 'date': '8 de março de 2018', 'score': 5, 'content': 'Muito bom '}
+{'author': ' Dj AndyP ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Muito bom!!! '}
+{'author': ' Pedro Enzo ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Bom,muito bom '}
+{'author': ' detudo um pouco ', 'date': '19 de fevereiro de 2018', 'score': 5, 'content': 'Demora demais pra abrir '}
+{'author': ' Hugo Carlos ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Q negocio bom '}
+{'author': ' Bet Sousa ', 'date': '20 de fevereiro de 2018', 'score': 3, 'content': 'E muito bom '}
+{'author': ' Daniel Moura ', 'date': '9 de março de 2018', 'score': 5, 'content': 'É muito legal '}
+{'author': ' Evandro Alves ', 'date': '11 de março de 2018', 'score': 1, 'content': 'Eca! '}
+{'author': ' Maurício Dj ', 'date': '12 de janeiro de 2018', 'score': 1, 'content': 'Dificilmente uso😕 '}
+{'author': ' Cinthya Moreira ', 'date': '8 de março de 2018', 'score': 5, 'content': 'Excelente para jogos '}
+{'author': ' Susane Fernandes ', 'date': '1 de março de 2018', 'score': 5, 'content': 'Muito bom '}
+{'author': ' Mari Mochi ', 'date': '19 de fevereiro de 2018', 'score': 1, 'content': 'Muy mal '}
+{'author': ' Raphael moreno ', 'date': '6 de março de 2018', 'score': 4, 'content': 'Suave GP10 '}
+{'author': ' Reeh Waalkeer ', 'date': '8 de março de 2018', 'score': 5, 'content': 'Mt bom '}
+{'author': ' Rodrigo Silveira ', 'date': '15 de fevereiro de 2018', 'score': 5, 'content': 'Muito bom '}
+{'author': ' ', 'date': '10 de março de 2018', 'score': 5, 'content': 'Bom dimais '}
+{'author': ' ', 'date': '12 de fevereiro de 2018', 'score': 4, 'content': 'Muito bom '}
+{'author': ' Ana Mulima ', 'date': '16 de fevereiro de 2018', 'score': 5, 'content': 'Muito bom '}
+{'author': ' EDU CLASH_ 01 ', 'date': '28 de fevereiro de 2018', 'score': 5, 'content': 'Slc top '}
+{'author': ' Gabriel games YouTube David ', 'date': '4 de março de 2018', 'score': 5, 'content': 'Muito bom '}
+{'author': ' Gabriel Castro ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Muito bom '}
+{'author': ' Renildo Silva ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Fdm Fdm tbm '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Adicionem😎 '}
+{'author': ' YS GAME ', 'date': '10 de março de 2018', 'score': 4, 'content': 'Bom? '}
+{'author': ' t tampinha ', 'date': '1 de março de 2018', 'score': 5, 'content': 'Kkkkk '}
+{'author': ' Lucas_Uchiha ', 'date': '6 de março de 2018', 'score': 5, 'content': 'Bom '}
+{'author': ' LUKE EXTREME PLAY ', 'date': '14 de fevereiro de 2018', 'score': 5, 'content': 'Bom '}
+{'author': ' Carlos Kayk ', 'date': '1 de março de 2018', 'score': 5, 'content': 'Massa '}
+{'author': ' Solangequirino Oliveira Silva ', 'date': '15 de fevereiro de 2018', 'score': 5, 'content': 'Ótimo '}
+{'author': ' ', 'date': '4 de março de 2018', 'score': 5, 'content': 'Bim '}
+{'author': ' Christian Btt ', 'date': '10 de fevereiro de 2018', 'score': 5, 'content': 'Ótimo '}
+{'author': ' LaraCroft_BlueGameplays Music&RemixChannel ', 'date': '11 de fevereiro de 2018', 'score': 5, 'content': 'Recomendado '}
+{'author': ' Suzana Vitória ', 'date': '18 de fevereiro de 2018', 'score': 5, 'content': 'Bom '}
+{'author': ' ', 'date': '20 de fevereiro de 2018', 'score': 5, 'content': 'Topperŕrt '}
+{'author': ' ', 'date': '23 de fevereiro de 2018', 'score': 5, 'content': 'Ótimo '}
+{'author': ' Eduardo Rodrigo ', 'date': '1 de março de 2018', 'score': 4, 'content': 'Nada '}
+{'author': ' fight royale ', 'date': '5 de março de 2018', 'score': 5, 'content': 'Otimo '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Bom '}
+{'author': ' alex de jesus ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Bom '}
+{'author': ' Luis Renato ', 'date': '7 de março de 2018', 'score': 5, 'content': '😍😍 '}
+{'author': ' joao santos ', 'date': '9 de dezembro de 2017', 'score': 1, 'content': 'Atualizacao horrivel nao gostei nem pouco do novo design fico perdido em tudo e nao consigo ver meu perfil direito nem de outros jogadores e perdi o processo dos meus jogos mesmo reconectando eles com a conta da play games nao consigo recuperar meus processos por favor resolvam isso '}
+{'author': ' Bryan 1v9 ', 'date': '14 de novembro de 2017', 'score': 1, 'content': 'Essa interface ficou horrível e agora não tô mais conseguindo trocar de conta, eu troco no Google play games mas quando entra nos jogos loga com a que tava antes '}
+{'author': ' VICTOR PLAYS ', 'date': '7 de dezembro de 2017', 'score': 5, 'content': 'É muito bom, pois com esse aplicativo você pode salvar o progresso de seus jogos. Assim quando você logar em outro dispositivo com esta conta não perderás o progresso '}
+{'author': ' Byanca Silveira ', 'date': '25 de fevereiro de 2018', 'score': 4, 'content': 'Excelente! Ele guarda os meus dados de diversos jogos. O problema é que quando formato meu tablet, todos os dados são perdidos. Seria bom se houvesse backup de dados. '}
+{'author': ' MDK 07 ', 'date': '9 de dezembro de 2017', 'score': 5, 'content': 'Minha conta é MT bem elaborada pelo Google Play Gamer em variados jogos MT bom '}
+{'author': ' leo santos ', 'date': '26 de novembro de 2017', 'score': 4, 'content': 'Atualizem ele pois os jogos nao estao atualizando tipo csr racing ta com xp antigo e nao atulizou nem a capa do jogo '}
+{'author': ' JM Gamer ', 'date': '16 de dezembro de 2017', 'score': 1, 'content': 'N salvou minha conta no Mobile Legends, n cumpre o que promete. E n foi a primeira vez. Nossa, perdi uma conta bem avançada. E mais, n da para mudar foto, muito menos o nome.... Desenvolvedores, vcs estão dormindo? A gente que está saindo na pior por aqui. Depois dessa atualização, o app ficou uma porcaria, um lixo em todos os aspectos. E sei q nenhum de vcs irão me respnder, pois, vcs n tem conseideração, em oitras palavras, vcs estão cagando pra gente, n somos nada. Ridículo. '}
+{'author': ' ivonaldo oliveira ', 'date': '2 de março de 2018', 'score': 1, 'content': 'Não tá funcionando mais não consigo logar minha conta ficou muito ruim espero solução dos adm '}
+{'author': ' ', 'date': '6 de março de 2018', 'score': 5, 'content': 'Adorei, más o que acontece nesta atualização, nao aceita abrir com nenhuma conta diz que precisa de uma ligação à internet... '}
+{'author': ' giih Silver ', 'date': '17 de fevereiro de 2018', 'score': 1, 'content': 'Pessimo No meu celular depois que formatei nao esta mais entrando '}
+{'author': ' i De Famosos ', 'date': '12 de janeiro de 2018', 'score': 5, 'content': 'Consigo reaver meu progressos em jogos muito bom! '}
+{'author': ' GamesETutorias HD ', 'date': '4 de março de 2018', 'score': 1, 'content': 'Assassinados degradadas dissuadido de diodos difundindo dissidentes Durkheim Heidegger usadas traduzida lagartas ruralaeayET '}
+{'author': ' Spicy Onion ', 'date': '1 de dezembro de 2017', 'score': 5, 'content': 'PAC man offline integrado???ok vocês me convenceram,vou baixar e testar isso agora! '}
+{'author': ' Saulo Portela do Nascimento ', 'date': '19 de janeiro de 2018', 'score': 4, 'content': 'Show de bola esse app '}
+{'author': ' Vitor ', 'date': '8 de março de 2018', 'score': 5, 'content': 'Vale a pena baixar pra salvar sua conta se vc for trcar de cell '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Gostei pois me permite desinstalar o jogo e mesmo assim não perder o progresso!!! '}
+{'author': ' MF GAMEPLAY ', 'date': '1 de fevereiro de 2018', 'score': 5, 'content': 'É ótimo mas quando não pega apaga e baixa outra vez '}
+{'author': ' LK_Guillherme_ VII ', 'date': '8 de março de 2018', 'score': 3, 'content': 'não tou conseguindo logar minha conta nos jogos. concertem isso logo '}
+{'author': ' ', 'date': '8 de março de 2018', 'score': 5, 'content': 'Nao sei se e pão mai eu vu vi '}
+{'author': ' Rubens Neto ', 'date': '28 de fevereiro de 2018', 'score': 5, 'content': 'É muito bom mesmo adorei esta mim ajudando muito '}
+{'author': ' Rafael Henrique ', 'date': '24 de novembro de 2017', 'score': 1, 'content': 'Podia melhorar Mas ainda prefiro atualização antiga '}
+{'author': ' Pablo bh ', 'date': '9 de março de 2018', 'score': 5, 'content': 'O SAM É BRABO Q U A L I D A D E & C I N C R O N I A OU MEMEGUY1997 '}
+{'author': ' ', 'date': '31 de janeiro de 2018', 'score': 4, 'content': 'É razoável e nem é muito mau não ate pelo contrario e bom!!!!! '}
+{'author': ' Daniel Borges ', 'date': '4 de março de 2018', 'score': 5, 'content': 'Esse app e o melhor que eu já vi '}
+{'author': ' Junao Giroldo ', 'date': '8 de março de 2018', 'score': 1, 'content': 'Não tem crédito... só se comprar ou ver vídeos... vou excluir '}
+{'author': ' plantando a zuera #Toddyn ', 'date': '10 de fevereiro de 2018', 'score': 5, 'content': 'Cara, eu aconselho muito esse app '}
+{'author': ' Isak O Melhor ', 'date': '10 de dezembro de 2017', 'score': 5, 'content': 'A atualização ficou ruim '}
+{'author': ' Levi ', 'date': '18 de fevereiro de 2018', 'score': 3, 'content': 'Apresentando falhas constantes ao abrir jogos '}
+{'author': ' Maria Eduarda Dos Passos ', 'date': '8 de março de 2018', 'score': 5, 'content': 'Amo sempre usem super indico '}
+{'author': " Joana D'arc ", 'date': '29 de janeiro de 2018', 'score': 5, 'content': 'E muito bom!! Ótimo '}
+{'author': ' ', 'date': '18 de janeiro de 2018', 'score': 1, 'content': 'Eu pefiria a versão antiga '}
+{'author': ' Mauro Antonio ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Jogos E bom para conta '}
+{'author': ' Victor Nogueira ', 'date': '23 de fevereiro de 2018', 'score': 4, 'content': 'Não é ruim nem bom '}
+{'author': ' Wellington Silva ', 'date': '10 de março de 2018', 'score': 5, 'content': 'podia se mais rapido '}
+{'author': ' Alec Jhoy ', 'date': '28 de novembro de 2017', 'score': 5, 'content': 'Melhor jogo do mundo😎 '}
+{'author': ' Anderson Rodrigues ', 'date': '11 de janeiro de 2018', 'score': 4, 'content': 'Não sei talvez '}
+{'author': ' Vinny ', 'date': '13 de novembro de 2017', 'score': 5, 'content': 'Eu sou o geraldo '}
+{'author': ' Lucas Ninas ', 'date': '25 de novembro de 2017', 'score': 1, 'content': 'Não ta pegando '}
+{'author': ' victor_ 14002 ', 'date': '28 de janeiro de 2018', 'score': 5, 'content': 'Legal porra carrai '}
