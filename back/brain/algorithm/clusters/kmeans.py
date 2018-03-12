@@ -5,55 +5,52 @@ from sklearn.feature_extraction.text import TfidfVectorizer, CountVectorizer
 from sklearn.cluster import KMeans
 import matplotlib.pyplot as plt
 import tempfile
+import numpy as np
 
-a__ifile = csv.reader(open('/home/paulomoraes/Projects/lise/creep/data/prepared/cat-b.csv', 'r'))
+def main():
 
-data = []
-for row in a__ifile:
-    for i in row:
-        data.append(i)
+    list_rw = open('/home/paulomoraes/Projects/blue/back/dataset/data_clean.txt', 'r')
+    arr = list_rw.read().strip().split('\n')
 
-vectorizer = TfidfVectorizer(use_idf=True)
-x = vectorizer.fit_transform(data)
+    vectorizer = TfidfVectorizer(use_idf=True)
+    bag_of_words = vectorizer.fit_transform(arr)
 
-tf_ = CountVectorizer(max_df=0.95, min_df=5)
-xx = tf_.fit_transform(data)
+    # vectorizer = CountVectorizer(max_df=0.95, min_df=5)
+    # bag_of_words = vectorizer.fit_transform(vtr)
+    print(bag_of_words)
 
-iris = load_iris()
-data = iris.data
-labels = iris.target
-labels_names = iris.target_names
+    kmeans = KMeans(n_clusters = 2, init = 'random')
+    kmeans.fit(bag_of_words)
+    # print(kmeans.labels_)
 
-print(data)
+    distance = kmeans.fit_transform(bag_of_words)
+    # print(distance)
 
-kmeans = KMeans(n_clusters = 3, init = 'random')
-kmeans.fit(x)
-print(kmeans.cluster_centers_)
+    # labels = kmeans.labels_
+    # print(labels)
 
-distance = kmeans.fit_transform(data)
-print(distance)
+    # vtr = []
+    # for i in range(1, 11):
+    #     kmeans = KMeans(n_clusters = i, init = 'random')
+    #     kmeans.fit(bag_of_words)
+    #     print i,kmeans.inertia_
+    #     vtr.append(kmeans.inertia_)
+    # plt.plot(range(1, 11), wcss)
+    # plt.title('METODO ELBOW')
+    # plt.xlabel('No Clusters')
+    # plt.ylabel('WSS')
+    # plt.show()
 
-labels = kmeans.labels_
-print(labels)
+    # plt.scatter(bag_of_words[:, 0], bag_of_words[:,1], s = 100, c = kmeans.labels_)
+    # plt.scatter(kmeans.cluster_centers_[:, 0], kmeans.cluster_centers_[:, 1], s = 300, color = 'green', label = 'Centroids')
+    # plt.title('Reviews Clusters and Centroids')
+    # plt.xlabel('X')
+    # plt.ylabel('Y')
+    # plt.legend()
+    #
+    # plt.show()
 
-wcss = []
-for i in range(1, 11):
-    kmeans = KMeans(n_clusters = i, init = 'random')
-    kmeans.fit(x)
-    print i,kmeans.inertia_
-    wcss.append(kmeans.inertia_)
-plt.plot(range(1, 11), wcss)
-plt.title('METODO ELBOW')
-plt.xlabel('No Clusters')
-plt.ylabel('WSS')
-plt.show()
+    print("***** -------- *******")
 
-plt.scatter(x[:, 0], x[:,1], s = 100, c = kmeans.labels_)
-plt.scatter(kmeans.cluster_centers_[:, 0], kmeans.cluster_centers_[:, 1], s = 300, c = 'red',label = 'centroids')
-plt.title('CLUSTERS REVIEWS - CATEGORY EDUCATION GAME')
-plt.xlabel('LENGHT')
-plt.ylabel('WIDHT')
-plt.legend()
-plt.show()
-
-print("***** -------- *******")
+if __name__ == "__main__":
+    main()

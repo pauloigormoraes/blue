@@ -15,7 +15,7 @@ options = {
     "reviewType": "0",
     "pageNum": "5",
     "lang": "pt",
-    "id": "com.ss.android.article.topbuzzvideo.general",
+    "id": "com.netflix.mediaclient",
     "reviewSortOrder": "2",
     "xhr": "1"
 }

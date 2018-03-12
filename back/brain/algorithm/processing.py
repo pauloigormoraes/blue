@@ -13,7 +13,7 @@ sys.setdefaultencoding("utf-8")
 fp = tempfile.TemporaryFile(mode='w+t')
 
 i_file = open('/home/paulomoraes/Projects/blue/back/dataset/reviews.csv', 'r')
-o_file = open('/home/paulomoraes/Projects/blue/back/dataset/data_clean.csv', 'w')
+o_file = open('/home/paulomoraes/Projects/blue/back/dataset/data_clean.txt', 'a')
 
 def rm_punctuation(text):
     regex = rexpression.compile('[%s]' % rexpression.escape(punctuation))
@@ -50,13 +50,23 @@ def stemming(document):
     return (' '.join(stm))
 
 def main():
+    arr = []
     for row in i_file:
         docw = rm_punctuation(unicode(row))
         docw = rm_stopwords(docw)
         docw = tokenize(docw)
-        docw = stemming(docw)
+        docw = stemming(unicode(docw))
         o_file.write(docw)
         o_file.write('\n')
+        o_file.close
+        arr.append(docw)
+
+    # o_file.write(str(arr))
+    # o_file.close
+
+    # with open('/home/paulomoraes/Projects/blue/back/dataset/data_clean.csv', 'a') as csvfile:
+    #     spamwriter = csv.writer(csvfile, delimiter=' ')
+    #     spamwriter.writerow([arr])
 
     print
     print('********* PREPARED STOPWORDS *********')
