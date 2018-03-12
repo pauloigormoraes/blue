@@ -558,3 +558,313 @@
 {'author': ' Gabriel Menezes Lopes ', 'date': '1 de fevereiro de 2018', 'score': 2, 'content': 'Mesmo com internet rápida demora a carregar '}
 {'author': ' Marins Mercante ', 'date': '8 de março de 2018', 'score': 3, 'content': 'Melhorou '}
 {'author': ' Gledson Kakazu Corrêa ', 'date': '15 de janeiro de 2018', 'score': 1, 'content': 'Uma porcaria, trava toda hora, lento, player sem comandos precisos. LIXO '}
+{'author': ' Brenda Adriele ', 'date': '29 de janeiro de 2018', 'score': 5, 'content': 'É o melhor app q eu já baixei n precisa paga e tem vários filmes e séries mas eu tenho algumas dicas para os desenvolvedores (eu tentei entrar em um filme mas n deu, e eu queria tbm q tive se novas atualizações com mais filmes novos e séries). '}
+{'author': ' Davi Box ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Muito bom mias pode melhorar se colocarem mais rápido os filmes novos e tem uns que não tá em português Brasil consertem isso por favor só botem filmes legais e botem filme Kung Fu panda blz👍 '}
+{'author': ' Fernanda Mar ', 'date': '7 de janeiro de 2018', 'score': 4, 'content': 'E muito bom mas trava muito tem um problema fui assistir a um filme parei na metade, porém qdo fui retornar pra ver o restante o filme não abre mais 😧 fica escuro não roda me ajudem foi o melhor q encontro até agora. '}
+{'author': ' Rogerio Arantes ', 'date': '26 de dezembro de 2017', 'score': 1, 'content': "Tem muita variedade de filme, o problema que a grande maioria tem a propaganda de marca d'agua na tela do filme. Horrível! Tem que rever o conceito de parcerias de quem fornece os filmes. Tudo bem que precisam divulgar os parceiros, façam isso no inicio, antes de começar o filme. Não índico o app "}
+{'author': ' ADILSON DA SILVA ', 'date': '17 de fevereiro de 2018', 'score': 1, 'content': 'Foram mexer no aplicativo fizeram estragar ele e tava tão bom agora diz que não foi possível acessar link parabéns conseguiram destruir um aplicativo melhor q eu achava. '}
+{'author': ' Sergio Hamilton ', 'date': '9 de janeiro de 2018', 'score': 3, 'content': 'Os filmes sao topes mas na hora q ta assistindo e quando chega próximo ao meio aparece uma msn dizendo q esse filme nao pode ser reproduzido e ja era nao ve mais nada .....e nao é a primeira vez isso ... '}
+{'author': ' Paulo Alexandre Araújo Miranda da Silva ', 'date': '11 de março de 2018', 'score': 3, 'content': 'Gosto muito do app, porém tá tendo muito anúncios de propaganda, e não estou conseguindo assistir filmes! Já estou pensando em desinstalar o app do meu celular! Por isso abaixei a nota para Três estrelas! Ninguém, não me da nenhuma resposta, não tô conseguindo abrir nenhum filme! '}
+{'author': ' ', 'date': '12 de março de 2018', 'score': 5, 'content': 'Eu gostei muito mais acho que o São pode mudar algumas coisas ..tipo quando vou procurar por um filme não da pra escrever o nome todo mais o App e maravilhoso tô amando '}
+{'author': ' Edme Claudino ', 'date': '7 de março de 2018', 'score': 5, 'content': 'Ótimo espero que não mude nada, às vezes só que não pega o filme mas fora isso está ótimo. '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Ótimo app, sempre com filmes atualizados e em ótima qualidade, uma pena que o Hobbit e Harry Potter não estão reproduzindo, mas exceto isso continua sendo um app muito bom, parabéns aos desenvolvedores. '}
+{'author': ' Ricardo Rodrigues ', 'date': '12 de março de 2018', 'score': 5, 'content': 'Um dos melhores apps a seguir a linha do Filmflix apenas não repitam o erro de ficar a cobrar para ser vip e com actualizações desnecessárias sendo que o mesmo está óptimo como está. '}
+{'author': ' Antonio Carlos Batista ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Olá app é muito bom, gostaria se por um acaso vcs ver essa msg de assistir tds os filmes ANJOS DAS NOITE, PREMONIÇÃO, SOLDADO UNIVERSAL, A LEI É PARA TODOS, alguns filmes brasileiro, dependendo do filme eu assisto, filmes para maiores de 18 anos e coloca filme de 6 meses em diante, exemplo se hj é dia 11/03/2018, vcs coloca filmes lançado a partir do dia 11/09/2017 em diante. '}
+{'author': ' ', 'date': '10 de março de 2018', 'score': 3, 'content': 'Aplicativo é bom, não precisa pagar nada pra assistir...Só que tá precisando de filmes recentes, os filmes que estão lá são antigos, só isso q precisava melhorar. '}
+{'author': ' JuLLy BaRbiE ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Amo esse app, graças a ele consegui ver muitos filmes lançados a pouco tempo,a única coisa chata é que não funciona na parte da tarde 😓 '}
+{'author': ' Gleidson Lopes ', 'date': '12 de março de 2018', 'score': 5, 'content': 'Um bom aplicativo, no meu moto G3 roda muito bem, os filmes tem qualidade de imagem e áudio boa, e também encontra filmes que foram lançados recentemente. '}
+{'author': ' Luan Oliveira ', 'date': '23 de dezembro de 2017', 'score': 2, 'content': 'Porquê agr o app não quer mais aparecer os filmes? Arrumem isso '}
+{'author': ' marcos Vinicius ', 'date': '12 de março de 2018', 'score': 5, 'content': 'Muito bom!!... Filmes novos com boa qualidade de áudio e vídeo..... Consigo reproduzir os filmes sem uma demora muito prolongada, considerando que a minha internet é lenta. '}
+{'author': ' Joney Santana ', 'date': '12 de março de 2018', 'score': 5, 'content': 'Muito bom !Pena que não consigo jogar os filmes na smart TV e nem baixar no PC! Nas e sim um bom aplicativo, parabéns !Ah!Ainda não vi um faroeste 😊😊 '}
+{'author': ' iris Sousa ', 'date': '12 de março de 2018', 'score': 4, 'content': 'É bom, tá escrito que é pra vê filmes e séries, mas quando coloco pra vê séries vai direto pro playstore pra baixar outro App, não entendi o porque disso. ??? '}
+{'author': ' Cristiano Clemente ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Parabéns para desenvolveu esse App, na minha opinião é o melhor, se tem alguém reclamando é por que o celular ou a Internet do celular que é ruim..Ok? Obrigado '}
+{'author': ' Janice Aparecida ', 'date': '12 de março de 2018', 'score': 5, 'content': 'Muito bom, não trava quando estou assistindo aos filmes, com imagem muito boa.Adorei encontrar esse aplicativo! Estava procurando há muito tempo '}
+{'author': ' Rafael Nogueirabarros ', 'date': '12 de março de 2018', 'score': 4, 'content': 'Bom gostei ,mas um iconi que espelhava pra conectar na smart tv não aparece mais na função do App mas os filmes rolam de verdade. '}
+{'author': ' Fabricio Vilarim ', 'date': '11 de março de 2018', 'score': 4, 'content': 'Gostei muito! Não tem milhaaaares de títulos, mas a maioria é filme recém lançado nos cinemas! Ótima qualidade de som e imagem! Muito bom! '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'o melhor que eu ja acheii ..Procurei demais um app pra assitir filmes e series gratis e achei esse .Too gostando demais recomendo ... '}
+{'author': ' Juliana oliveira santos ', 'date': '12 de março de 2018', 'score': 5, 'content': 'Adorei pois não trava e consigo assistir todo o filme parabéns que continue assim é sempre melhorando cada vez mais '}
+{'author': ' ', 'date': '9 de março de 2018', 'score': 5, 'content': 'É muito bom! As vezes o filme fica travando. -- Atualizando (09/03): atualmente quase não trava. '}
+{'author': ' Marcelo Salandin ', 'date': '10 de março de 2018', 'score': 5, 'content': 'o melhor aplicativo que já vi,se eu pudesse daria o universo de estrelas, parabéns aos criadores, não tem que mudar nada, é simplesmente PERFEITO '}
+{'author': ' Noelmo Lima ', 'date': '12 de março de 2018', 'score': 5, 'content': 'Gostei muito,só precisa na minha opinião melhorar em duas coisas: a interface e colocar filmes mas novos. '}
+{'author': ' Franciney Peres ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Só seria bom si colocasse mais filmes atuais,desculpe,mas tem muitos filmes antigos. Fora o resto é muito bom . '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Muito bom esse app nao precisa pagar e tbm ja vi muitos filmes que queria ver parabens '}
+{'author': ' jose neurenberg de oliveira. Neurenberg ', 'date': '11 de março de 2018', 'score': 5, 'content': 'So nao entendi porque essa lista alternativa q nao reproduz no meu 👍? ????cara continua a msma coisa se a resoluçao e alta nao énem pra aparece na lista '}
+{'author': ' Flávia Regina ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Pq eu assisto na minha smart tv filmes do YouTube e aqui no alerta filmes não consigo. Aguardo o feedback de vocês. '}
+{'author': ' CINTIA SILVA ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Tem pouco tempo que instalei o app , ainda não tive tempo de olhar mas detalhadamente , mas o que já olhei gostei muito '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Eu gosto muito desse aplicativo olho muitos filmes e recomendo pra quem está pensando em baixar ele👌👍 '}
+{'author': ' andrea C Martins ', 'date': '11 de março de 2018', 'score': 4, 'content': 'Mto bom, pena q tem filmes q não espelham na Smartv. E não tem Pai em dose dupla 1 '}
+{'author': ' DS Reviews ', 'date': '12 de março de 2018', 'score': 4, 'content': 'APP roda filmes com boa qualidade, faz jus ao prometido, mas não tem uma lista muito ampla. '}
+{'author': ' ', 'date': '12 de março de 2018', 'score': 4, 'content': 'Ótimo esse APP.. Todo dia tem novos lançamentos de filmes esse eh o melhor aplicativo para assistir filme '}
+{'author': ' ', 'date': '9 de março de 2018', 'score': 1, 'content': 'Não consigo ver filme algum, sempre que clico em um determinado filme mostra um monte de anúncios. Não dá pra acisti '}
+{'author': ' Edson Freitas Melo ', 'date': '12 de março de 2018', 'score': 5, 'content': 'App excelente qualidade de filmes HD o melhor que já criaram até hoje estão de parabéns 😎😁🤗 '}
+{'author': ' ', 'date': '10 de março de 2018', 'score': 4, 'content': 'O app é bom! Pode melhorar se separar os filmes por categorias! Ex: Ação, Romance, Religiosos, etc. '}
+{'author': ' Adriano Santos ', 'date': '12 de março de 2018', 'score': 5, 'content': 'Esse app e ótimo pra assistir filmes só que não tem muito mas sempre aparece um bom '}
+{'author': ' Franciane Regina ', 'date': '12 de março de 2018', 'score': 5, 'content': 'Excelente apss, uso bastante. Muitos filmes e séries . E o melhor todo dia tem novidades '}
+{'author': ' Celia Alvarenga ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Vocês é que são uns amores! Valeu ! Meu carnaval vai ser puro cinema. Feliz carnaval pra vocês também. Xerooo! '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'O app é bom. Filmes de graça sem propaganda e sem frescura nenhuma que alguns sites tem! '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Só queria saber se posso jogar o filme na Smart tv?! Os filmes são bons! '}
+{'author': ' Marto Renato Araujo Sa ', 'date': '12 de março de 2018', 'score': 5, 'content': 'Gostei bastante do aplicativo, opções recentes de filmes e séries. De negativo a demora para carregar o processamento. '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'E...ótimo está app estou amando parabéns pra vocês continuando assim cada vez melhor. 😚😚 '}
+{'author': ' ', 'date': '14 de fevereiro de 2018', 'score': 2, 'content': 'Arrumem porfavor se arrumarem os filmes que nao da pra ver as imagem vou dar 5 estrelas '}
+{'author': ' Fernando Duarte ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Muito bom o App... Tem lançamentos e alguns filmes antigos que fizeram sucesso. Eu super recomendo ! 👏👏👏 '}
+{'author': ' ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Obrigado por tudo. Eu amei o aplicativo. Me amarrei msm tem de tudo que bom . Nem pago as o Netflix. .. graças a Deus ... '}
+{'author': ' Viviane Sabrina Beus ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Gostei muito,o único problema são os anúncios pedindo pra vc baixar mais apps. '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Fácil de usar! Seria melhor se tivesse classificação por gênero, tipo romance, suspense etc! '}
+{'author': ' Audo Filho ', 'date': '10 de março de 2018', 'score': 4, 'content': 'O app é muito bom, porém devia ter como desativar as notificações, se tem não encontrei!!! '}
+{'author': ' Vagner Luis ', 'date': '11 de março de 2018', 'score': 4, 'content': 'App muito bom agradeço aos criadores por esse aplicativo vc6 estão de parabéns obrigado. '}
+{'author': ' Jo Rockenbach ', 'date': '11 de março de 2018', 'score': 4, 'content': 'Bom... Ainda pode melhorar, mas estou gostando . Filmes com boa qualidade de imagem. Vale a pena. '}
+{'author': ' ', 'date': '19 de fevereiro de 2018', 'score': 2, 'content': 'Ta Horrível. Não ta baixando mais os vídeos e Ta Dando erro quando vai assistir '}
+{'author': ' Ailton Souza ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Ficaria muito melhor se desse pra transmitir na TV smartv mas o App e ótimo '}
+{'author': ' ', 'date': '12 de março de 2018', 'score': 5, 'content': 'Amei este aplicativo, não imaginei que fosse tão bom, superou minhas espectativas. '}
+{'author': ' Thiago Oliveira ', 'date': '11 de março de 2018', 'score': 5, 'content': 'APP perfeito para assistir filmes adicionem mais filmes eu recomendo o operação big hero '}
+{'author': ' Sabita Oliveira ', 'date': '2 de janeiro de 2018', 'score': 5, 'content': 'Amei tudo '}
+{'author': ' kadugameplay 007 ', 'date': '12 de março de 2018', 'score': 5, 'content': 'Será que por favor podem colocar o filme vigilante do amanhã, quero muito assistir, obrigado '}
+{'author': ' Weseley edy Ribeiro ', 'date': '11 de março de 2018', 'score': 4, 'content': 'Bom. Porem qnd saimos do filme , ele recomeca tudo outra vez '}
+{'author': ' Antonio Rubens Silva ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Queria saber se há alguma configuração pois quando transmito para o Chromecast ele para a começa do início do filme tenho que monitora pra não perder de onde parou, outra coisa não consigo transmitir para smarttv, aguardo retorno valeu '}
+{'author': ' vivilopes31 ', 'date': '11 de março de 2018', 'score': 4, 'content': 'Esse app é mto bom, porem alguns filmes ainda estão em inglês '}
+{'author': ' Augusto César ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Para quem gosta de assistir a filmes e seriados este é o melhor app que já vi '}
+{'author': ' diego siqueira ', 'date': '6 de março de 2018', 'score': 5, 'content': 'Muito bom gostei seria melhor ainda se tivesse um versão para PC '}
+{'author': ' Erlandia Meres Dos Santos ', 'date': '12 de março de 2018', 'score': 5, 'content': 'Foi foi o melhor app que ja baixei muito bom mesmo recomendo '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Muito bom so que pra roda sem travar epreciso de 10 mga de internet '}
+{'author': ' Michelle Silvestre ', 'date': '10 de março de 2018', 'score': 1, 'content': 'Nao gostei ! Quando eu clico na série ele abre outro link pra que eu possa baixar um outro app ! Triste !!!! '}
+{'author': ' a revolução filmes ', 'date': '7 de março de 2018', 'score': 5, 'content': 'Não tenho que falar agradeço muito ao criador deste App Espero que daqui uns dias não seja pago e caso se o app for pago me libera aí beleza Amei o app boa qualidade e vale a pena dar 5 estrelas '}
+{'author': ' fabiana barros ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Muito legal este app roda os filmes bem gostei muito ! '}
+{'author': ' jefferson do carmo barbosa lima ', 'date': '12 de março de 2018', 'score': 5, 'content': 'Excelente se pudéssemos assistir na tv pelo PC seria bom! '}
+{'author': ' Genilson Barbosa ', 'date': '12 de março de 2018', 'score': 5, 'content': 'muito bom mesmo, só gostaria que os filmes vinhessem dublados em todos '}
+{'author': ' ', 'date': '10 de março de 2018', 'score': 5, 'content': 'Muito obrigado pelos filmes ótimos manda ai um tira da pesada '}
+{'author': ' ', 'date': '4 de fevereiro de 2018', 'score': 5, 'content': 'Como eu gosto de filme esse app e muito ótimo adorei😍 '}
+{'author': ' Evertonrenata Santos ', 'date': '16 de fevereiro de 2018', 'score': 5, 'content': 'Parou o ap so da erro de rede e os que abre e so audio.so funciona nos filmes velhos '}
+{'author': ' Geovana Facci ', 'date': '24 de fevereiro de 2018', 'score': 5, 'content': 'Eu gostei muito quase todo dia tem filme novo.Muito bom '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Curti assisto filmes todo os dias muito legal esse app '}
+{'author': ' Marcos Martins ', 'date': '12 de março de 2018', 'score': 5, 'content': 'Vcs poderiam colocar alguns animes tb só os mais conhecidos '}
+{'author': ' Luciana Santiago ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Muito bom, nao trava, varios filmes e séries, mais poderia ter mais filmes infantis '}
+{'author': ' ', 'date': '12 de março de 2018', 'score': 5, 'content': 'Muito bom os filmes são em HD e a lista vem crescendo a cada dia ... '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Gostei muito so que demora para rodar o filme fica travado muito obrigado '}
+{'author': ' José dos Campos ', 'date': '12 de março de 2018', 'score': 2, 'content': 'Agora consigo ver meus filmes os que eu gosto adiciono nos favoritos.. '}
+{'author': ' marcos ferreira ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Gostei muito,pois a variedade de filmes é muito grande e d e qualidade, parabéns. '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Bom alguns filme não abre ,aplicativo muito bom ! '}
+{'author': ' Fernanda Costa ', 'date': '12 de fevereiro de 2018', 'score': 5, 'content': 'Podiacter mais filmes romanticos e de drama tem muito terror. '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Até agora está bem menos as séries que não roda '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 3, 'content': 'Tinha que ter mais filmes O que você escrevesse aparecia '}
+{'author': ' ', 'date': '9 de março de 2018', 'score': 4, 'content': 'Muito bom apenas alguns filmes que ainda está em inglês '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Aplicativo muito bom filmes de muita qualidade ta de parabéns. '}
+{'author': ' Jucy Santos ', 'date': '8 de março de 2018', 'score': 3, 'content': 'Por favor botar a opção que poça transmite os filmes pra televisão '}
+{'author': ' ', 'date': '12 de março de 2018', 'score': 5, 'content': 'Estou gostando muito espero que não mude tá ótimo '}
+{'author': ' ', 'date': '12 de março de 2018', 'score': 5, 'content': 'Um bom app ótimo para assistir filmes e seriados antigos '}
+{'author': ' Marcos Souza ', 'date': '11 de março de 2018', 'score': 4, 'content': 'E muito bom gostei muito do poderia ter mais filmes '}
+{'author': ' ', 'date': '10 de março de 2018', 'score': 5, 'content': 'Pudia por alguns de luta c tiver. É parabéns o epp e ótimo. '}
+{'author': ' Panela Nascimento ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Poderia ter muito mais filmes mais ele é ótimo parabéns '}
+{'author': ' Cléia Marques ', 'date': '11 de março de 2018', 'score': 5, 'content': 'App top..gosto muito ,não trava.. filmes atualizados Tdos os dias👍 '}
+{'author': ' carlos fernando ferreira da silva ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Vocês estão de parabéns pelo aplicativo de filmes eu gostei muito... '}
+{'author': ' Fabiano França ', 'date': '12 de março de 2018', 'score': 5, 'content': 'Esse aplicativo é muito bom, parabens pra quem criou, indico pra todos. '}
+{'author': ' Sid GreyJoy ', 'date': '9 de fevereiro de 2018', 'score': 3, 'content': 'Faltam muitos filmes, e oq falta de filme sobre de propaganda '}
+{'author': ' Junho Fonseca ', 'date': '10 de fevereiro de 2018', 'score': 5, 'content': 'Muito top excelente o melhor que já baixei recomendo '}
+{'author': ' Leonardo Rodrigues ', 'date': '10 de fevereiro de 2018', 'score': 5, 'content': 'Muito bom não trava e a resolução é muito boa '}
+{'author': ' marcio cruz de souza ', 'date': '26 de fevereiro de 2018', 'score': 5, 'content': 'Muito bom o melhor que já baixei ótimo conteúdo '}
+{'author': ' Olcimar Justo Da Silva ', 'date': '24 de fevereiro de 2018', 'score': 1, 'content': 'Ñ está funcionando mais antes tava ótimo '}
+{'author': ' gabriel teixeira ', 'date': '23 de fevereiro de 2018', 'score': 5, 'content': 'Sempre aparece esse video não está disponível '}
+{'author': ' Abenil Nerys De Almeida ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Programa muito bom e em especial para a programação do fim de semana '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Ótimo não tem oque reclamar cumpre com a descrição '}
+{'author': ' Viviane Rizzo ', 'date': '12 de março de 2018', 'score': 4, 'content': 'Pelo pouco que usei, por enquanto não tenho o que reclamar '}
+{'author': ' ', 'date': '10 de fevereiro de 2018', 'score': 5, 'content': 'Melhorou, muito mas tem poucos desenhos da dc '}
+{'author': ' Falcão vieira ', 'date': '17 de fevereiro de 2018', 'score': 5, 'content': 'Gostei muito bom apps recomendo a todos top. '}
+{'author': ' JORGE LUIZ DA SILVA SILVA ', 'date': '11 de março de 2018', 'score': 4, 'content': 'Estou gostando muito, um dois melhores app de filmes. '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Melhor aplicativo que já baixei, só filmes bons. '}
+{'author': ' Ana Sofia Tapada ', 'date': '18 de fevereiro de 2018', 'score': 4, 'content': 'É pena que haja tantos desenhos pagos e tão poucos gratuitos a sair todos os dias. E agora desapareceu o menu onde se viam os trabalhos q já tinhamos concluido. '}
+{'author': ' melhores amigas ', 'date': '18 de fevereiro de 2018', 'score': 5, 'content': 'Esse jogo é ótimo para passar o tempo😘😍 '}
+{'author': ' Miguel Gomes ', 'date': '25 de fevereiro de 2018', 'score': 5, 'content': 'É fiche mas podia ter menos números para pintar em cada imagem😏🙄🙄😑 '}
+{'author': ' Claudia Santos ', 'date': '7 de março de 2018', 'score': 5, 'content': 'Esse jogo é muito bom e eu amei '}
+{'author': ' ', 'date': '4 de março de 2018', 'score': 5, 'content': 'Legal ame fazia mais '}
+{'author': ' ', 'date': '12 de março de 2018', 'score': 5, 'content': 'Esse jogo é ótimo '}
+{'author': ' Mercurio N00b ', 'date': '1 de março de 2018', 'score': 5, 'content': 'Muito bom '}
+{'author': ' ', 'date': '17 de fevereiro de 2018', 'score': 5, 'content': 'Nao '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'amei '}
+{'author': ' Ludymila Castro Csstro ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Ame '}
+{'author': ' daiane oliveira ', 'date': '9 de fevereiro de 2018', 'score': 5, 'content': 'Gostei mas diz que tem que pagar então vai se catar '}
+{'author': ' ', 'date': '25 de janeiro de 2018', 'score': 5, 'content': 'Este jogo é muito legal está aprovado 👍 '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Adorei esse jogo se é jogo😁maolis mesmo se não for jogo é legal do mesmo jeito '}
+{'author': ' ', 'date': '2 de março de 2018', 'score': 3, 'content': 'Não dá para pesquisar desenhos que nós gostemos '}
+{'author': ' ', 'date': '18 de fevereiro de 2018', 'score': 5, 'content': 'Eu amei !!! '}
+{'author': ' ', 'date': '10 de março de 2018', 'score': 5, 'content': 'E o melhor jogo que ja joguei 😘😘😘😘😘 '}
+{'author': ' ', 'date': '10 de março de 2018', 'score': 5, 'content': 'E o melhor jogo que ja joguei 😘😘😘😘😘 '}
+{'author': ' ', 'date': '5 de março de 2018', 'score': 5, 'content': 'Melhor jogo da minha vida😘😘😘😘🤗🤗🤗🤗😍😎😋😆😙😗😚😉😊 ? '}
+{'author': ' Bug _Oficial ', 'date': '16 de fevereiro de 2018', 'score': 5, 'content': 'Bo '}
+{'author': ' ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Lindo '}
+{'author': ' ', 'date': '29 de dezembro de 2017', 'score': 5, 'content': 'Maravilhoso e viciante eu não consigo parar de pintar.so tem um problema deveria ser todos os desenhos livres sem precisar pagar?? '}
+{'author': ' ', 'date': '18 de janeiro de 2018', 'score': 5, 'content': 'Parabéns muito bom ,mas tem muitos que tem que pagar e é chato '}
+{'author': ' ', 'date': '16 de janeiro de 2018', 'score': 5, 'content': 'Eu adorei a não ser vcs '}
+{'author': ' ', 'date': '17 de fevereiro de 2018', 'score': 5, 'content': 'Eu amei !!😁 '}
+{'author': ' ', 'date': '14 de janeiro de 2018', 'score': 5, 'content': 'Muito Legal👏♥ '}
+{'author': ' ', 'date': '3 de janeiro de 2018', 'score': 5, 'content': 'Incrivel '}
+{'author': ' Marcos Silva ', 'date': '14 de dezembro de 2017', 'score': 5, 'content': 'Muito legal nao tem do que reclamar😘😀 '}
+{'author': ' Emilly player ', 'date': '15 de janeiro de 2018', 'score': 5, 'content': 'É um jogo top e d+ '}
+{'author': ' SOFIA NAKAMURA CARDIN ', 'date': '6 de dezembro de 2017', 'score': 5, 'content': 'Eu amei esse jogo!!é muito bom para passar o tempo O meu problema são os desenhos que tem que pagar fora isso amei '}
+{'author': ' Sara Zonatto ', 'date': '11 de dezembro de 2017', 'score': 5, 'content': 'Gente abaixem e muito bom recomendoo a todos '}
+{'author': ' ', 'date': '23 de dezembro de 2017', 'score': 5, 'content': 'E muito legal eu amei,muito bom '}
+{'author': ' luysa anne petronilha de andrade ', 'date': '5 de dezembro de 2017', 'score': 5, 'content': 'Ótimo amei o jogo '}
+{'author': ' Moniza Gamer ', 'date': '7 de dezembro de 2017', 'score': 5, 'content': 'Muito divertido '}
+{'author': ' Marcos Alves ', 'date': '27 de janeiro de 2018', 'score': 5, 'content': 'O mlr jogo❤❤❤ '}
+{'author': ' Shmellow Otome ', 'date': '5 de dezembro de 2017', 'score': 5, 'content': 'Cool '}
+{'author': ' Luciano Santana ', 'date': '12 de dezembro de 2017', 'score': 5, 'content': 'Otimo '}
+{'author': ' Maah Taufer ', 'date': '4 de fevereiro de 2018', 'score': 4, 'content': 'é bem legal, e ótimo pra passar o tempo, mas tem MUITO desenho que é pago, os que não são são os mais feios.... '}
+{'author': ' Dutra Games ', 'date': '24 de novembro de 2017', 'score': 5, 'content': 'Muito zika pra quem não consegue baixar sandbox '}
+{'author': ' ', 'date': '21 de novembro de 2017', 'score': 5, 'content': 'Tem quer ter mais jogos bom por que esses jogos são tudo repetidor. 😠😠😠😠 '}
+{'author': ' ', 'date': '5 de dezembro de 2017', 'score': 5, 'content': 'Deveria liberar mais desenhos '}
+{'author': ' Matheus Felipe ', 'date': '26 de novembro de 2017', 'score': 5, 'content': 'Esse jogo é fera '}
+{'author': ' Bia Rosário ', 'date': '6 de dezembro de 2017', 'score': 5, 'content': 'muito bom... Viciante '}
+{'author': ' ', 'date': '13 de janeiro de 2018', 'score': 5, 'content': 'E bom '}
+{'author': ' Manu Barros Moura ', 'date': '5 de dezembro de 2017', 'score': 5, 'content': 'Muito legal '}
+{'author': " Sarah '-' ", 'date': '27 de dezembro de 2017', 'score': 5, 'content': 'Ameewin U.U '}
+{'author': ' ', 'date': '21 de novembro de 2017', 'score': 5, 'content': 'Top '}
+{'author': ' ', 'date': '5 de dezembro de 2017', 'score': 5, 'content': 'Adoreiiiiii '}
+{'author': ' ', 'date': '5 de dezembro de 2017', 'score': 5, 'content': 'Adoreiiiiii '}
+{'author': ' PandyGames BR ', 'date': '15 de novembro de 2017', 'score': 3, 'content': 'Todos os aplicativos tem algo bom em si, e esse não fica de fora, porém, é uma cópia descarada do Sandbox Coloring Oficial, isso é um absurdo, porém, não deixa de ser bom. '}
+{'author': ' Miriam Magalhães ', 'date': '18 de novembro de 2017', 'score': 5, 'content': 'É viciante '}
+{'author': ' planeta da bel ', 'date': '8 de março de 2018', 'score': 5, 'content': 'Eu gostei bastante do jogo ele é legal para quem gosta de desenhar e colorir o app é muito interessante ele não é só um app de crianças mas também de adolescente, adultos, idosos... O espaço de clicar para colorir não é pequeno concluindo o app é bom mas podia ter mais desenho para colorir mas é legal mesmo assim 😘😘 '}
+{'author': ' ', 'date': '8 de março de 2018', 'score': 4, 'content': 'Se esse jogo tivesse uma opçao de alternar o celular entre vertical e horizontal poderia receber cinco estrelas mais por enquanto apenas 4 '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 1, 'content': 'Olha eu tento instalar o jogo é n vai sendo que eu n tenho nenhum jogo q possa fazer ele n instalar então acho perda de tempo '}
+{'author': ' Ana Paula Lutke ', 'date': '8 de março de 2018', 'score': 5, 'content': 'Muito bom tem vários desenho e agora o atualizado que vem classificado como animal pessoas animes etc muito bom '}
+{'author': ' Antonio Carlos Possebom ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Eu já jogava esse jogoe eu já fiz mais de 15 desenhos e eu achei múito legal '}
+{'author': ' Johnny Gabriel ', 'date': '11 de março de 2018', 'score': 5, 'content': 'É muito bom mas é uma pena que tenha que pagar uns desenhos por favor resolva isso '}
+{'author': ' ', 'date': '12 de março de 2018', 'score': 5, 'content': 'E bom porque agente não precisa apertar em um quadradinho de cada vez '}
+{'author': ' Cauã Monteiro ', 'date': '12 de março de 2018', 'score': 4, 'content': 'Eu gostei mas tem mtodos os desenhos legais sao pagos '}
+{'author': ' ', 'date': '3 de março de 2018', 'score': 5, 'content': 'Amei, muito bom, mas poderia ter mais variedades para pintarmos! '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Esse jogo o melhor jogo de pintar mais podia ter mais desenhos '}
+{'author': ' ', 'date': '9 de março de 2018', 'score': 1, 'content': 'Esse jogo é muito ruim travo meu M7S 😤😤 não instale 😬 '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'É ótimo não tenho muita coisa pra falar '}
+{'author': ' Agatha Kafski ', 'date': '11 de março de 2018', 'score': 4, 'content': 'Gostei bastante do joguinho. Gosto de colorir e desenhar! '}
+{'author': ' ', 'date': '27 de fevereiro de 2018', 'score': 5, 'content': 'Esse app e maravilhoso otimo prq quem tem dificuldade pra pintar!! Amai:-);-) '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 4, 'content': 'Era bom agora está um pouco ruim '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 4, 'content': 'Era bom agora está um pouco ruim '}
+{'author': ' Pinkie Pie fofinha ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Muito booooom!!!!! Eu jogo relaxo até quanto tem chuva :P '}
+{'author': ' ', 'date': '15 de fevereiro de 2018', 'score': 5, 'content': 'esse jogo tenha o desenho do YouTube '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Adoro este jogo é muito divertido '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Esse jogo é mt bom! '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Amei, achei que ele acalma '}
+{'author': ' Alhandra Alves ', 'date': '28 de janeiro de 2018', 'score': 4, 'content': 'Esse jogo é educativo gostei '}
+{'author': ' ', 'date': '9 de fevereiro de 2018', 'score': 1, 'content': 'Esse jogo é muito ruim '}
+{'author': ' Sophia Menegol ', 'date': '28 de fevereiro de 2018', 'score': 5, 'content': 'Muito bom mano Viciei '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 3, 'content': 'Legal afinal eu adoro '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'MUITA LEGAU. SENPALAVRAS '}
+{'author': ' Lilian Simoes ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Super. Iper Riper. Mega. Legal '}
+{'author': ' Joana Silva ', 'date': '26 de janeiro de 2018', 'score': 5, 'content': 'Nao da para pintar todos '}
+{'author': ' Lavinia Giovanna ', 'date': '23 de janeiro de 2018', 'score': 5, 'content': 'amei muito bom '}
+{'author': ' ', 'date': '31 de janeiro de 2018', 'score': 5, 'content': 'Amei muito legal '}
+{'author': ' Carlos Manga ', 'date': '18 de fevereiro de 2018', 'score': 5, 'content': 'Muito bom o jogo '}
+{'author': ' ', 'date': '1 de março de 2018', 'score': 5, 'content': 'È muito bom '}
+{'author': ' wagner Junior ', 'date': '12 de março de 2018', 'score': 5, 'content': 'E muito bom '}
+{'author': ' Rozannah Andradhy ', 'date': '10 de março de 2018', 'score': 5, 'content': 'Amei!! '}
+{'author': ' ', 'date': '7 de março de 2018', 'score': 5, 'content': 'Adorei ❤️ '}
+{'author': ' fernando aguiar ', 'date': '9 de fevereiro de 2018', 'score': 5, 'content': 'Eu gostei '}
+{'author': ' ', 'date': '28 de janeiro de 2018', 'score': 5, 'content': 'Muito bom '}
+{'author': ' ', 'date': '28 de janeiro de 2018', 'score': 5, 'content': 'Muito bom '}
+{'author': ' SAM santo ', 'date': '27 de janeiro de 2018', 'score': 5, 'content': 'Bela bosta '}
+{'author': ' ', 'date': '28 de janeiro de 2018', 'score': 5, 'content': 'E bom '}
+{'author': ' ', 'date': '20 de fevereiro de 2018', 'score': 1, 'content': 'Jung njfjf '}
+{'author': ' ', 'date': '20 de fevereiro de 2018', 'score': 1, 'content': 'Jung njfjf '}
+{'author': ' ', 'date': '28 de fevereiro de 2018', 'score': 5, 'content': 'Eu amei '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Ñ tenho '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Muito bom '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'AMEI 😁 '}
+{'author': ' Tati Araujo ', 'date': '8 de março de 2018', 'score': 5, 'content': 'Ameiii💓💓💓 '}
+{'author': ' ', 'date': '28 de janeiro de 2018', 'score': 1, 'content': 'Odious '}
+{'author': ' ', 'date': '28 de janeiro de 2018', 'score': 5, 'content': 'Otimooo '}
+{'author': ' escorrega lavai1 ', 'date': '24 de janeiro de 2018', 'score': 5, 'content': 'Ótimo '}
+{'author': ' Luciana Chiba ', 'date': '11 de março de 2018', 'score': 4, 'content': 'Estou me divertindo mandando os bitmojis para os amigos e usando como stickers para fotos. Só achei que está faltando uma coisa, mais opções de olhos. Não tem uma opção que representa olhos puxados como de orientais, então deixou a desejar nesse ponto. '}
+{'author': ' Joao Cassoma ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Aplicativo bem fix '}
+{'author': ' Carlos Eduardo Chagas ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Muito legal '}
+{'author': ' ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Bom '}
+{'author': ' ', 'date': '10 de março de 2018', 'score': 5, 'content': 'Legal '}
+{'author': ' rodrigo garcia ', 'date': '2 de março de 2018', 'score': 5, 'content': 'Amei ,mas poderia existir de proficao sou cabelereira queria uma tesourinha ou um secador kkkk ia fazer maior sucesso '}
+{'author': ' leo kb ', 'date': '4 de março de 2018', 'score': 5, 'content': 'Eu amei esse app eu descobri quando baixei o snapchat '}
+{'author': ' Cacau Perdomo ', 'date': '27 de fevereiro de 2018', 'score': 3, 'content': 'Gostei da atualização mas ainda falta a possibilidade de colocar sinais do rosto como , pintas , verrugas etc... '}
+{'author': ' Scheila Fernandes ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Muito bom, com bastante opção para criar seu emoji. Fica muito parecido! '}
+{'author': ' ', 'date': '2 de março de 2018', 'score': 4, 'content': 'Amei muito esse APP❤❤❤ '}
+{'author': ' Canal Negada ', 'date': '4 de março de 2018', 'score': 5, 'content': 'Muito bom app '}
+{'author': ' ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Eu não gosto eu amo💖 '}
+{'author': ' manuella saraiva ', 'date': '10 de março de 2018', 'score': 5, 'content': 'O que era ótimo ficou melhor '}
+{'author': ' Sinistro ', 'date': '10 de março de 2018', 'score': 4, 'content': 'Gostei muito da nova versão. '}
+{'author': ' Isaias Santos ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Muito bom gosto demais '}
+{'author': ' Iuri Carvalho ', 'date': '22 de fevereiro de 2018', 'score': 5, 'content': 'Ótimo App '}
+{'author': ' LU Paixao ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Amei ,tem como colocar no Status do wattzzap??😄👏😙🌸 Ficará top👏👏👏 '}
+{'author': ' Bernardo silva ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Muito bom! '}
+{'author': ' Fernanda Freitas ', 'date': '11 de março de 2018', 'score': 3, 'content': 'Falta a opção formaturaaa '}
+{'author': ' Fernanda Freitas ', 'date': '11 de março de 2018', 'score': 3, 'content': 'Falta a opção formaturaaa '}
+{'author': ' Polyanna Cristina da Silva ', 'date': '10 de março de 2018', 'score': 5, 'content': 'Muito legal. '}
+{'author': ' Mariana Vaz ', 'date': '7 de março de 2018', 'score': 5, 'content': 'Lagal '}
+{'author': ' Nicole Felix ', 'date': '3 de março de 2018', 'score': 5, 'content': 'Muito bom '}
+{'author': ' erika evas de santana picoralli ', 'date': '4 de março de 2018', 'score': 5, 'content': 'Bom demais '}
+{'author': ' Ellen Bonis ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Muito bom '}
+{'author': ' telma de godoy silva ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Eu adorei '}
+{'author': ' Mundo Maria Cecílya Sampaio e seus unicórnios ', 'date': '10 de março de 2018', 'score': 5, 'content': 'Gostei 😍 '}
+{'author': ' ', 'date': '10 de março de 2018', 'score': 5, 'content': 'Amei😍😍 '}
+{'author': ' Thalita Karolyne ', 'date': '1 de março de 2018', 'score': 5, 'content': 'Adorei '}
+{'author': ' Marilene Soares ', 'date': '5 de março de 2018', 'score': 5, 'content': 'Amei '}
+{'author': ' Michael Firmino ', 'date': '10 de março de 2018', 'score': 5, 'content': 'Top '}
+{'author': ' Borboleta Luc ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Ótimo '}
+{'author': ' ', 'date': '7 de março de 2018', 'score': 5, 'content': '😍😍😍 '}
+{'author': ' Jack Nilson ', 'date': '7 de março de 2018', 'score': 5, 'content': 'Sensacional! O App é ótimo, há tantas opções que uso todo dia e ainda não experimentei tudo '}
+{'author': ' Jack Nilson ', 'date': '7 de março de 2018', 'score': 5, 'content': 'Sensacional! O App é ótimo, há tantas opções que uso todo dia e ainda não experimentei tudo '}
+{'author': ' ', 'date': '10 de março de 2018', 'score': 2, 'content': 'Fica o tempo todo dizendo que não tá funcinando e não consigo ver nada😳 '}
+{'author': ' Larícia Paixão ', 'date': '27 de fevereiro de 2018', 'score': 1, 'content': 'Tentando votar no paredão do BBB, mais fica travando! '}
+{'author': ' ', 'date': '5 de fevereiro de 2018', 'score': 4, 'content': 'Muito bom o aplicativo.. vale a pena. '}
+{'author': ' ', 'date': '17 de fevereiro de 2018', 'score': 1, 'content': 'É horrível não consigo acessá minha conta '}
+{'author': ' eliasfernandessilva Silva ', 'date': '22 de janeiro de 2018', 'score': 5, 'content': 'Gchor melhor aplicativo muito bom '}
+{'author': ' Ék Delicia ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Otimo Eu Aconselho Baixar '}
+{'author': ' Alessandra Vieira ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Gostei super recomendo, ... '}
+{'author': ' Kauany Santos ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Ótimo aplicativo '}
+{'author': ' Josynha Duarte ', 'date': '22 de janeiro de 2018', 'score': 5, 'content': 'Adoro '}
+{'author': ' Leandro Alves ', 'date': '11 de março de 2018', 'score': 4, 'content': 'Ótimo '}
+{'author': ' Ilmara Nascimento ', 'date': '11 de março de 2018', 'score': 5, 'content': '👏👏👏👏👏👏 '}
+{'author': ' Cleo Dias ', 'date': '8 de agosto de 2017', 'score': 1, 'content': 'Q bosta! Isso q dá querer ver essa droga, perdi meu tempo, kd os capítulos da novela a força do querer ? Qria ver somente a parte da Ivana para entender melhor mas não consigo. Qdo forem inventar um app façam bem feito e sem cobrar. Já chega a máfia q a Globo é!!! PORCARIA . '}
+{'author': ' Daniel Brasil ', 'date': '7 de março de 2018', 'score': 5, 'content': 'Ai fico desfalecido com que o Gshow me proporciona o melhor aplicativo globo eu te amo😍 '}
+{'author': ' Fernanda Silva ', 'date': '9 de abril de 2017', 'score': 1, 'content': 'Globo para de mentir tira o marcos logo desse jeito nn da ta ficando feio '}
+{'author': ' Renara Santana ', 'date': '19 de fevereiro de 2017', 'score': 1, 'content': 'Ruim,não consigo assistir videos '}
+{'author': ' Roseli Lourenço ', 'date': '9 de fevereiro de 2018', 'score': 5, 'content': 'Eu acabei de estalar mas eu já gostei '}
+{'author': ' Nattalya souza ', 'date': '3 de fevereiro de 2018', 'score': 5, 'content': 'Muito bom, da pra pegar as receitas e muito mais '}
+{'author': ' Beatriz Costa ', 'date': '5 de dezembro de 2017', 'score': 1, 'content': 'PÉSSIMO .. APLICATIVO RUIM , ANÚNCIO EM EXCESSO , DESIGNER , FACILIDADE .. HORRÍVEL . '}
+{'author': ' Ricardo Esteves ', 'date': '8 de agosto de 2017', 'score': 2, 'content': 'O app está travando muito... '}
+{'author': ' ', 'date': '25 de janeiro de 2017', 'score': 1, 'content': 'E muito ruim '}
+{'author': ' ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Muito bom😍 '}
+{'author': ' Wilson Souza Nascimento ', 'date': '6 de março de 2018', 'score': 1, 'content': 'Dá pra usar '}
+{'author': ' ', 'date': '17 de dezembro de 2017', 'score': 1, 'content': 'Horrível ... '}
+{'author': ' Jorge Emanuel Cordeiro Rocha ', 'date': '6 de fevereiro de 2018', 'score': 1, 'content': 'Péssimo '}
+{'author': ' ', 'date': '2 de janeiro de 2018', 'score': 5, 'content': '😘😘😘 '}
+{'author': ' Aline Barbosa ', 'date': '24 de janeiro de 2018', 'score': 5, 'content': 'O app não trava muito bom '}
+{'author': ' ', 'date': '27 de fevereiro de 2018', 'score': 5, 'content': 'Voto Sempre Por Aki '}
+{'author': ' May Ribeiro ', 'date': '9 de julho de 2016', 'score': 1, 'content': 'Só piora 👌🏿 Muito lento e travando. Vou desinstalar pela segunda vez porque NÃO DÁ pra manter um app que mal funciona! Por favor né Rede Globo, melhore. '}
+{'author': ' Gabriele Cristine ', 'date': '15 de junho de 2016', 'score': 1, 'content': 'Kkkkkk Depois eu dor mas estrelas '}
+{'author': ' Lucilene Gomes ', 'date': '3 de maio de 2016', 'score': 5, 'content': 'Tem que melhorar essa transmissão '}
+{'author': ' samuel santos ', 'date': '8 de maio de 2016', 'score': 1, 'content': 'Bosta Um lixo '}
+{'author': ' Sheila iêda ', 'date': '7 de junho de 2016', 'score': 5, 'content': 'Legal '}
+{'author': ' Josenildo Silva ', 'date': '16 de abril de 2016', 'score': 1, 'content': 'Josenildo Estação a bosta não está nem no meu celular fica travando '}
+{'author': ' Laiza Pimentinhaaah ', 'date': '6 de abril de 2016', 'score': 2, 'content': 'Bom mais poderia ser melhor '}
+{'author': ' José Filho ', 'date': '28 de março de 2016', 'score': 1, 'content': 'Os vídeos não abrem no meu Lg G2 O aplicativo abre nomal mas quando vou assistir a um vídeo fica só processando. Minha internet é de 10 MB. '}
+{'author': ' Abrahao Costa ', 'date': '5 de março de 2016', 'score': 1, 'content': 'Vídeos nem pensar Não recomendo. Vídeos não abrem e a navegação é lenta mesmo com sinal ótimo do Wi-Fi. Já vou desinstalar. Se tem que pagar para ficar bom estou fora. '}
+{'author': ' Elijilton dos Santos Elho ', 'date': '14 de março de 2016', 'score': 1, 'content': 'Quando a dona Geralda sair di BBB eu dou 5 estrelas ... Rsrsrs BBB16 '}
+{'author': ' jessica maria ', 'date': '10 de março de 2018', 'score': 2, 'content': 'O canal da Record sumiu, todos pega menos a Record😠 fora isso o app e bom. Quando volta dou mais estrelas 😏 '}
+{'author': ' ', 'date': '9 de março de 2018', 'score': 5, 'content': 'Nossa eu amei esse APP, é muito legal, parabéns para quem criou o APP♥♥♥ '}
+{'author': ' Bruno Costa ', 'date': '25 de fevereiro de 2018', 'score': 2, 'content': 'Este app até que é bom, mas a globo não funciona corretamente e vive travando e os desenvolvedores pedem para não postar aqui, acho que tem que postar a verdade para serem corrigidos, este aplicativo é bom , mas pode melhorar mais. '}
+{'author': ' Karol Massud ', 'date': '3 de março de 2018', 'score': 2, 'content': 'Pq vcs tiraram o BBB ? Amava o App porque assistia qualquer hora '}
+{'author': ' ', 'date': '24 de fevereiro de 2018', 'score': 4, 'content': 'Quero entrar em contato com a Central e nao consigo a Globo travou '}
+{'author': ' Douglas Pereira Resende ', 'date': '9 de março de 2018', 'score': 4, 'content': 'App ótimo Só falta a Bandeirantes '}
+{'author': ' Renato Oliveira ', 'date': '12 de março de 2018', 'score': 4, 'content': 'Kde a bande? '}
+{'author': ' Luan Henrique ', 'date': '8 de março de 2018', 'score': 5, 'content': 'Obrigado '}
+{'author': ' Averaldo Conceicao Lima Averaldo ', 'date': '11 de fevereiro de 2018', 'score': 5, 'content': 'Fui pelo público e dei cinco estrelas, por ser recomendado. '}
+{'author': ' ', 'date': '4 de março de 2018', 'score': 1, 'content': 'Tá uma porcaria Só vive faltando canais Vou desinstalar😑 '}
+{'author': ' ', 'date': '24 de fevereiro de 2018', 'score': 1, 'content': 'Gente a globo nao ta pegando ..nao perca tempo baixando '}
+{'author': ' Carlitos Joaquim ', 'date': '24 de fevereiro de 2018', 'score': 3, 'content': 'Gasta muito MB isso '}
+{'author': ' kiko Alberty Menezes ', 'date': '28 de fevereiro de 2018', 'score': 5, 'content': 'Ayhh Hhhhhh '}
+{'author': ' Leda De Domenico Pinheiro ', 'date': '21 de janeiro de 2018', 'score': 5, 'content': 'MEU DEUS!!! ESTE CRIADOR AQUI DESTE APP, ESTÁ REALMENTE DE PARABÉNS! ESTOU ACHANDO ISTO FANTÁSTICO... FICO SEM PALAVRAS. CLARO, AINDA FALTAM ALGUNS AJUSTES NOS CANAIS ABERTOS, COMO A TV RECORD, E ALGUNS OUTROS POUCOS CANAIS. MAS, AS SÉRIES DE TV COMENTÁRIOS, PESQUISAS... REALMENTE, ME FASCINOU.... '}
+{'author': ' Ernani Valente de mesquita ', 'date': '26 de fevereiro de 2018', 'score': 5, 'content': 'Daria 10 estrelas se eu podece transferir pra minha smart tv via cash aquele quadradinho igual o do you tube '}
+{'author': ' Cícero Inácio ', 'date': '1 de março de 2018', 'score': 5, 'content': 'Muito bom App de TV recomendo muito bom! '}
+{'author': ' Roberval Alves ', 'date': '28 de janeiro de 2018', 'score': 5, 'content': 'Nota 1000 o melhor de todos sensacional '}
+{'author': ' carlos antonio ', 'date': '24 de janeiro de 2018', 'score': 5, 'content': 'Parabéns '}
+{'author': ' Ane Queiroz ', 'date': '4 de março de 2018', 'score': 3, 'content': 'Muito bom!! Amei... Coloca na horizontal os ícones dos canais. '}
+{'author': ' Luiz Lopes ', 'date': '11 de março de 2018', 'score': 4, 'content': 'Gostei bastante, não deixa muito a desejar só falta mesmo é a record que tem uns dias que sumiu. '}
+{'author': ' Claudio Evaristo Marques Marquea ', 'date': '12 de março de 2018', 'score': 5, 'content': 'ESSE É O MELHOR APP QUE JA BAIXEI , EU RECOMENDO !! '}
+{'author': ' ', 'date': '9 de março de 2018', 'score': 3, 'content': 'E bom mais gostaria que voltasse o bbb de novo. '}
+{'author': ' TCHELLO AMORIM ', 'date': '12 de março de 2018', 'score': 4, 'content': 'Pelo o q vi mim agradei bastant... '}
+{'author': ' Almir Marques ', 'date': '12 de março de 2018', 'score': 1, 'content': 'Não abril nada '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 4, 'content': 'Estou estalando '}
+{'author': ' ', 'date': '11 de março de 2018', 'score': 5, 'content': 'Tem sbt????♥♡£€¥₩《》¿·÷¤|\\~`o_O '}

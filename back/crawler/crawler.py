@@ -15,7 +15,7 @@ options = {
     "reviewType": "0",
     "pageNum": "5",
     "lang": "pt",
-    "id": "com.globo.globotv",
+    "id": "tv.online53",
     "reviewSortOrder": "2",
     "xhr": "1"
 }

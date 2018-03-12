@@ -58,5 +58,65 @@
     score: 3,
     price: '0',
     free: true
-  }
+  },
+  {
+    url: 'https://play.google.com/store/apps/details?id=com.alertmovies.beta',
+    appId: 'com.alertmovies.beta',
+    title: 'Series e Filmes HD Gratuitos',
+    summary: 'Fique atualizado sempre com o seu Alerta de Filmes Online',
+    developer: 'RGRJ Apps',
+    developerId: 'RGRJ+Apps',
+    icon: '//lh3.googleusercontent.com/139P9uZ3C28faxGf1Ihi7QbNVuDGq2bwj8WDrYaNKtzYTZSD-r2Hx_sstocsT2w_qhfu=w340',
+    score: 4,
+    price: '0',
+    free: true
+  },
+  {
+    url: 'https://play.google.com/store/apps/details?id=com.creative.sandbox.number.drawning.coloring',
+    appId: 'com.creative.sandbox.number.drawning.coloring',
+    title: 'No.Draw - Cor por Páginas de Número',
+    summary: 'Jogo de coloração mais favorito por adultos e crianças! Download gratuito agora!',
+    developer: 'Creative APPS',
+    developerId: 'Creative+APPS',
+    icon: '//lh3.googleusercontent.com/eTKhgnUwGkqdWQ6ICW7j1MM3MUfVMnDYH8zJJaZOcdEKMhWsIWtL-rUjXq5Wd5667TU=w340',
+    score: 4,
+    price: '0',
+    free: true
+  },
+  {
+    url: 'https://play.google.com/store/apps/details?id=com.bitstrips.imoji',
+    appId: 'com.bitstrips.imoji',
+    title: 'Bitmoji',
+    summary: 'Transforme-se num emoji personalizado para usar em mensagens de chat!',
+    developer: 'Bitstrips',
+    developerId: 'Bitstrips',
+    icon: '//lh3.googleusercontent.com/VgApWOljUS_6OKp80OV--HjqsECnd95s0gpzslLJ277G-tYZH6X6ZF8KnQy_fjvvChA=w340',
+    score: 4,
+    price: '0',
+    free: true
+  },
+  {
+    url: 'https://play.google.com/store/apps/details?id=com.globo.gshow.app',
+    appId: 'com.globo.gshow.app',
+    title: 'Gshow',
+    summary: 'O conteúdo de Entretenimento da TV Globo em vídeos, fotos e notícias exclusivas.',
+    developer: 'Globo Comunicação e Participações S.A.',
+    developerId: 'Globo+Comunica%C3%A7%C3%A3o+e+Participa%C3%A7%C3%B5es+S.A.',
+    icon: '//lh3.googleusercontent.com/hUVVyt7vgvaaDyi_egCtUKnsHHD1DalyRsERbecJxnnXbjeScuLVScboN1y3RAZ0jnD3=w340',
+    score: 4,
+    price: '0',
+    free: true
+  },
+  {
+    url: 'https://play.google.com/store/apps/details?id=tv.online53',
+    appId: 'tv.online53',
+    title: 'Assistir tv no celular (Public channels only)',
+    summary: 'Com o aplicativo você vai assistir canais públicos de TV no seu celular.',
+    developer: 'HostDogApp',
+    developerId: 'HostDogApp',
+    icon: '//lh3.googleusercontent.com/Be2-OQL11NO1F3vZ-9MvlsBow5OKNNdDHlPJvJeP0jFd2GbctwiTj2YxFyaSUqf1wx4=w340',
+    score: 4,
+    price: '0',
+    free: true
+  } 
 ]

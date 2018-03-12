@@ -9,7 +9,7 @@ import numpy as np
 
 def main():
 
-    list_rw = open('/home/paulomoraes/Projects/blue/back/dataset/data_clean.txt', 'r')
+    list_rw = open('/home/paulomoraes/Projects/blue/back/dataset/data_clean.csv', 'r')
     arr = list_rw.read().strip().split('\n')
 
     # vectorizer = TfidfVectorizer(use_idf=True)
