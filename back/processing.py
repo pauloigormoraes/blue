@@ -12,12 +12,11 @@ import unicodedata
 
 fp = tempfile.TemporaryFile(mode='w+t')
 
-# i_file = open('/home/paulomoraes/Projects/blue/back/dataset/reviews.csv', 'r')
+i_file = open('/home/paulomoraes/Projects/blue/back/dataset/reviews.csv', 'r')
+o = i_file.read().strip().split('\n')
 o_file = open('/home/paulomoraes/Projects/blue/back/dataset/data_clean.csv', 'a')
 
-i_file = ['Eu estou aqqui querendo,o que,eu quero qqquiser',
-          '',
-          'Será que isso realmente =D vai atualizar?']
+# i_file = ['Eu estou aqqui querendo,o que,eu quero qqquiser','','Será que isso realmente =D vai atualizar?']
 
 def text_space_reduce(text):
     review = []
@@ -70,9 +69,10 @@ def stemming(text):
     return (' '.join(stm))
 
 def remove_space(text):
-    arr = text.split()
-    print(arr)
-
+    arr = text.split('\n')
+    for item in arr:
+        if item == '':
+            arr.pop(item)
 
 def trigrams(words):
     arr = words.read().strip().split(' ')
@@ -87,17 +87,19 @@ def trigrams(words):
 
 def main():
     arr = []
+    unigrams = []
     r_trigrams = []
-
-    for row in i_file:
+    print(o)
+    # for row in o:
+        # print(row)
         # docw = text_space_reduce(row)
         # docw = rm_punctuation(docw)
         # docw = rm_stopwords(docw)
         # docw = tokenize(docw)
         # docw = stemming(docw)
-        docw = remove_space(row)
-        # for i in adocwrr:
-        #     unigrams.append(word)
+        # remove_space(docw)
+        # for i in docw:
+        #     unigrams.append(i)
         # r_trigrams = trigrams(unigrams)
         # o_file.write(docw)
         # o_file.write('\n')
