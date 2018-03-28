@@ -106,7 +106,7 @@ def main():
     print('total: ', all_rw)
     print('empty: ', empty)
     print('saved: ', reviews)
-    print('time: ', (end - start), 's')
+    print('time: {:.2f}'.format(end - start),'s')
     print()
     print('********* PREPARED STOPWORDS *********')
     print()
