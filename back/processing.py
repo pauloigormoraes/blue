@@ -5,15 +5,10 @@ from nltk.stem import rslp
 import tempfile
 from string import punctuation
 import unicodedata
-# import sys
-#
-# reload(sys)
-# sys.setdefaultencoding("utf-8")
-
-fp = tempfile.TemporaryFile(mode='w+t')
+import time
 
 i_file = open('/home/paulomoraes/Projects/blue/back/dataset/reviews.csv', 'r')
-o = i_file.read().strip().split('\n')
+# i_file = i_file.read().strip().split('\n')
 o_file = open('/home/paulomoraes/Projects/blue/back/dataset/data_clean.csv', 'a')
 
 # i_file = ['Eu estou aqqui querendo,o que,eu quero qqquiser','','Será que isso realmente =D vai atualizar?']
@@ -68,15 +63,10 @@ def stemming(text):
         stm.append(rslp.RSLPStemmer().stem(word))
     return (' '.join(stm))
 
-def remove_space(text):
-    arr = text.split('\n')
-    for item in arr:
-        if item == '':
-            arr.pop(item)
-
 def trigrams(words):
     arr = words.read().strip().split(' ')
     trigrams = []
+    print(o)
     for r in range(0, len(words)):
         if(r == len(words)-2):
             break
@@ -87,32 +77,36 @@ def trigrams(words):
 
 def main():
     arr = []
-    unigrams = []
-    r_trigrams = []
-    print(o)
-    # for row in o:
-        # print(row)
-        # docw = text_space_reduce(row)
-        # docw = rm_punctuation(docw)
-        # docw = rm_stopwords(docw)
-        # docw = tokenize(docw)
-        # docw = stemming(docw)
-        # remove_space(docw)
-        # for i in docw:
-        #     unigrams.append(i)
-        # r_trigrams = trigrams(unigrams)
-        # o_file.write(docw)
-        # o_file.write('\n')
-        # o_file.close
-        # arr.append(docw)
 
-    # o_file.write(str(arr))
-    # o_file.close
+    empty = 0
+    reviews = 0
+    all_rw = 0
 
-    # with open('/home/paulomoraes/Projects/blue/back/dataset/data_clean.csv', 'a') as csvfile:
-    #     spamwriter = csv.writer(csvfile, delimiter=' ')
-    #     spamwriter.writerow([arr])
+    start = time.time()
+    for row in i_file:
+        all_rw += 1
+        docw = text_space_reduce(row)
+        docw = rm_punctuation(docw)
+        docw = rm_stopwords(docw)
+        docw = tokenize(docw)
+        docw = stemming(docw)
+        if docw == '':
+            empty += 1
+        else:
+            reviews += 1
+            o_file.write(docw)
+            o_file.write('\n')
+            o_file.close
+            arr.append(docw)
+        print('... processing')
+    end = time.time()
 
+    print()
+    print('# INFOs #')
+    print('total: ', all_rw)
+    print('empty: ', empty)
+    print('saved: ', reviews)
+    print('time: ', (end - start), 's')
     print()
     print('********* PREPARED STOPWORDS *********')
     print()

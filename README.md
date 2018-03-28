@@ -1,6 +1,6 @@
 <img src="https://github.com/pauloigormoraes/lizard-nn/blob/master/extra/img/blue.png?raw=true" width="84">
 
-# Bem vindo ao Blue
+# Bem vindo ao Blue Lise
 
 Descrição
 
