@@ -1,15 +1,15 @@
-# nltk.download() for download packages
 import re as rexpression
 from nltk.corpus import stopwords
 from nltk.stem import rslp
+# nltk.download() for download packages
 import tempfile
 from string import punctuation
 import unicodedata
 import time
 
-i_file = open('/home/paulomoraes/Projects/blue/back/dataset/reviews.csv', 'r')
+i_file = open('/home/paulomoraes/Projects/blueway/back/dataset/reviews.csv', 'r')
 # i_file = i_file.read().strip().split('\n')
-o_file = open('/home/paulomoraes/Projects/blue/back/dataset/data_clean.csv', 'a')
+o_file = open('/home/paulomoraes/Projects/blueway/back/dataset/data_clean.csv', 'a')
 
 # i_file = ['Eu estou aqqui querendo,o que,eu quero qqquiser','','Será que isso realmente =D vai atualizar?']
 
