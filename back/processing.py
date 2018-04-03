@@ -7,9 +7,9 @@ from string import punctuation
 import unicodedata
 import time
 
-i_file = open('/home/paulomoraes/Projects/blueway/back/dataset/reviews.csv', 'r')
+i_file = open('/home/paulomoraes/Projects/blue/back/dataset/reviews.csv', 'r')
 # i_file = i_file.read().strip().split('\n')
-o_file = open('/home/paulomoraes/Projects/blueway/back/dataset/data_clean.csv', 'a')
+o_file = open('/home/paulomoraes/Projects/blue/back/dataset/data_clean.csv', 'a')
 
 # i_file = ['Eu estou aqqui querendo,o que,eu quero qqquiser','','Será que isso realmente =D vai atualizar?']
 
@@ -79,6 +79,7 @@ def main():
     arr = []
 
     empty = 0
+    short_review = 0
     reviews = 0
     all_rw = 0
 
@@ -93,11 +94,15 @@ def main():
         if docw == '':
             empty += 1
         else:
-            reviews += 1
-            o_file.write(docw)
-            o_file.write('\n')
-            o_file.close
-            arr.append(docw)
+            short_arr = docw.split()
+            if len(short_arr) <= 2:
+                short_review += 1
+            else:
+                reviews += 1
+                o_file.write(docw)
+                o_file.write('\n')
+                o_file.close
+                arr.append(docw)
         print('... processing')
     end = time.time()
 
@@ -105,6 +110,7 @@ def main():
     print('# INFOs #')
     print('total: ', all_rw)
     print('empty: ', empty)
+    print('short: ', short_review)
     print('saved: ', reviews)
     print('time: {:.2f}'.format(end - start),'s')
     print()
