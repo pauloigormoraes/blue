@@ -5007,42 +5007,65 @@ arr = [ { url: 'https://play.google.com/store/apps/details?id=com.psafe.msuite',
 three_more = []
 three_less = []
 
-for (var app = 0; app < arr.length; app++)
-{
-  if (arr[app].score <= 3) {
-    var doc = fs.createWriteStream('/home/paulomoraes/Projects/blueway/back/dataset/apps_filters.csv', {
-      flags: 'a'})
-      doc.write("{ "+"url: "+arr[app].url+", "+"appId: "+arr[app].appId+" },"+"\n")
-      doc.end()
-  }
-}
-sleep(5000)
-// for (var app = 0; app < 20; app++) {
-// // for (var app = 0; app < 50; app++) {
-//   url = arr[app].url;
-//   request(url, function(error, result, html) {
-//     if(!error) {
-//       const $ = cheerio.load(html)
-//       const ratingBox = $('.rating-box')
-//       const score = $('div.BHMmbe').text()
-//       appscore = parseFloat(score)
-//       // const reviews = find('span.reviews-num').text();
-//       // const reviews = ratingBox.find('span.reviews-num').text();
-//       // const score = ratingBox.find('div.score').text();
-//       if (appscore <= 3.5) {
-//         fs.appendFile("/home/paulomoraes/Projects/blueway/back/dataset/apps_filters.csv",
-//         "{ "+"url: "+arr[app].url+", "+"appId: "+arr[app].appId+" },"+"\n",
-//         function(erro) {
-//             if(erro) {
-//                 throw erro;
-//             }
-//             console.log("##### save more one");
-//         });
-//       }
-//     } else {
-//       console.log("Check error: " + error.message);
-//     }
-//   });
-//   console.log("processing...");
-//   sleep(5000)
+// for (var app = 0; app < arr.length; app++)
+// {
+//   if (arr[app].score <= 3) {
+//     var doc = fs.createWriteStream('/home/paulomoraes/Projects/blue/back/dataset/apps_filters.csv', {
+//       flags: 'a'})
+//       doc.write("{ "+"url: "+arr[app].url+", "+"appId: "+arr[app].appId+" },"+"\n")
+//       doc.end()
+//   }
 // }
+
+for (var app = 0; app < 5; app++)
+{
+  url = arr[app].url;
+  request(url, function(error, result, html) {
+    if(!error) {
+      const $ = cheerio.load(html)
+      const score = $('div.BHMmbe').text()
+      const appscore = parseFloat(score)
+      const reviews = $('span.EymY4b').text()
+      const appreviews = num(reviews)
+      console.log("SCORE: " + appscore + " | REVIEWS: " + appreviews + " processing...");
+      console.log(appreviews > 750);
+      // console.log(50.250 > 700);
+      // if ((appscore <= 3.5)) {
+        if(appreviews >= 1000) {
+          fs.appendFile("/home/paulomoraes/Projects/blue/back/dataset/apps_filters.csv",
+          "{ "+"url: "+arr[app].url+", "+"appId: "+arr[app].appId+" },"+"\n",
+          function(erro) {
+              if(erro) {
+                  throw erro;
+              }
+              console.log("##### save more one");
+          });
+        // }
+      }
+    } else {
+      console.log("Check error: " + error.message);
+    }
+  });
+  sleep(5000);
+}
+
+function num(n)
+{
+  let br = n.split(",");
+  let value;
+  for (var r = 0; r < br.length; r++) {
+    let pr = br[(br.length)-1].split(" ")
+    switch (br.length) {
+      case 1:
+        value = pr[0]
+        break;
+      case 2:
+        value = br[0]+"."+pr[0]
+        break;
+      case 3:
+        value = br[0]+"."+br[1]
+        break;
+    }
+  }
+  return parseFloat(value);
+}
