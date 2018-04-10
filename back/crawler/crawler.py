@@ -22,7 +22,7 @@ options = {
     "reviewType": "0",
     "pageNum": "5",
     "lang": "pt",
-    "id": "com.gvt.minhagvt.enterprise",
+    "id": "com.avast.android.mobilesecurity",
     "reviewSortOrder": "2",
     "xhr": "1"
 }
@@ -83,8 +83,9 @@ def main():
         "content": body
         }
         reviews.append(struct)
-        with open('/home/paulomoraes/Projects/blueway/back/dataset/full_reviews.txt', 'a') as r:
+        with open('/home/paulomoraes/Projects/blueway/back/dataset/full_reviews_more.txt', 'a') as r:
             r.write(str(struct))
+            r.write(',')
             r.write('\n')
             r.close
         # with open('/home/paulomoraes/Projects/blueway/back/dataset/reviews.csv', 'a', newline='') as csvfile:

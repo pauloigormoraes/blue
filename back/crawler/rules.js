@@ -4,8 +4,12 @@ const cheerio = require('cheerio');
 const sleep = require('system-sleep');
 const ur = require('unique-random');
 
-let count = 0;
-selected = []
+let count = 0
+let selected = []
+
+arr = [
+
+]
 
 // SELECIONA OS APLICATIVOS COM AS REGRAS
 // for (var app = 0; app < arr.length; app++)
@@ -68,9 +72,9 @@ for (var r = 0; r < selected.length; r++)
 {
   const rand = ur(0, selected.length)
   var rd = rand()
-  if (count < 87) {
+  if (count < 230) {
     count++
-    fs.appendFile("/home/paulomoraes/Projects/blueway/back/dataset/selected.csv",
+    fs.appendFile("/home/paulomoraes/Projects/blueway/back/dataset/selected_more.csv",
     arr[rd].content+"\n",
     function(erro) {
         if(erro) {

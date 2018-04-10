@@ -1,6 +1,13 @@
-MENOR QUE 3.5
-br.com.vivo
-br.com.mobicare.minhaoi
-com.rusdelphi.wifipassword
-com.samsung.smartviewad
-com.gvt.minhagvt.enterprise
+MENOR IGUAL QUE 3.5
+1. br.com.vivo
+2. br.com.mobicare.minhaoi
+3. com.rusdelphi.wifipassword
+4. com.samsung.smartviewad
+5. com.gvt.minhagvt.enterprise
+
+MAIOR QUE 3.5
+1. com.avast.android.mobilesecurity
+2.
+3.
+4.
+5.
