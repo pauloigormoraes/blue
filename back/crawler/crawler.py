@@ -10,55 +10,19 @@ import time
 import numpy as np
 import csv
 
-arr = [
-    'br.com.vivo',
-    'br.com.mobicare.minhaoi',
-    'com.keyboard.flagard',
-    'br.com.timbrasil.meutim',
-    'com.app99.driver',
-    'com.gvt.minhagvt.enterprise',
-    'br.gov.serpro.cnhe',
-    'br.gov.fazenda.receita.irpf',
-    'br.gov.dataprev.sinefacil',
-    'com.knoozapps.thumbnaildownloader',
-    'codematics.universal.tv.remote.control',
-    'br.gov.sp.fazenda.nfp.app',
-    'com.androidaplicativos.rastrearcelularpelonumero',
-    'braveheart.apps.apkinstaller',
-    'br.com.vivo.meuvivomais',
-    'com.samsung.smartviewad',
-    'one.mobileapps.apkbackup',
-    'com.latin.leichte',
-    'com.apple.movetoios',
-    'com.rusdelphi.wifipassword',
-    'us.rajaematechkr.downloadvideo.downloaderhd',
-    'br.com.mobicare.tim.recarga',
-    'Face.Sorter',
-    'com.wwagad.l5',
-    'com.mobile.myeye',
-    'com.emoji.wifipassword',
-    'br.com.sabesp.android.sabespmobile',
-    'com.phongphan.miracast',
-    'br.com.mobicare.samsung.recarga',
-    'fahrbot.apps.undelete',
-    'houssamos.eyes.catcher',
-    'com.asamiyuma.zip',
-    'com.ticktalk.cameratranslator',
-    'screenmirroring.mirrorcast.com.kiwahapps',
-    'com.outfall.inss',
-    'com.embratec.ecofrotas',
-    'com.clipcomm.WiFiRemocon',
-    'com.basf.suvinil.crie',
-    'br.com.mobicare.oi.recarga',
-    'com.Tv.IR.Remote'
-]
-
+# i_file = open('/home/paulomoraes/Projects/blueway/back/dataset/apps_filters_less.csv', 'r')
+# data = i_file.read().strip().split('\n')
+# ids = []
+# for row in data:
+#     aux = row.split('=')
+#     ids.append(aux[1])
+# https://play.google.com/store/apps/details?id=com.knoozapps.thumbnaildownloader
 url = "https://play.google.com/store/getreviews"
 options = {
     "reviewType": "0",
     "pageNum": "5",
     "lang": "pt",
-    "id": "br.com.mobicare.minhaoi",
+    "id": "com.gvt.minhagvt.enterprise",
     "reviewSortOrder": "2",
     "xhr": "1"
 }
@@ -96,8 +60,8 @@ def main():
     page = 0
     sysenc = sys.stdout.encoding
     reviews = []
-    # while True:
-    for i in range(0, 1):
+    while True:
+    # for i in range(0, 1):
         review = loading(page)
         if review is None:
             break
@@ -105,31 +69,30 @@ def main():
             review = codecs.encode(review, sysenc, 'ignore')
         soup = BeautifulSoup(review, 'html.parser')
         data = list(soup.children)[1]
-        print(data)
-        # header = data.find(class_='review-header')
-        # auxs = header.find(class_='star-rating-non-editable-container')
-        # username = header.find(class_='author-name').get_text()
-        # date = header.find(class_='review-date').get_text()
-        # score = select(auxs['aria-label'])
-        # auxb = data.find(class_='review-body').get_text()
-        # body = configure(auxb)
-        # struct = {
-        # "author": username,
-        # "date": date,
-        # "score": score,
-        # "content": body
-        # }
-        # reviews.append(struct)
-        # with open('/home/paulomoraes/Projects/blueway/back/dataset/full_reviews.txt', 'a') as r:
-        #     r.write(str(struct))
-        #     r.write('\n')
-        #     r.close
+        header = data.find(class_='review-header')
+        auxs = header.find(class_='star-rating-non-editable-container')
+        username = header.find(class_='author-name').get_text()
+        date = header.find(class_='review-date').get_text()
+        score = select(auxs['aria-label'])
+        auxb = data.find(class_='review-body').get_text()
+        body = configure(auxb)
+        struct = {
+        "author": username,
+        "date": date,
+        "score": score,
+        "content": body
+        }
+        reviews.append(struct)
+        with open('/home/paulomoraes/Projects/blueway/back/dataset/full_reviews.txt', 'a') as r:
+            r.write(str(struct))
+            r.write('\n')
+            r.close
         # with open('/home/paulomoraes/Projects/blueway/back/dataset/reviews.csv', 'a', newline='') as csvfile:
         #     spamwriter = csv.writer(csvfile, delimiter=' ')
         #     # spamwriter.writerow([''])
         #     spamwriter.writerow([body])
-        # print("get::review:::",page+1)
-        # page += 1
+        print("get::review:::",page+1)
+        page += 1
 
     print()
     print("::::: FILES SAVE :::::")
