@@ -22,7 +22,7 @@ options = {
     "reviewType": "0",
     "pageNum": "5",
     "lang": "pt",
-    "id": "com.avast.android.mobilesecurity",
+    "id": "com.weberdo.apps.serviceinfo",
     "reviewSortOrder": "2",
     "xhr": "1"
 }

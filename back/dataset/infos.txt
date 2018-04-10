@@ -7,7 +7,7 @@ MENOR IGUAL QUE 3.5
 
 MAIOR QUE 3.5
 1. com.avast.android.mobilesecurity
-2.
-3.
-4.
-5.
+2. screenmirroring.abdelm.com.screenmirroring | com.google.android.apps.paidtasks
+3. com.mm.android.direct.intelbrasPlus
+4. com.MelasGR.wifiunlocker | screenmirroring.abdelm.com.screenmirroring
+5. com.domobile.applockwatcher | com.beststudian.photocollage | com.ovelin.guitartuna | com.weberdo.apps.serviceinfo
