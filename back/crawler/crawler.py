@@ -17,7 +17,9 @@ import csv
 #     aux = row.split('=')
 #     ids.append(aux[1])
 # https://play.google.com/store/apps/details?id=com.knoozapps.thumbnaildownloader
+url = "/home/paulomoraes/Projects/blueway/back/dataset/web-pages/app_test.html"
 url = "https://play.google.com/store/getreviews"
+
 options = {
     "reviewType": "0",
     "pageNum": "5",
@@ -28,7 +30,7 @@ options = {
 }
 
 def loading(page):
-    options["pageNum"] = str(page)
+    # options["pageNum"] = str(page)
     data = urllib.parse.urlencode(options).encode("utf-8")
     req = ur.Request(url, data)
     response = ur.urlopen(req)
