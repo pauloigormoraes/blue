@@ -17,8 +17,9 @@ import csv
 #     aux = row.split('=')
 #     ids.append(aux[1])
 # https://play.google.com/store/apps/details?id=com.knoozapps.thumbnaildownloader
-url = "/home/paulomoraes/Projects/blueway/back/dataset/web-pages/app_test.html"
 url = "https://play.google.com/store/getreviews"
+
+arq = open('/home/paulomoraes/Projects/blueway/back/dataset/web-pages/less/app_1/test.html')
 
 options = {
     "reviewType": "0",
@@ -30,7 +31,7 @@ options = {
 }
 
 def loading(page):
-    # options["pageNum"] = str(page)
+    options["pageNum"] = str(page)
     data = urllib.parse.urlencode(options).encode("utf-8")
     req = ur.Request(url, data)
     response = ur.urlopen(req)
@@ -62,8 +63,8 @@ def main():
     page = 0
     sysenc = sys.stdout.encoding
     reviews = []
-    while True:
-    # for i in range(0, 1):
+    # while True:
+    for i in range(0, 1):
         review = loading(page)
         if review is None:
             break
@@ -85,15 +86,15 @@ def main():
         "content": body
         }
         reviews.append(struct)
-        with open('/home/paulomoraes/Projects/blueway/back/dataset/full_reviews_more.txt', 'a') as r:
+        with open('/home/paulomoraes/Projects/blueway/back/dataset/full_reviews_more.csv', 'a') as r:
             r.write(str(struct))
             r.write(',')
             r.write('\n')
             r.close
-        # with open('/home/paulomoraes/Projects/blueway/back/dataset/reviews.csv', 'a', newline='') as csvfile:
-        #     spamwriter = csv.writer(csvfile, delimiter=' ')
-        #     # spamwriter.writerow([''])
-        #     spamwriter.writerow([body])
+        with open('/home/paulomoraes/Projects/blueway/back/dataset/reviews.csv', 'a', newline='') as csvfile:
+            spamwriter = csv.writer(csvfile, delimiter=' ')
+            # spamwriter.writerow([''])
+            spamwriter.writerow([body])
         print("get::review:::",page+1)
         page += 1
 
