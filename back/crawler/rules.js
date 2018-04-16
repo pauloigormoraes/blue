@@ -20,11 +20,11 @@ for (var r = 0; r < arr.length; r++)
 console.log("SELECTED: " + selected.length);
 
 // SELECIONA RANDOMICAMENTE OS COMENTÁRIOS
-for (var r = 0; r < selected.length; r++)
+for (var r = 0; r < 2215; r++)
 {
-  const rand = ur(0, selected.length)
+  const rand = ur(0, 2215)
   var rd = rand()
-  if (count < 00000) {
+  if (count < 281) {
     count++
     fs.appendFile("/home/paulomoraes/Projects/blueway/back/dataset/low/.csv",
     "[low_app_1_com_"+count+"] " + selected[rd].content + "\n",
