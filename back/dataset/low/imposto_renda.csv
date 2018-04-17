@@ -1,12 +1,12 @@
 ok [low_app_2_com_1] imposto é roubo.
 ok [low_app_2_com_2] Ruim. Muito ruim
 ok [low_app_2_com_3] Muito ruim.... Ano passado estava muito bom... Mas mexeram e ficou muito... muito ruim...
-[low_app_2_com_4] Os caras criam um aplicativo que manda a gente pra página na internet dá Receita Federal pra preencher a declaração por lá. Então pra que fizeram esse aplicativo, gênios?
+OK- [low_app_2_com_4] Os caras criam um aplicativo que manda a gente pra página na internet dá Receita Federal pra preencher a declaração por lá. Então pra que fizeram esse aplicativo, gênios?
 ok [low_app_2_com_5] Bagulho!!! muito ruim, quem inventou isso não tem o que fazer...
-[low_app_2_com_6] Usei o ano passado, fiz em 5 minutos, não tive Oq reclamar! Mas esse ano tá difícil heim!!! Já tentei umas 10 vezes e no final para enviar, da ERRO!! Alguém pode informar Oq ocorre!!????
-[low_app_2_com_7] Horrivel 2 horas sem passar de cpf e senha. Nao recupera rascunho e tive que preencher tudo de novo. Desisto! Tentei em 2 tablet e 1 celular pra nao dizer que o problema eh do aparelho. Fiz 2015 numa boa, mas esse ano está horriveeeeel!!!
-[low_app_2_com_9] Se fosse possível dar uma nota pior daria. Não percam seu tempo com isto aqui. Declaração só no PC mesmo. É inacreditável que um órgão que sempre considerei avançado, tenham parado no tempo quando o assunto é app. Pararam no tempo!
-[low_app_2_com_10] Apesar de funcionalidades legais, não funciona como deveria. Não consigo baixar a declaração, nem acessar o andamento mesmo tendo cadastrado o celular no site.
+OK- [low_app_2_com_6] Usei o ano passado, fiz em 5 minutos, não tive Oq reclamar! Mas esse ano tá difícil heim!!! Já tentei umas 10 vezes e no final para enviar, da ERRO!! Alguém pode informar Oq ocorre!!????
+OK- [low_app_2_com_7] Horrivel 2 horas sem passar de cpf e senha. Nao recupera rascunho e tive que preencher tudo de novo. Desisto! Tentei em 2 tablet e 1 celular pra nao dizer que o problema eh do aparelho. Fiz 2015 numa boa, mas esse ano está horriveeeeel!!!
+OK- [low_app_2_com_9] Se fosse possível dar uma nota pior daria. Não percam seu tempo com isto aqui. Declaração só no PC mesmo. É inacreditável que um órgão que sempre considerei avançado, tenham parado no tempo quando o assunto é app. Pararam no tempo!
+OK- [low_app_2_com_10] Apesar de funcionalidades legais, não funciona como deveria. Não consigo baixar a declaração, nem acessar o andamento mesmo tendo cadastrado o celular no site.
 OK [low_app_2_com_11] Já atualizei minha palavra passe no portal e-cac e mesmo assim continua dizendo que a mesma está incorreta! Tá difícil!
 OK [low_app_2_com_12] To tentando baixa o recibo e declaração para ver o número e não consigo.
 OK [low_app_2_com_14] Não está atualizado!!!!!
@@ -16,63 +16,70 @@ OK [low_app_2_com_17] No ano passado fiz a declaração pelo app e foi otimo... 
 OK [low_app_2_com_15] Cód. Seguranca Não consegue validar o cód segurança, desde ontem a noite.
 OK [low_app_2_com_19] Não funciona Bug na recuperação do dados.
 OK [low_app_2_com_20] Lixo de Aplicativo Como a Receita libera um aplicativo que não funciona? Por favor né!! É melhor nem liberar!!!
-[low_app_2_com_18] Está com bug, falhas... Não está concluindo a ativação conforme as instruções na página da receita federal. Corrijam esse bug. LG-G4.
-[low_app_2_com_16] Não funciona Não importa os dados de 2015. Também não gera a imagem ao confirmar o CPF.
-[low_app_2_com_23] ERRO Quando digita o CPF fecha o aplicativo
-[low_app_2_com_22] Não consigo baixar o recibo da declaracao . Péssimo!
-[low_app_2_com_24] Não funciona Quando inicia para criar nova declaração da erro de código após digitar o cpf
-[low_app_2_com_25] Código segurança inválido O código de segurança só dá inválido. Digitei umas 30 vezes e nada. O aplicativo não funciona.
-[low_app_2_com_27] Não consigo nem acessar! Tento entrar na opção "Meu Imposto de Renda" e fica girando, girando ... e nada. Infelizmente não funcionou comigo!
-[low_app_2_com_26] IRRF Código de Segurança com problema pra acessar.
+OK [low_app_2_com_18] Está com bug, falhas... Não está concluindo a ativação conforme as instruções na página da receita federal. Corrijam esse bug. LG-G4.
+OK [low_app_2_com_16] Não funciona Não importa os dados de 2015. Também não gera a imagem ao confirmar o CPF.
+OK [low_app_2_com_23] ERRO Quando digita o CPF fecha o aplicativo
+OK [low_app_2_com_22] Não consigo baixar o recibo da declaracao . Péssimo!
+OK- [low_app_2_com_24] Não funciona Quando inicia para criar nova declaração da erro de código após digitar o cpf
+OK- [low_app_2_com_25] Código segurança inválido O código de segurança só dá inválido. Digitei umas 30 vezes e nada. O aplicativo não funciona.
+OK [low_app_2_com_27] Não consigo nem acessar! Tento entrar na opção "Meu Imposto de Renda" e fica girando, girando ... e nada. Infelizmente não funcionou comigo!
+OK [low_app_2_com_26] IRRF Código de Segurança com problema pra acessar.
 [low_app_2_com_29] App para inglês ver...😤😡 Não funciona, apenas direciona ao site da Receita
-[low_app_2_com_30] Não consigo fazer o rascunho. .trava nos dados pessoais ainda!!:(
+OK [low_app_2_com_30] Não consigo fazer o rascunho. .trava nos dados pessoais ainda!!:(
 [low_app_2_com_28] Impossível abrir de novo a declaração salva. Fechou o app, ferrou. Só consegui resgatar via internet.
-[low_app_2_com_21] Vc digita o código do recibo. Mas não abre. So da erro.
-[low_app_2_com_32] Nao quer abrir nao consigo fazer meu imposto e os dados sumiram podem me ajudar
-[low_app_2_com_33] Os campos de preenchimento não batem com os dos meus demonstrativos. Não consigo por saldo negativo. É muito confuso.
-[low_app_2_com_35] Muita burocracia como tudo neste país :/
-[low_app_2_com_36] Não está funcionando
-[low_app_2_com_37] *****Era tão bom. Conseguiram deixar horrível!!!
-[low_app_2_com_34] Diz que minha declaração já foi preenchida... Juro que não fui eu.
-[low_app_2_com_31] Vários problemas. Enviei a declaração, mas... Não importa os dados da declaração anterior. Várias tentativas para conseguir enviar a declaração. Impossível abrir o recibo da declaração. Nos anos anteriores funcionava perfeitamente.
-[low_app_2_com_39] Não abre Não está abrindo o acesso FAZER DECLARAÇÃO
-[low_app_2_com_40] Não funciona Quando clico e fazer declaração, o app trava.
-[low_app_2_com_42] Não funciona Não valida código de segurança
-[low_app_2_com_43] Não consigo entrar no aplicativo, fica carregando e não entra , depois dar um erro e sai
-[low_app_2_com_44] Fiz a declaração e na hora de encaminhar, não salvou recibo e declaração. Agora não sei o que faço, já que na hora de recuperar a declaração diz que já foi encaminhada.
-[low_app_2_com_41] Não valida código de segurança. O app não valida código de segurança...mesmo atualizando várias vezes.
-[low_app_2_com_38] Uma bosta
-[low_app_2_com_47] Ridículo Sistema ridículo, não sei nem porque tem a opção de baixar ainda! Não envia, querem modernizar sem suporte! Brasil!!!!!!!!!!!!!
-[low_app_2_com_48] Não recupera o rascunho Não aparece a opção para recuperar o rascunho salvo pelo pdg através do computador para dar continuidade a declaração . Desisti e desinstalei !!
-[low_app_2_com_46] App Aplicativo problemas código invalido
-[low_app_2_com_45] Não entra Digito o código de segurança várias vezes e consta como inválido
-[low_app_2_com_51] Lixo Lixo 🚮
-[low_app_2_com_52] Não funciona
-[low_app_2_com_50] Não reconhece código de Segurança Pessoal não esta reconhecendo código de segurança
-[low_app_2_com_49] Não funciona Não aceita o código de segurança. Vou ter que pagar para alguém fazer a declaração para mim. A receita vai devolver o que eu pagar para fazer a declaração? INCOMPETENTES!!!
-[low_app_2_com_55] Não funciona o app não valida a senha!!! Aff!
+OK [low_app_2_com_21] Vc digita o código do recibo. Mas não abre. So da erro.
+OK [low_app_2_com_32] Nao quer abrir nao consigo fazer meu imposto e os dados sumiram podem me ajudar
+OK [low_app_2_com_33] Os campos de preenchimento não batem com os dos meus demonstrativos. Não consigo por saldo negativo. É muito confuso.
+OK [low_app_2_com_35] Muita burocracia como tudo neste país :/
+OK [low_app_2_com_36] Não está funcionando
+OK [low_app_2_com_37] *****Era tão bom. Conseguiram deixar horrível!!!
+OK [low_app_2_com_34] Diz que minha declaração já foi preenchida... Juro que não fui eu.
+OK [low_app_2_com_31] Vários problemas. Enviei a declaração, mas... Não importa os dados da declaração anterior.
+Várias tentativas para conseguir enviar a declaração. Impossível abrir o recibo da declaração. Nos anos anteriores funcionava perfeitamente.
+OK [low_app_2_com_39] Não abre Não está abrindo o acesso FAZER DECLARAÇÃO
+OK [low_app_2_com_40] Não funciona Quando clico e fazer declaração, o app trava.
+OK [low_app_2_com_42] Não funciona Não valida código de segurança
+OK [low_app_2_com_43] Não consigo entrar no aplicativo, fica carregando e não entra , depois dar um erro e sai
+OK [low_app_2_com_44] Fiz a declaração e na hora de encaminhar, não salvou recibo e declaração. Agora não sei o que faço, já que na hora de recuperar
+a declaração diz que já foi encaminhada.
+OK [low_app_2_com_41] Não valida código de segurança. O app não valida código de segurança...mesmo atualizando várias vezes.
+OK [low_app_2_com_38] Uma bosta
+[low_app_2_com_47] Ridículo Sistema ridículo, não sei nem porque tem a opção de baixar ainda! Não envia, querem modernizar sem suporte!
+Brasil!!!!!!!!!!!!!
+[low_app_2_com_48] Não recupera o rascunho Não aparece a opção para recuperar o rascunho salvo pelo pdg através do computador para dar
+continuidade a declaração . Desisti e desinstalei !!
+OK [low_app_2_com_46] App Aplicativo problemas código invalido
+OK [low_app_2_com_45] Não entra Digito o código de segurança várias vezes e consta como inválido
+OK [low_app_2_com_51] Lixo Lixo 🚮
+OK [low_app_2_com_52] Não funciona
+OK [low_app_2_com_50] Não reconhece código de Segurança Pessoal não esta reconhecendo código de segurança
+OK [low_app_2_com_49] Não funciona Não aceita o código de segurança. Vou ter que pagar para alguém fazer a declaração para mim.
+A receita vai devolver o que eu pagar para fazer a declaração? INCOMPETENTES!!!
+OK [low_app_2_com_55] Não funciona o app não valida a senha!!! Aff!
 [low_app_2_com_54] Quero saber se vou pagar multa por conta desse aplicativo bugado. Péssimo!!!! Não reconhece o código de segurança, tanto no tablet quanto no computador
-[low_app_2_com_53] N conecta é. Nada fica carregando e nada
+OK [low_app_2_com_53] N conecta é. Nada fica carregando e nada
 [low_app_2_com_58] nao funciona ano passado nao tive problemas, este ano o app nao funciona, quis mandar a declaraçao cedo, mas NÃO funciona, encerra a sessão sozinho e não salva.
-[low_app_2_com_59] Nao abre declaração 2018
-[low_app_2_com_57] Não consegui fazer a declaração. Ao clicar em nova declaração, o app me manda para o site
-[low_app_2_com_56] Fiz tudo certo e na hora de finalizar colocando o número da conta, aparece um monte de zero antes do número que estou digitando e da invalido faz mais de 4 hrs que estou tentando, alguém por favor me ajudem,existe algum outro jeito de fazer a declaração? ??
-[low_app_2_com_60] Não funciona Ruim e não funciona direito. Para mim fica dizendo código de segurança inválido.
-[low_app_2_com_61] Perda dos dados gravados Quando entra proteção de tela derrube a conexão. Em uma das quedas os dados já gravados anteriormente se perderam.
-[low_app_2_com_62] Não funciona É triste ver uma instituição como a receita federal fazer um dispositivo fora da realidade nacional, onde temos infraestrutura pífia e as conexões 3 e 4G dos celulares são instáveis e bugam o servidor aplicativo. Ah, mas vale lembrar que os técnicos do governo vivem no país das maravilhas, da propa…Resenha completaÉ triste ver uma instituição como a receita federal fazer um dispositivo fora da realidade nacional, onde temos infraestrutura pífia e as conexões 3 e 4G dos celulares são instáveis e bugam o servidor aplicativo. Ah, mas vale lembrar que os técnicos do governo vivem no país das maravilhas, da propaganda ptista... Ah, lá tudo funciona, infraestrutura de primeira, sem crise, sem realidade alguma...
-[low_app_2_com_63] Não posso avaliar! Não está liberado para 2018! Então não é nota 0 ( zero) já estamos em fevereiro dia 19 de 2018, aí dizem que o brasileiro deixa pra última hora
-[low_app_2_com_64] travou da codigo de seguranca invalido. nao consigo terminar a declaracao.
-[low_app_2_com_65] Coloquei minha palavra chave agora ela não está sendo aceita para fazer uma nova também não estou conseguindo manda fazer uma nova mais eu não consigo e muito confuso a receita não melhora só piora
-[low_app_2_com_66] Inútil! Não reconhece o código de segurança... Simplesmente inútil!!!
-[low_app_2_com_67] Não faz a declaração IRPF 2014 Instalei para fazer minha declaração de IRPF 2014 e não possui esta opção. Por favor atualizem isso porque dia 02/03/2015 é o primeiro dia para declarar.
-[low_app_2_com_68] Não funciona Trava, não importa os dados do ano anterior, não grava alterações no rascunho.
-[low_app_2_com_69] Não consigo acessar o.recibo nem a declaração.
+OK [low_app_2_com_59] Nao abre declaração 2018
+OK- [low_app_2_com_57] Não consegui fazer a declaração. Ao clicar em nova declaração, o app me manda para o site
+OK- [low_app_2_com_56] Fiz tudo certo e na hora de finalizar colocando o número da conta, aparece um monte de zero antes do número que estou digitando e da invalido faz mais de 4 hrs que estou tentando, alguém por favor me ajudem,existe algum outro jeito de fazer a declaração? ??
+OK- [low_app_2_com_60] Não funciona Ruim e não funciona direito. Para mim fica dizendo código de segurança inválido.
+OK- [low_app_2_com_61] Perda dos dados gravados Quando entra proteção de tela derrube a conexão. Em uma das quedas os dados já gravados anteriormente se perderam.
+OK- [low_app_2_com_62] Não funciona É triste ver uma instituição como a receita federal fazer um dispositivo fora da realidade nacional, onde temos infraestrutura pífia e as conexões 3 e 4G dos celulares são instáveis e bugam o servidor aplicativo. Ah, mas vale lembrar que os técnicos do governo vivem no país das maravilhas, da propa…Resenha completaÉ triste ver uma instituição como a receita federal fazer um dispositivo fora da realidade nacional, onde temos infraestrutura pífia e as conexões 3 e 4G dos celulares são instáveis e bugam o servidor aplicativo. Ah, mas vale lembrar que os técnicos do governo vivem no país das maravilhas, da propaganda ptista... Ah, lá tudo funciona, infraestrutura de primeira, sem crise, sem realidade alguma...
+OK- [low_app_2_com_63] Não posso avaliar! Não está liberado para 2018! Então não é nota 0 ( zero) já estamos em fevereiro dia 19 de 2018, aí dizem que o brasileiro deixa pra última hora
+OK [low_app_2_com_64] travou da codigo de seguranca invalido. nao consigo terminar a declaracao.
+OK [low_app_2_com_65] Coloquei minha palavra chave agora ela não está sendo aceita para fazer uma nova também não estou conseguindo manda fazer uma nova
+mais eu não consigo e muito confuso a receita não melhora só piora
+OK [low_app_2_com_66] Inútil! Não reconhece o código de segurança... Simplesmente inútil!!!
+OK [low_app_2_com_67] Não faz a declaração IRPF 2014 Instalei para fazer minha declaração de IRPF 2014 e não possui esta opção. Por favor atualizem isso
+porque dia 02/03/2015 é o primeiro dia para declarar.
+OK [low_app_2_com_68] Não funciona Trava, não importa os dados do ano anterior, não grava alterações no rascunho.
+OK [low_app_2_com_69] Não consigo acessar o.recibo nem a declaração.
 [low_app_2_com_70] Já entreguei a declaração pelo computador. Ao consultar pelo celular, consta que ainda não foi transmitida. Além disso, está apontando erros inexistentes nos campos de bens e direitos... Quando clico no erro assinalado, o programa cai e reinicia...
-[low_app_2_com_71] Uma bosta Assim como nosso governo
-[low_app_2_com_72] Se colocar caracteres na senha não salva. Não se consegue nem passar da fase da palavra chave. Dá erro de autenticação.
+OK [low_app_2_com_71] Uma bosta Assim como nosso governo
+OK [low_app_2_com_72] Se colocar caracteres na senha não salva. Não se consegue nem passar da fase da palavra chave. Dá erro de autenticação.
 [low_app_2_com_73] Era bom! Não reconhece o código de segurança.
 [low_app_2_com_74] Não presta, não funciona, não vale o tempo para baixar.
-[low_app_2_com_75] Fou ver sim fuciona Parece q e bom
+OK [low_app_2_com_75] Fou ver sim fuciona Parece q e bom
 [low_app_2_com_76] Se funcionar direito dou mais estrelas.
 [low_app_2_com_77] Sugiro unir o app irpf e pessoa física, não tem motivo de dois app. Poderiam colocar todas funcionalidades em um só.
 [low_app_2_com_78] Irritantemente limitado. Inútil! Horrivel e sem praticidade nenhuma. Não consigo ativar acesso pelo celular. O ECAC não funciona corretamente no Google Chrome. Problemas no certificado digital. Não dá pra fazer nada de básico nele. Só pelo computador mesmo.
@@ -82,14 +89,14 @@ OK [low_app_2_com_20] Lixo de Aplicativo Como a Receita libera um aplicativo que
 [low_app_2_com_82] O app não valida o código de segurança Tem outro app que posso usar?
 [low_app_2_com_83] Digito o código e dá erro 174, fica difícil assim
 [low_app_2_com_84] APP não abre
-[low_app_2_com_85] Lixo não funciona!
-[low_app_2_com_86] Odiei...Perca de tempo,não salva dados.
+OK [low_app_2_com_85] Lixo não funciona!
+OK [low_app_2_com_86] Odiei...Perca de tempo,não salva dados.
 [low_app_2_com_87] Seria ótimo e prático se não fosse as limitações impostas. Não consigo entender como um órgão público como a receita federal, não tenha programadores bons o suficiente para desenvolver um aplicativo mais completo. Eu simplesmente não consigo fazer minha declaração por ter duas fontes pagadoras.
-[low_app_2_com_88] Burocracias Demais
+OK [low_app_2_com_88] Burocracias Demais
 [low_app_2_com_89] Um mal necessário. A todo momento a sessão é encerrada. E tenho que começar novamente. Algumas vezes nem salva as informações.
 [low_app_2_com_90] Não funciona Só dá erro ao tentar transmitir a declaração, perdi meu tempo preenchendo dados e no final não envia.
 [low_app_2_com_91] Deu erro na hora de transmitir a declaração. Não gerou o recibo e consta como entregue.
-[low_app_2_com_92] Bosta Essa bosta nem abre não baixem!
+OK [low_app_2_com_92] Bosta Essa bosta nem abre não baixem!
 [low_app_2_com_93] Não funciona Sessão encerrada constantemente
 [low_app_2_com_94] Não funciona...
 [low_app_2_com_95] Não ajudou, é muito confuso precisa melhorar muito.
@@ -248,17 +255,17 @@ OK [low_app_2_com_20] Lixo de Aplicativo Como a Receita libera um aplicativo que
 [low_app_2_com_253] Péssimo Consegui usar mesmo caindo toda hora... depois que declarei o imposto... os arquivos de recibo não abrem... diz que é PDF mas parece corrompido. Agora declarei e não tenho meu número nem comprovante algum.
 [low_app_2_com_254] Travando Não ta importando a declaração de 2014 para 2015 , e trava o app. Resolvam !!!!
 [low_app_2_com_255] Uma porcaria Não abre pra fazer a declaração S5
-[low_app_2_com_256] Não reconhece os códigos
+OK [low_app_2_com_256] Não reconhece os códigos
 [low_app_2_com_257] Horrível! Imprestável...
 [low_app_2_com_258] Não funciona
-[low_app_2_com_259] Não funciona A intenção é mto boa mas o app não funciona...
+OK [low_app_2_com_259] Não funciona A intenção é mto boa mas o app não funciona...
 [low_app_2_com_260] Péssimo Consegui usar mesmo caindo toda hora... depois que declarei o imposto... os arquivos de recibo não abrem... diz que é PDF mas parece corrompido. Agora declarei e não tenho meu número nem comprovante algum.
 [low_app_2_com_262] Bom enquanto durou Fui testar o app, é mt fácil utilizar, mas ao transmitir deu erro e nao deu p continuar. O do computador tb deu pau e nao funciona +
 [low_app_2_com_261] Captcha Captcha não funciona, nao dá nem pra começar a fazer. Várias pessoas relatando mesmo erro. Terrível
-[low_app_2_com_263] Não funciona. Ta. Longe de funcionar
-[low_app_2_com_265] Não funciona
+OK [low_app_2_com_263] Não funciona. Ta. Longe de funcionar
+OK [low_app_2_com_265] Não funciona
 [low_app_2_com_264] o aplicativo perde a conexão com o sistema o tempo inteiro. Foram necessárias várias tentativas para enviar a declaração, e como a conexão voltou a cair na hora de visualizar o recibo, não consegui salva-lo também, e não apresenta opção de visualiza-lo.
-[low_app_2_com_266] Fou ver sim fuciona Parece q e bom
+[low_app_2_com_266]
 [low_app_2_com_267] Eu usava porém o acesso expirou e eu criei outra chave mais não consigo por ela pq não tem essa opção, apenas se eu por um outro cpf, pq quando informo o meu cpf ele diz que está vencido e não me dá opção de alterar.
 [low_app_2_com_268] Preenchi a primeira vez e consegui enviar, agora estou tentando retificar pois preciso acrescentar informações importantes e não consigo, apareceu um erro dizendo que protocolo de transporte desconhecido! Reinstalei o app e agora nem consigo mais acessar pois fala que a minha data de Nascimento não …Resenha completaPreenchi a primeira vez e consegui enviar, agora estou tentando retificar pois preciso acrescentar informações importantes e não consigo, apareceu um erro dizendo que protocolo de transporte desconhecido! Reinstalei o app e agora nem consigo mais acessar pois fala que a minha data de Nascimento não condiz com o cpf. Quero so ver o fim dessa história. Ai se eu nao consigo retificar. Pois agora nao tenho mais acesso ao pc.
 [low_app_2_com_269] Altamente bugado
@@ -272,12 +279,12 @@ OK [low_app_2_com_20] Lixo de Aplicativo Como a Receita libera um aplicativo que
 [low_app_2_com_277] Iprpf 2015 Estava uma maravilha depois que atualizei não funciona mais!!!
 [low_app_2_com_278] Toda hora dá erro. Não reconhece os códigos de verificação.
 [low_app_2_com_279] Não estou conseguindo finalizar minha declaração, pois estou tendo problemas com o Digito Verificador(DV). Meu banco é o banco do Brasil.
-[low_app_2_com_280] ???? Não valida o código de segurança.
+OK [low_app_2_com_280] ???? Não valida o código de segurança.
 [low_app_2_com_281] Nao salva Não salva o arquivo completo apenas o recibo e agora como faz pra baixar o restante programa não permite o acesso.
 [low_app_2_com_282] Derni Borges foi anunciado que a partir de hoje, dia 26.02, que o programa está disponível para baixar! E a partir de 01.03 é a entrega da Declaração, o programa se.pre fica disponível antes. Por isso... É natural que estejam todos reclamando!
 [low_app_2_com_283] Não gostei Não foi capaz de me identificar-
-[low_app_2_com_284] Não funciona E agora não permite desistalar completamente.
-[low_app_2_com_285] Ruim Toda vez que tento enviar a minha declaração da erro da rede
+OK [low_app_2_com_284] Não funciona E agora não permite desistalar completamente.
+OK [low_app_2_com_285] Ruim Toda vez que tento enviar a minha declaração da erro da rede
 [low_app_2_com_286] Não funciona!!!!!! Deve estar precisando de atualização no código! Não está gerando os códigos de imagens "anti-robo" então não consigo avançar.
 [low_app_2_com_287] Não consigo imprimir o recibo e a declaração. Aparece a mensagem: "Falha na impressão do MIDAS"
 [low_app_2_com_288] Ficou péssimo Após esta ultima atualização, na abre e vem a menssagem que o android parou.
@@ -290,19 +297,19 @@ OK [low_app_2_com_20] Lixo de Aplicativo Como a Receita libera um aplicativo que
 [low_app_2_com_294] Horrível Não consigo validar código de segurança
 [low_app_2_com_297] Sempre que você tenta informa seus rendimentos da erro e é mentira nao salva seus dados nada. Perdi um dia nesta droga de aplicativo tentando mandar.
 [low_app_2_com_296] Impossível acompanhar a declaração pelo aplicativo, pois a ferramenta de autenticação de dispositivo no e-CAC está sempre indisponível: "Service Temporarily Unavailable The server is temporarily unable to service your request due to maintenance downtime or capacity problems. Please try again later.…Resenha completaImpossível acompanhar a declaração pelo aplicativo, pois a ferramenta de autenticação de dispositivo no e-CAC está sempre indisponível: "Service Temporarily Unavailable The server is temporarily unable to service your request due to maintenance downtime or capacity problems. Please try again later." Já tentei realizar a autenticação diversas vezes, em diferentes dias e horários, e a mensagem de "serviço temporariamente indisponível" é exibida invariavelmente. A impossibilidade de importar dados de declarações de anos anteriores praticamente inutiliza o aplicativo. Quem vai preferir usar uma ferramenta que dá mais trabalho?
-[low_app_2_com_298] Q bosta! sempre dando erro na hora de validar o código q merdaaa
-[low_app_2_com_299] Lixo melhorem isto dai nao da para fazer nada
-[low_app_2_com_300] Não consigo usar
-[low_app_2_com_301] Péssimo.
+OK [low_app_2_com_298] Q bosta! sempre dando erro na hora de validar o código q merdaaa
+OK [low_app_2_com_299] Lixo melhorem isto dai nao da para fazer nada
+OK [low_app_2_com_300] Não consigo usar
+OK [low_app_2_com_301] Péssimo.
 [low_app_2_com_303] O prazo para entrega do IR começa amanhã, e o APP do governo está desatualizado. É Brasil, acorda, Carnaval já acobou, passou dá hora de começar o ano.
 [low_app_2_com_302] Não funciona Tem que cadastrar o dispositivo no portal eCAC, porém o serviço nunca está disponível, impossibilitando o cadastro e o acompanhamento do app
-[low_app_2_com_304] Otimo
+OK [low_app_2_com_304] Otimo #SQN
 [low_app_2_com_305] Muita bagunça e falta de informação quanto ao IR2018. Quem queria adiantar, em sua maioria não conseguiu. Muita propaganda foi feita, mas esqueceram que o sistema é operado por pessoas comuns e não por programadores de sistema.
 [low_app_2_com_306] Esses caras estão brincadeira nao consegue coloca um barra pra salva as informações .arruma outra coisa pra fazer ...
 [low_app_2_com_307] Não funciona. Depois que digita o CPF e o código da imagem de segurança, não avança.
 [low_app_2_com_308] Coloco o DV correto é ele não aceita estou com Android atualizado EA nova versão do App 4.03
-[low_app_2_com_309] Nao baixe esse app so vai ocupar memoria inutil
-[low_app_2_com_310] Parou Parou de funcionar após atualização 16.09.15!!!
+OK [low_app_2_com_309] Nao baixe esse app so vai ocupar memoria inutil
+OK [low_app_2_com_310] Parou Parou de funcionar após atualização 16.09.15!!!
 [low_app_2_com_311] Quando faço a inclusão de pagamentos código 36, não reconhece o CNPJ da instituição que contribuo de Previdência complementar. Aguardando de vcs técnicos da RFB corrigirem esse Bug.
 [low_app_2_com_312] Não funciona Não aceita o cadastro do dispositivo; sempre da erro
 [low_app_2_com_313] Horrível Todo momento dá "sessão encerrada" e não me permite concluir o processo
@@ -312,12 +319,12 @@ OK [low_app_2_com_20] Lixo de Aplicativo Como a Receita libera um aplicativo que
 [low_app_2_com_317] da erro desinstalei
 [low_app_2_com_318] Esqueci minha palavra chave, e estou tentando cadastrar outra, sigo todas as instruções ate chegar no cadastro de dispositivos moveis, mas não tem a opção que pedem no aplicativo. Uma droga isso, por que não simplificar e fazer tudo no próprio aplicativo afff 😡
 [low_app_2_com_319] Péssimo Não faça por esse programa. Vai perder tempo.
-[low_app_2_com_321] Ridículo Pq mudaram? Ano passado estava "perfeito"...
-[low_app_2_com_320] Bug Não consigo ver a declaração enviada.
+OK [low_app_2_com_321] Ridículo Pq mudaram? Ano passado estava "perfeito"...
+ok [low_app_2_com_320] Bug Não consigo ver a declaração enviada.
 [low_app_2_com_322] Péssimo APP, não funciona. Fiz o cadastro no e-cac no site e ao digitar o CPF no APP diz que não existe autorização.
-[low_app_2_com_323] Não consigo acessar minha declaração já faz alguns dias
+OK [low_app_2_com_323] Não consigo acessar minha declaração já faz alguns dias
 [low_app_2_com_246] Péssimo como de se esperar de algo vindo do governo Ao clicar para fazer rascunho, o app abre uma página externa do site da receita, com orientações para a utilização do aplicativo em questão. Permanecendo este ciclo não sendo possível o preenchimento do rascunho. o mesmo acontece com a função fazer declaração.
-[low_app_2_com_245] Não consigo colocar o cnpj da empresa que trabalho por falta de espeço, ele não aceita o número final... Não sei por que...
-[low_app_2_com_104] Não da pra usar. Não funciona
-[low_app_2_com_110] Não presta Erro I87. Não salva as informações. Não dá p/ fazer nada.
-[low_app_2_com_125] Ruim Não funciona.
+OK [low_app_2_com_245] Não consigo colocar o cnpj da empresa que trabalho por falta de espeço, ele não aceita o número final... Não sei por que...
+OK [low_app_2_com_104] Não da pra usar. Não funciona
+OK [low_app_2_com_110] Não presta Erro I87. Não salva as informações. Não dá p/ fazer nada.
+OK [low_app_2_com_125] Ruim Não funciona.
