@@ -8,7 +8,7 @@ var count = 0
 var selected = []
 
 arr = [
-
+  
 ]
 
 // SELECIONA COMENTÁRIOS COM 1 OU 2 ESTRELAS
@@ -26,10 +26,10 @@ for (var r = 0; r < selected.length; r++)
 {
   const rand = ur(0, selected.length)
   var rd = rand()
-  if (count < 369) {
+  if (count < 382) {
     count++
-    fs.appendFile("/home/paulomoraes/Projects/blue/back/dataset/low/recupera_dados.csv",
-    "[low_app_2_com_"+count+"] " + selected[rd].content + "\n",
+    fs.appendFile("/home/paulomoraes/Projects/blueway/main/dataset/high/adobe.csv",
+    "[high_app_5_com_"+count+"] " + selected[rd].content + "\n",
     function(erro) {
         if(erro) {
             throw erro;
