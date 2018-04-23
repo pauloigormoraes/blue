@@ -10,7 +10,7 @@ import time
 import numpy as np
 import csv
 
-arq = open('/home/paulomoraes/Projects/blueway/main/dataset/page/app_4/clean_master.html')
+arq = open('/home/paulomoraes/Projects/blueway/main/dataset/page/.html')
 
 def select(arr):
     a = str(arr)
@@ -52,7 +52,7 @@ def main():
             "score": score,
             "content": body
         }
-        with open('/home/paulomoraes/Projects/blueway/main/dataset/high/full_reviews/full_reviews_clean_master.csv', 'a') as r:
+        with open('/home/paulomoraes/Projects/blueway/main/dataset/high/full_reviews/.csv', 'a') as r:
             r.write(str(struct))
             r.write(',')
             r.write('\n')
