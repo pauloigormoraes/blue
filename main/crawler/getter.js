@@ -1,5 +1,5 @@
 // Aqui são coletados a lista de aplicativos.
-// A API Google Play Scraper coleta 120 aplicativos a cada requisão e nós coletamos 500.
+// A API Google Play Scraper coleta 100 aplicativos a cada requisão e nós coletamos 500.
 
 var app = require('google-play-scraper');
 var fs = require('fs');
@@ -11,8 +11,8 @@ app.list({
     collection: app.collection.TOP_FREE,
     lang: 'pt',
     country: 'br',
-    num: 120,
-    start: 482
+    num: 100,
+    start: 501
   }).then(function(data) {
     arr_result = data;
   });
@@ -25,7 +25,7 @@ sleep(5000).then(() => {
   try {
     for (var r = 0; r < arr_result.length; r++)
     {
-      fs.appendFile("C:/Projects/blueway/main/dataset/list_apps.csv", JSON.stringify(arr_result[r]) + ",",
+      fs.appendFile("C:/Projects/blueway/main/dataset/list_apps.csv", JSON.stringify(arr_result[r]) + ", \n",
       function(erro) {
           if(erro) {
               throw erro;
