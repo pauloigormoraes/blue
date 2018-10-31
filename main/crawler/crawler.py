@@ -3,52 +3,26 @@ import urllib
 import urllib.request as ur
 import json
 import codecs
-from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup as bs
 import re
 import requests
 import time
 import numpy as np
 import csv
 
-# i_file = open('/home/paulomoraes/Projects/blueway/back/dataset/apps_filters_less.csv', 'r')
-# data = i_file.read().strip().split('\n')
-# ids = []
-# for row in data:
-#     aux = row.split('=')
-#     ids.append(aux[1])
-# https://play.google.com/store/apps/details?id=com.knoozapps.thumbnaildownloader
-url = "https://play.google.com/store/getreviews"
-
-arq = open('/home/paulomoraes/Projects/blueway/back/dataset/web-pages/less/app_1/test.html')
-
-options = {
-    "reviewType": "0",
-    "pageNum": "5",
-    "lang": "pt",
-    "id": "com.weberdo.apps.serviceinfo",
-    "reviewSortOrder": "2",
-    "xhr": "1"
-}
-
-def loading(page):
-    options["pageNum"] = str(page)
-    data = urllib.parse.urlencode(options).encode("utf-8")
-    req = ur.Request(url, data)
-    response = ur.urlopen(req)
-    jdata = response.read()
-    page = json.loads(jdata[6:])
-    try:
-        review = page[0][2]
-        return (review)
-    except IndexError:
-        return None
+arq = open('C:/Projects/blueway/main/dataset/apps_high_pages/high_app_5.html', encoding="utf8")
 
 def select(arr):
-  _str = arr.split( )
-  for r in _str:
-      if _str.index(r) == 3:
-        num = r
-  return int(num)
+    a = str(arr)
+    _str = a.split(' ')
+    for r in _str:
+        if _str.index(r) == 3:
+            num = r
+    return int(num)
+
+def clean_string(name):
+    nm = ' '.join(name.split())
+    return nm
 
 def configure(arr):
     x = arr.split( )
@@ -60,46 +34,38 @@ def configure(arr):
     return new_str
 
 def main():
-    page = 0
-    sysenc = sys.stdout.encoding
-    reviews = []
-    # while True:
-    for i in range(0, 1):
-        review = loading(page)
-        if review is None:
-            break
-        if sysenc == 'cp949':
-            review = codecs.encode(review, sysenc, 'ignore')
-        soup = BeautifulSoup(review, 'html.parser')
-        data = list(soup.children)[1]
-        header = data.find(class_='review-header')
-        auxs = header.find(class_='star-rating-non-editable-container')
-        username = header.find(class_='author-name').get_text()
-        date = header.find(class_='review-date').get_text()
-        score = select(auxs['aria-label'])
-        auxb = data.find(class_='review-body').get_text()
-        body = configure(auxb)
+    soup = bs(arq, 'html.parser')
+    data = soup.find_all(jscontroller='H6eOGe')
+
+    for i in range(0, len(data)):
+        auxb = data[i].find(class_='UD7Dzf').get_text()
+        header = data[i].find(class_='zc7KVe')
+        username = clean_string(header.find(class_='X43Kjb').get_text())
+        date = clean_string(header.find(class_='p2TkOb').get_text())
+        auxs = header.find(class_='pf5lIe')
+        score = select(auxs.find(role='img'))
+        body = clean_string(auxb)
+
         struct = {
-        "author": username,
-        "date": date,
-        "score": score,
-        "content": body
+            "author": username,
+            "date": date,
+            "score": score,
+            "content": body
         }
-        reviews.append(struct)
-        with open('/home/paulomoraes/Projects/blueway/back/dataset/full_reviews_more.csv', 'a') as r:
+
+        with open('C:/Projects/blueway/main/dataset/full_reviews/high/app_5.csv', 'a', encoding="utf8") as r:
             r.write(str(struct))
             r.write(',')
             r.write('\n')
             r.close
-        with open('/home/paulomoraes/Projects/blueway/back/dataset/reviews.csv', 'a', newline='') as csvfile:
-            spamwriter = csv.writer(csvfile, delimiter=' ')
-            # spamwriter.writerow([''])
-            spamwriter.writerow([body])
-        print("get::review:::",page+1)
-        page += 1
+
+        # file = csv.writer(open("C:/Projects/blueway/main/dataset/full_reviews/low/low_app_one.csv", "a", encoding="utf8"))
+        # file.writerow([str(username),str(date),str(score),str(body)])
+
+        print("get:::review:::",i+1)
 
     print()
-    print("::::: FILES SAVE :::::")
+    print("::::: REVIEWS SAVED :::::")
     print()
 
 if __name__ == "__main__":

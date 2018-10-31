@@ -1,5 +1,5 @@
 # session = MarketSession()
-# session.login("pauloigormoraes@gmail.com", "amorepaz94")
+# session.login("pauloigormoraes@gmail.com", "password")
 
 
 import time, sys
