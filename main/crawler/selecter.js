@@ -28,7 +28,7 @@ function selection(arr)
   }
 
   // Aqui pegos as primeiras X posições do array desordenado
-  for (var r = 0; r < 351; r++) {
+  for (var r = 0; r < 355; r++) {
     arr_limit.push(arr_id_unsorted[r])
   }
 
@@ -36,10 +36,12 @@ function selection(arr)
     for (var p = 0; p < arr_low_score.length; p++) {
       if(arr_limit[r] == p) {
         tmp = r
+        fs.appendFile("C:/Projects/blueway/main/dataset/raw_data/raw_high.csv",
+        "'"+arr_low_score[arr_limit[r]].content + "'\n",
         // fs.appendFile("C:/Projects/blueway/main/dataset/raw_data/low_reviews.csv",
-        // "[low_app_4_com_"+(tmp++)+"] " + arr_low_score[arr_limit[r]].content + "\n",
-        fs.appendFile("C:/Projects/blueway/main/dataset/raw_data/high_reviews.csv",
-        "[high_app_5_com_"+(tmp++)+"] " + arr_low_score[arr_limit[r]].content + "\n",
+        // "[low_app_3_com_"+(tmp++)+"] " + arr_low_score[arr_limit[r]].content + "\n",
+        // fs.appendFile("C:/Projects/blueway/main/dataset/raw_data/high_reviews.csv",
+        // "[high_app_5_com_"+(tmp++)+"] " + arr_low_score[arr_limit[r]].content + "\n",
         function(erro) {
             if(erro) {
                 throw erro;
